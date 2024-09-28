@@ -5,11 +5,12 @@ from helloworld.common.create_objects import create_button
 
 
 class StartPage:
-    def __init__(self, main_window):
+    def __init__(self, main_window, path):
         self.main_window = main_window
+        self.path = path
 
     def startup(self):
-        import helloworld.features.actions as actions
+        import helloworld.common.actions as actions
 
         main_box = toga.Box(style=Pack(direction=COLUMN))
 
