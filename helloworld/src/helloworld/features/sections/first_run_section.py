@@ -20,8 +20,9 @@ class FirstRunSection:
 
         csv_path = os.path.join(storage_dir, 'user_data.csv')
 
-        for i in range(len(values)):
-            values[i] = values[i].value
+        if not all(isinstance(value, str) for value in values):
+            for i in range(len(values)):
+                values[i] = values[i].value
 
         # Check if the file exists, and if not, create it with headers
         if not os.path.exists(csv_path):
@@ -29,7 +30,7 @@ class FirstRunSection:
                 writer = csv.writer(file)
                 writer.writerows(self.user_data)
         else:
-            with open(self.path, mode='r', newline='') as file:
+            with open(csv_path, mode='r', newline='') as file:
                 reader = csv.reader(file)
                 existing_data = list(reader)
 
@@ -37,9 +38,15 @@ class FirstRunSection:
                 existing_data[0].append(headers[i])
                 existing_data[1].append(str(values[i]))
 
-            with open(self.path, mode='w', newline='') as file:
+            with open(csv_path, mode='w', newline='') as file:
                 writer = csv.writer(file)
                 writer.writerows(existing_data)
 
-        if self.next_page == 'user_gear':
-            actions.go_to_first_run_user_gear_page(widget=widget)
+        if self.next_page == 'user_place':
+            actions.go_to_first_run_user_place_page(widget=widget)
+        elif self.next_page == 'user_gear':
+            actions.go_to_user_gear_page(widget=widget)
+        elif self.next_page == 'user_goal':
+            actions.go_to_user_goal_page(widget=widget)
+
+

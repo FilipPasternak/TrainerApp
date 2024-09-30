@@ -8,50 +8,50 @@ class FirstRunUserDataPage(FirstRunSection):
         super().__init__(path)
         self.main_window = main_window
         self.user_data = None
-        self.next_page = 'user_gear'
+        self.next_page = 'user_place'
         self.path = path
 
     def startup(self):
-        user_data_box = toga.Box(style=Pack(direction='column'))
-        create_label(box=user_data_box,
+        main_box = toga.Box(style=Pack(direction='column'))
+        create_label(box=main_box,
                      text='Your name',
                      style=Pack(direction='row', padding=5))
-        name_input = create_text_box(box=user_data_box,
+        name_input = create_text_box(box=main_box,
                                      style=Pack(direction='row', padding=5))
 
-        create_label(box=user_data_box,
+        create_label(box=main_box,
                      text='Your sex',
                      style=Pack(direction='row', padding=5))
-        sex_input = create_text_box(box=user_data_box,
+        sex_input = create_text_box(box=main_box,
                                     style=Pack(direction='row', padding=5))
 
-        create_label(box=user_data_box,
+        create_label(box=main_box,
                      text='Your age',
                      style=Pack(direction='row', padding=5))
-        age_input = create_text_box(box=user_data_box,
+        age_input = create_text_box(box=main_box,
                                     style=Pack(direction='row', padding=5))
 
-        create_label(box=user_data_box,
+        create_label(box=main_box,
                      text='Your weight',
                      style=Pack(direction='row', padding=5))
-        weight_input = create_text_box(box=user_data_box,
+        weight_input = create_text_box(box=main_box,
                                        style=Pack(direction='row', padding=5))
 
-        create_label(box=user_data_box,
+        create_label(box=main_box,
                      text='Your height',
                      style=Pack(direction='row', padding=5))
-        height_input = create_text_box(box=user_data_box,
+        height_input = create_text_box(box=main_box,
                                        style=Pack(direction='row', padding=5))
 
         self.user_data = [['Name', 'Sex', 'age', 'Weight', 'Height'],
                           [name_input, sex_input, age_input, weight_input, height_input]]
 
-        create_button(box=user_data_box,
+        create_button(box=main_box,
                       action=self.save_user_data_and_proceed,
                       label='Next',
                       style=Pack(direction='row', padding=5))
 
-        self.main_window.content = user_data_box
+        self.main_window.content = main_box
         self.main_window.show()
 
 

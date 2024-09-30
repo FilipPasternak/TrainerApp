@@ -12,3 +12,8 @@ def create_text_box(box, style):
 
 def create_label(box, text, style) -> None:
     box.add(toga.Label(text=text, style=style))
+
+def create_switch(box, action, label, style) -> None:
+    sw = toga.Switch(text=label, on_change=action, style=style)
+    box.add(sw)
+    return sw
