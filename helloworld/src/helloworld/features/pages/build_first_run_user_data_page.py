@@ -43,8 +43,8 @@ class FirstRunUserDataPage(FirstRunSection):
         height_input = create_text_box(box=main_box,
                                        style=Pack(direction='row', padding=5))
 
-        self.user_data = [['Name', 'Sex', 'age', 'Weight', 'Height'],
-                          [name_input, sex_input, age_input, weight_input, height_input]]
+        self.user_data = [['Name', 'Sex', 'age', 'Weight', 'Height', 'User_gear'],
+                          [name_input, sex_input, age_input, weight_input, height_input, '[]']]
 
         create_button(box=main_box,
                       action=self.save_user_data_and_proceed,

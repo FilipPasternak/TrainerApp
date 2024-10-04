@@ -6,6 +6,7 @@ class UserGoalPage:
     def __init__(self, main_window, path):
         self.main_window = main_window
         self.path = path
+        self.next_page = 'dev_page'
 
     def startup(self):
         import helloworld.common.actions as actions
@@ -15,7 +16,7 @@ class UserGoalPage:
         create_label(box=main_box, text='Nothing here yet', style=Pack(padding=5))
 
         create_button(box=main_box,
-                      action=actions.go_to_start_page,
+                      action=actions.go_to_dev_page,
                       label='Next',
                       style=Pack(padding=5))
 

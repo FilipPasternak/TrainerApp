@@ -19,9 +19,10 @@ class FirstRunSection:
             os.makedirs(storage_dir)
 
         csv_path = os.path.join(storage_dir, 'user_data.csv')
-
-        if not all(isinstance(value, str) for value in values):
-            for i in range(len(values)):
+        for i in range(len(values)):
+            if isinstance(values[i], str) or isinstance(values[i], list):
+                values[i] = str(values[i])
+            else:
                 values[i] = values[i].value
 
         # Check if the file exists, and if not, create it with headers
@@ -35,8 +36,14 @@ class FirstRunSection:
                 existing_data = list(reader)
 
             for i in range(len(headers)):
-                existing_data[0].append(headers[i])
-                existing_data[1].append(str(values[i]))
+                if headers[i] not in existing_data[0]:
+                    # print('not in kurwa jego mac', headers[i], existing_data[0])
+                    existing_data[0].append(headers[i])
+                    existing_data[1].append(str(values[i]))
+                else:
+                    # print('in', existing_data[0].index(headers[i]), existing_data[1][existing_data[0].index(headers[i])],str(values[i]))
+                    existing_header_index = existing_data[0].index(headers[i])
+                    existing_data[1][existing_header_index] = str(values[i])
 
             with open(csv_path, mode='w', newline='') as file:
                 writer = csv.writer(file)
@@ -48,5 +55,7 @@ class FirstRunSection:
             actions.go_to_user_gear_page(widget=widget)
         elif self.next_page == 'user_goal':
             actions.go_to_user_goal_page(widget=widget)
+        elif self.next_page == 'dev_page':
+            actions.go_to_dev_page(widget=widget)
 
 

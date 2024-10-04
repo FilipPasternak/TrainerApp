@@ -7,9 +7,12 @@ from toga.style import Pack
 from toga.style.pack import COLUMN, ROW
 from helloworld.features.pages.build_start_page import StartPage
 from helloworld.features.pages.build_first_run_user_data_page import FirstRunUserDataPage
+from helloworld.features.pages.dev_page import DevPage
+
 
 import os
 
+dev_mode = True
 
 class HelloWorld(toga.App):
     def startup(self):
@@ -23,12 +26,16 @@ class HelloWorld(toga.App):
         file_path = os.path.join(self.paths.app, 'storage', 'user_data.csv')
         self.main_window = toga.MainWindow(title=self.formal_name)
 
-        if os.path.isfile(file_path):
-            start_page = StartPage(self.main_window, self.paths.app)
-            start_page.startup()
+        if dev_mode:
+            dev = DevPage(self.main_window, self.paths.app)
+            dev.startup()
         else:
-            first_run_page = FirstRunUserDataPage(self.main_window, self.paths.app)
-            first_run_page.startup()
+            if os.path.isfile(file_path):
+                start_page = StartPage(self.main_window, self.paths.app)
+                start_page.startup()
+            else:
+                first_run_page = FirstRunUserDataPage(self.main_window, self.paths.app)
+                first_run_page.startup()
 
 
 def main():
