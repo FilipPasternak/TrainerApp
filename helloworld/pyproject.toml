@@ -21,7 +21,10 @@ test_sources = [
 ]
 
 requires = [
-]
+    "openai < 1.40",
+    "pydantic < 2",
+    ]
+
 test_requires = [
     "pytest",
 ]

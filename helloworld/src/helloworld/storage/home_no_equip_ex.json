@@ -1,0 +1,1916 @@
+{
+    "At home without equipment": {
+        "Leg day": {
+            "Squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet shoulder-width apart, toes slightly turned out, and arms extended forward for balance. Lower your body by bending your knees and hips, keeping your chest up and back straight, until your thighs are parallel to the ground. Push through your heels to return to the starting position, focusing on engaging your quadriceps, hamstrings, and glutes. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Lunges": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand upright with feet hip-width apart, then step forward with one leg, lowering your hips until both knees are bent at about a 90-degree angle, ensuring the front knee is directly above the ankle. Push through the heel of the front foot to return to the starting position, keeping your core engaged and back straight throughout the movement. Focus on maintaining balance and control to effectively target the quadriceps, hamstrings, and glutes. \n\nDescription",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Glute bridges": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with knees bent and feet flat on the floor, hip-width apart. Engage your core and squeeze your glutes to lift your hips toward the ceiling until your body forms a straight line from shoulders to knees, then lower back down. Focus on engaging the glutes and hamstrings throughout the movement, ensuring your back remains neutral. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Glutes, Hamstrings, Core"
+            },
+            "Calf raises": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with your feet hip-width apart and your hands on your hips or by your sides for balance. Slowly lift your heels off the ground, rising onto the balls of your feet, and hold the position briefly before lowering back down. Focus on engaging your calf muscles throughout the movement for optimal results. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Calves"
+            },
+            "Step-ups": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by standing upright in front of a sturdy platform or step, feet hip-width apart. Step one foot onto the platform, pressing through the heel to lift your body up, bringing the other foot to meet it. Step back down with the same foot, maintaining control and balance, and repeat on the opposite side. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Calves"
+            },
+            "Wall sits": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with your back against a wall, feet shoulder-width apart and about two feet from the wall. Slide down the wall until your knees are at a 90-degree angle, ensuring your knees are directly above your ankles. Hold this position, keeping your core engaged and back flat against the wall. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Bulgarian split squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand a few feet in front of a bench, extend one leg back, and place the top of your foot on the bench. Lower your hips by bending your front knee until your thigh is parallel to the ground, keeping your chest upright, then push through your front heel to return to the starting position. Focus on maintaining balance and engaging your quadriceps, glutes, and hamstrings. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Glutes, Hamstrings"
+            },
+            "Donkey kicks": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin on all fours with hands under shoulders and knees under hips. Keeping your knee bent at 90 degrees, lift one leg towards the ceiling, engaging your glutes and core, then lower back to starting position without touching the ground. Ensure your back remains straight and avoid arching to maximize glute activation. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Glutes, Core"
+            },
+            "Fire hydrants": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin on all fours with hands under shoulders and knees under hips. Keeping the knee bent at 90 degrees, lift one leg out to the side until thigh is parallel to the ground, then lower back to start. Focus on engaging the glutes and core throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Hip Abductors, Core"
+            },
+            "Mountain climbers": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Quickly drive your knees alternately towards your chest, maintaining a brisk pace while keeping your core engaged and hips low. Focus on maintaining proper form to target the core, shoulders, and legs effectively. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Core, Shoulders, Legs"
+            },
+            "Pistol squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand on one leg with the other leg extended forward, keeping your chest up and core engaged. Lower your body into a squat by bending the standing knee, ensuring the extended leg remains straight and off the ground, then push through the heel to return to standing. Focus on balance and control to target the quadriceps, glutes, and core. ",
+                "Intensity": "8",
+                "Difficulty": "8",
+                "Muscles": "Quadriceps, Glutes, Core"
+            },
+            "Jump squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, arms at your sides. Lower into a squat by bending your knees and pushing your hips back, then explosively jump upwards, extending your arms overhead. Land softly back into the squat position, ensuring your knees are aligned with your toes to engage the quadriceps, glutes, and calves effectively. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Glutes, Calves"
+            },
+            "Curtsy lunges": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand upright with feet hip-width apart, hands on hips or clasped in front of your chest. Step your right leg diagonally behind your left leg, bending both knees to lower your body into a lunge, ensuring your front knee aligns with your ankle. Push through your front heel to return to the starting position and repeat on the other side, focusing on engaging your glutes and inner thighs. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Quadriceps, Inner Thighs"
+            },
+            "Reverse lunges": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand upright with feet hip-width apart, then step one foot back, lowering your hips until both knees are bent at a 90-degree angle, ensuring the front knee is directly above the ankle. Push through the heel of the front foot to return to the starting position, keeping your torso upright and core engaged throughout the movement. Focus on maintaining balance and control to effectively target the glutes, quadriceps, and hamstrings. \n\nDescription",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Quadriceps, Hamstrings"
+            },
+            "Side lunges": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin standing with feet hip-width apart, then take a wide step to the side with your right foot, bending your right knee while keeping your left leg straight. Lower your hips back and down, ensuring your right knee stays aligned with your right foot, then push through your right heel to return to the starting position. Focus on engaging your glutes, quads, and inner thighs throughout the movement. \n\nDescription",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Quads, Inner Thighs"
+            },
+            "Plie squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet wider than shoulder-width apart, toes pointing outwards. Lower your body by bending your knees and pushing your hips back, keeping your chest upright and core engaged. Return to the starting position by pressing through your heels, focusing on the inner thighs and glutes. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Glutes, Inner Thighs"
+            },
+            "Sumo squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet wider than shoulder-width apart, toes pointing slightly outward. Lower your hips back and down, keeping your chest up and knees aligned with your toes, until your thighs are parallel to the ground. Push through your heels to return to the starting position, focusing on engaging your glutes and inner thighs. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Inner Thighs, Quadriceps"
+            },
+            "High knees": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand tall with feet hip-width apart. Quickly drive one knee towards your chest, alternating legs in a rapid, running motion while pumping your arms. Focus on maintaining an upright posture and engaging your core throughout the movement. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 3 ",
+                "Muscles": " Quadriceps, Hamstrings, Glutes, Calves, Core"
+            },
+            "Butt kicks": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand tall with feet hip-width apart, arms relaxed at your sides. Begin jogging in place, bringing your heels up towards your glutes with each step, ensuring your knees point downward. Focus on maintaining a quick pace and engaging your hamstrings and glutes throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Hamstrings, Glutes"
+            },
+            "Skater jumps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet hip-width apart. Leap laterally to the right, landing on your right foot while bringing your left foot behind your right ankle, and swing your arms for momentum. Repeat the motion to the left side, focusing on maintaining balance and engaging your core and glutes throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Glutes, Quadriceps, Core"
+            },
+            "Box jumps": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet shoulder-width apart in front of a sturdy box or platform. Bend your knees slightly, swing your arms, and explosively jump onto the box, landing softly with knees slightly bent. Step back down carefully and repeat, focusing on engaging your core and leg muscles. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Glutes, Calves, Core"
+            },
+            "Frog jumps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a squat position with feet shoulder-width apart, toes slightly turned out, and hands on the ground between your legs. Explosively jump forward, extending your legs and swinging your arms forward for momentum, landing softly back into the squat position. Focus on engaging your quadriceps, glutes, and calves throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Glutes, Calves"
+            },
+            "Single-leg deadlifts": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand upright with feet hip-width apart, shift weight onto one leg, and hinge at the hips while extending the opposite leg straight back, keeping your back flat and core engaged. Lower your torso until it's parallel to the ground, then return to the starting position by driving through the heel of the standing leg. Focus on maintaining balance and control throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Hamstrings, Glutes, Core"
+            },
+            "Bear crawls": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a tabletop position with hands under shoulders and knees under hips, lifting knees slightly off the ground. Move forward by simultaneously stepping your right hand and left foot, then your left hand and right foot, keeping your back flat and core engaged. Focus on maintaining a steady pace and controlled movements to engage the shoulders, core, and legs effectively. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Shoulders, Core, Quadriceps"
+            },
+            "Squat jumps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, arms at your sides. Lower into a squat by bending your knees and pushing your hips back, keeping your chest up and core engaged. Explosively jump upwards, extending your arms overhead, and land softly back into the squat position to repeat. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Calves"
+            },
+            "Jumping lunges": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet hip-width apart, then step forward into a lunge, ensuring your front knee aligns over your ankle. Explosively jump, switching legs mid-air, and land softly in a lunge with the opposite leg forward, maintaining a straight torso and engaged core throughout. Focus on balance and control to effectively target the quadriceps, hamstrings, and glutes. \n\nDescription",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Side leg lifts": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by lying on your side with legs extended and stacked, supporting your head with your lower arm. Engage your core and lift the top leg upwards, keeping it straight and aligned with your body, then slowly lower it back down without touching the bottom leg. Focus on controlled movements to target the outer thighs and hip abductors. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Outer thighs, hip abductors"
+            },
+            "Walking lunges": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin standing with feet hip-width apart, hands on hips or at your sides. Step forward with one leg, lowering your hips until both knees are bent at a 90-degree angle, ensuring the front knee is directly above the ankle. Push through the front heel to rise and step forward with the opposite leg, maintaining a straight torso and engaged core throughout. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Glutes, Calves"
+            },
+            "Side step squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin standing with feet hip-width apart, hands clasped in front of your chest. Step your right foot out to the side, lowering into a squat by bending your knees and pushing your hips back, ensuring your knees align with your toes. Return to the starting position by stepping your right foot back in, then repeat on the left side, focusing on engaging your glutes and thighs throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Quadriceps, Hamstrings"
+            },
+            "Inchworms": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin standing with feet hip-width apart, then hinge at the hips to place your hands on the floor in front of you. Walk your hands forward into a plank position, ensuring your body forms a straight line from head to heels, then walk your feet forward to meet your hands. Focus on engaging your core and maintaining a neutral spine throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Core, Shoulders, Hamstrings"
+            },
+            "Crab walks": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a seated position with your feet flat on the ground and hands behind you, fingers pointing forward. Lift your hips off the ground, keeping your core engaged, and walk sideways by moving your opposite hand and foot simultaneously. Focus on maintaining a stable torso and activating your glutes and shoulders throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Shoulders, Core"
+            },
+            "Wall sit leg lifts": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with your back against a wall and slide down into a squat position with thighs parallel to the ground, knees over ankles. Lift one leg straight out in front of you, hold for a moment, then lower it back down and switch legs, maintaining the squat position throughout. Focus on engaging your core and quadriceps while keeping your back flat against the wall. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Hamstrings, Glutes, Core"
+            },
+            "Single-leg squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand on one leg with the other leg extended forward, keeping your chest up and core engaged. Lower your hips back and down as if sitting into a chair, ensuring your knee stays aligned with your toes, then push through your heel to return to standing. Focus on balance and control to target the quadriceps, hamstrings, and glutes effectively. ",
+                "Intensity": "7",
+                "Difficulty": "7",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Pop squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin standing with feet shoulder-width apart, arms at your sides. Lower into a squat by bending your knees and pushing your hips back, then explosively jump up, bringing your feet together in mid-air. Land softly back into a squat position, focusing on engaging your core and keeping your chest lifted throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Calves"
+            },
+            "Jumping jacks": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand upright with feet together and arms at your sides. Jump while spreading your legs shoulder-width apart and simultaneously raising your arms overhead. Return to the starting position by jumping again, bringing your feet together and lowering your arms. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Cardiovascular system, calves, deltoids, glutes, quadriceps."
+            },
+            "Plank leg lifts": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground and body in a straight line from head to heels. Engage your core and glutes, then slowly lift one leg towards the ceiling without bending the knee, hold briefly, and lower it back down before switching to the other leg. Focus on maintaining a stable torso and avoid arching your back. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Reverse plank leg lifts": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a reverse plank position with your hands shoulder-width apart, fingers pointing towards your feet, and your body forming a straight line from head to heels. Engage your core and glutes, then lift one leg towards the ceiling while maintaining a stable torso, hold briefly, and return to the starting position before switching legs. Focus on keeping your hips elevated and your body aligned throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, glutes, hamstrings, shoulders"
+            },
+            "Side plank leg lifts": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position with your body in a straight line, supporting yourself on one forearm and the side of your foot. Engage your core and lift your top leg as high as possible while maintaining balance, then lower it back down with control. Focus on keeping your hips elevated and your body aligned throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Obliques, Glutes, Hip Abductors"
+            },
+            "Plank jacks": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Jump your feet out to the sides, wider than hip-width apart, then jump them back together, maintaining a tight core and stable upper body throughout the movement. Focus on engaging your core and glutes to prevent your hips from sagging or lifting too high. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Core, shoulders, glutes, and legs"
+            },
+            "Side plank dips": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position with your elbow directly under your shoulder and your feet stacked. Lower your hip towards the ground without touching it, then lift back to the starting position, engaging your obliques throughout the movement. Maintain a straight line from head to heels and avoid letting your hips sag. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Obliques, shoulders, and core."
+            },
+            "Russian twists": {
+                "Equipment": "Bodyweight",
+                "Description": "Sit on the floor with your knees bent and feet flat, leaning back slightly to engage your core. Clasp your hands together and twist your torso to the right, then to the left, keeping your core tight and back straight throughout the movement. Focus on controlled movements to effectively target the obliques and avoid straining your lower back. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Obliques, Rectus Abdominis"
+            },
+            "Flutter kicks": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with your hands under your glutes for support, legs extended. Lift your heels about 6 inches off the ground, keeping your core engaged, and alternate kicking your legs up and down in a fluttering motion without letting them touch the floor. Focus on maintaining a steady pace and keeping your lower back pressed into the ground to engage the core effectively. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Core, Hip Flexors"
+            },
+            "Scissor kicks": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with your hands under your glutes for support, legs extended. Lift both legs off the ground slightly, then alternate crossing one leg over the other in a scissor-like motion, keeping your core engaged and lower back pressed into the floor. Focus on controlled movements to effectively target the lower abs and hip flexors. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Lower abs, hip flexors"
+            },
+            "Plank toe taps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with your body in a straight line from head to heels, elbows directly under shoulders. While maintaining a stable core, lift one foot off the ground and tap it out to the side, then return it to the starting position and repeat with the other foot. Focus on engaging your core and glutes to prevent hips from sagging or rotating. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Leg circles": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by lying on your back with your arms at your sides and legs extended. Lift one leg towards the ceiling, keeping it straight, and draw a circle in the air with your foot, engaging your core to stabilize your hips. Reverse the direction after a set number of circles, focusing on controlled movements to target the hip flexors and lower abdominal muscles. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Hip flexors, lower abdominals, quadriceps"
+            },
+            "Leg extensions": {
+                "Equipment": "Bodyweight",
+                "Description": "Sit on a sturdy chair with your back straight and feet flat on the floor. Extend one leg forward until it is parallel to the ground, keeping your foot flexed, then slowly lower it back down. Focus on engaging your quadriceps throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Quadriceps"
+            },
+            "Leg curls": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by lying face down on a mat with your legs extended and arms at your sides. Bend your knees to bring your heels toward your glutes, squeezing your hamstrings at the top of the movement, then slowly lower back to the starting position. Focus on controlled movements to effectively engage the hamstrings without using momentum. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Hamstrings, Glutes"
+            },
+            "Heel touches": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with knees bent and feet flat on the floor, arms at your sides. Engage your core and lift your shoulders slightly off the ground, reaching your right hand toward your right heel, then switch to the left side, alternating sides in a controlled manner. Focus on maintaining a steady breathing pattern and keeping your core engaged throughout the movement to effectively target the obliques. \n\nDescription",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Obliques, Core"
+            },
+            "Side leg raises": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by lying on your side with legs extended and stacked, supporting your head with your lower arm. Lift the top leg upwards while keeping it straight, then slowly lower it back down without letting it touch the bottom leg. Focus on engaging the outer thigh and hip muscles throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Gluteus medius, hip abductors"
+            },
+            "Side leg circles": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by lying on your side with your legs extended and stacked, supporting your head with your lower arm. Lift your top leg slightly and draw small circles in the air, keeping your core engaged and hips stable. Focus on controlled movements to target the hip abductors and obliques. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Hip abductors, obliques"
+            },
+            "Bridge marches": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by lying on your back with knees bent and feet flat on the floor, hip-width apart. Lift your hips to form a straight line from shoulders to knees, then alternate lifting each knee towards your chest while maintaining the bridge position. Focus on engaging your glutes and core throughout the movement to ensure stability and proper form. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Core, Hamstrings"
+            },
+            "Bridge pulses": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with knees bent and feet flat on the floor, hip-width apart. Lift your hips towards the ceiling, forming a straight line from shoulders to knees, and pulse your hips up and down in small, controlled movements. Focus on engaging your glutes and core throughout the exercise. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Glutes, Core"
+            },
+            "Bridge hold": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with knees bent and feet flat on the floor, hip-width apart. Engage your core and glutes, then lift your hips towards the ceiling, forming a straight line from shoulders to knees, and hold the position while maintaining tension in your glutes and core. Ensure your shoulders remain relaxed on the ground and avoid overarching your lower back. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Glutes, Core, Hamstrings"
+            },
+            "Wall sit with leg lifts": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with your back against a wall and slide down into a squat position with thighs parallel to the ground, knees over ankles. Lift one leg straight out in front of you, hold briefly, then switch legs, maintaining the squat position throughout. Focus on engaging your quadriceps, hamstrings, and core for stability. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Hamstrings, Core"
+            },
+            "Wall sit with leg pulses": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with your back against a wall, feet shoulder-width apart, and slide down until your thighs are parallel to the ground, forming a 90-degree angle at the knees. Hold this position and perform small, controlled pulses by slightly raising and lowering your body, focusing on engaging the quadriceps and glutes. Ensure your back remains flat against the wall and your knees stay aligned over your ankles. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Glutes, Hamstrings"
+            },
+            "Wall sit with knee drives": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with your back against a wall and slide down into a squat position with thighs parallel to the ground, knees over ankles. Drive one knee towards your chest while maintaining the squat position, then return to the starting position and repeat with the other knee. Focus on engaging your core and quadriceps throughout the movement. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Quadriceps, Core, Glutes"
+            },
+            "Pulse squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet shoulder-width apart, toes slightly pointed out, and lower into a squat position with thighs parallel to the ground. From this position, perform small, controlled pulses by moving up and down a few inches, keeping the core engaged and chest lifted. Focus on maintaining tension in the quadriceps and glutes throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Glutes, Hamstrings"
+            },
+            "Pulse lunges": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a lunge position with one foot forward and the other back, both knees bent at 90 degrees. Lower your back knee towards the ground in a controlled manner, then pulse up and down slightly without fully standing up, maintaining tension in your legs. Focus on engaging your quadriceps, hamstrings, and glutes throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Pulse sumo squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet wider than shoulder-width apart, toes pointing slightly outward. Lower into a squat position, keeping your chest up and knees aligned with your toes, then pulse up and down slightly without fully standing up. Focus on engaging your glutes, quadriceps, and inner thighs throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Quadriceps, Inner Thighs"
+            },
+            "Pulse plie squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet wider than shoulder-width apart, toes pointing slightly outward. Lower into a squat position, keeping your back straight and chest up, then perform small, controlled pulses by moving up and down a few inches. Focus on engaging your inner thighs, quadriceps, and glutes throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Inner thighs, quadriceps, glutes"
+            },
+            "Pulse jump squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, lower into a squat ensuring knees do not extend past toes, and pulse up and down slightly. Propel yourself into a jump, landing softly back into the squat position to repeat. Focus on engaging the quadriceps, hamstrings, and glutes throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Pulse jump lunges": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a lunge position with one foot forward, knee bent at 90 degrees, and the other leg extended back. Perform a small pulse by lowering your back knee slightly, then explosively jump to switch legs in mid-air, landing softly in the opposite lunge position. Focus on maintaining balance and engaging your core throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Quadriceps, Hamstrings, Glutes, Calves"
+            },
+            "Pulse squat jumps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, lower into a squat by bending your knees and pushing your hips back, ensuring your knees don't extend past your toes. Perform a small pulse at the bottom of the squat, then explosively jump upwards, landing softly back into the squat position to repeat. Focus on engaging your quadriceps, hamstrings, and glutes throughout the movement. \n\nDescription",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Single-leg bridges": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with one knee bent and the other leg extended straight. Press through the heel of the bent leg to lift your hips off the ground, keeping your extended leg in line with your torso, and squeeze your glutes at the top. Lower your hips back down without touching the ground and repeat, focusing on engaging your core and glutes throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Hamstrings, Core"
+            },
+            "Clamshells": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your side with knees bent at a 45-degree angle, stacking your hips and shoulders. Keeping feet together, lift the top knee as high as possible without rotating your pelvis, then slowly lower it back. Focus on engaging the glutes and hip abductors throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Glutes, Hip Abductors"
+            },
+            "Squat hold": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet shoulder-width apart, toes slightly pointed out, and lower your hips back and down as if sitting into a chair, keeping your chest up and core engaged. Hold the position with thighs parallel to the ground, ensuring knees are aligned over toes and weight is distributed evenly across your feet. Focus on maintaining a straight back and steady breathing throughout the hold. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Core"
+            },
+            "Lunge hold": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet hip-width apart. Step one foot forward into a lunge, ensuring the front knee is aligned over the ankle and the back knee hovers just above the ground. Hold this position, engaging the core and keeping the torso upright, to target the quadriceps, hamstrings, and glutes. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Glute kickbacks": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin on all fours with hands under shoulders and knees under hips. Keeping your core engaged, lift one leg straight back and up, squeezing your glutes at the top, then return to the starting position without arching your back. Focus on maintaining a stable torso throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Glutes, Hamstrings, Core"
+            },
+            "Glute medius exercises": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by standing with feet hip-width apart, slightly bending your knees. Shift your weight onto one leg, lifting the opposite leg to the side while keeping your torso upright and core engaged. Focus on maintaining balance and control to effectively target the gluteus medius. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Gluteus medius, hip abductors"
+            },
+            "Glute max exercises": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart. Lower into a squat by pushing your hips back and bending your knees, ensuring your knees do not extend past your toes, then return to standing by driving through your heels and squeezing your glutes at the top. Focus on maintaining a straight back and engaging your core throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Gluteus maximus, quadriceps, hamstrings"
+            },
+            "Side-lying leg lifts": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your side with legs extended and stacked, supporting your head with your lower arm. Lift your top leg upward while keeping it straight, then slowly lower it back down without touching the bottom leg, focusing on engaging your outer thigh and hip muscles. Ensure your core is tight and your body remains in a straight line throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Gluteus medius, hip abductors, obliques"
+            },
+            "Single-leg glute bridges": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with one knee bent and the other leg extended straight. Press through the heel of the bent leg to lift your hips towards the ceiling, keeping the extended leg in line with your torso. Focus on engaging your glutes and core, ensuring your hips remain level throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Hamstrings, Core"
+            },
+            "Squat to calf raise": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, toes slightly pointed out. Lower into a squat by bending your knees and pushing your hips back, keeping your chest up and core engaged. As you rise back to standing, continue the motion by lifting onto your toes into a calf raise, then lower your heels back to the ground. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Glutes, Calves"
+            },
+            "Lunge to knee raise": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet hip-width apart. Step forward with one leg into a lunge, ensuring the front knee aligns over the ankle and the back knee hovers just above the ground. Push through the front heel to return to standing, simultaneously lifting the back knee towards your chest, then repeat on the other side. ",
+                "Intensity": " 5 ",
+                "Difficulty": " 3 ",
+                "Muscles": " Quadriceps, Glutes, Hamstrings, Core"
+            },
+            "Plank knee to elbow": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Engage your core and bring one knee towards the opposite elbow, then return to the starting position and repeat on the other side. Focus on maintaining a stable plank position throughout the movement to effectively target the core and obliques. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Obliques, Shoulders"
+            },
+            "Plank leg crossovers": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground and body in a straight line from head to heels. Engage your core and lift one leg, crossing it over the other leg, then return to the starting position and repeat with the opposite leg. Focus on maintaining a stable core and controlled movements to effectively target the abdominals and obliques. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Core, Obliques, Shoulders"
+            },
+            "Plank leg swings": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground and body in a straight line from head to heels. Engage your core and swing one leg out to the side, keeping it straight, then return it to the starting position and repeat with the other leg. Focus on maintaining a stable core and controlled movement to effectively target the core, glutes, and hip abductors. \n\nDescription",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Glutes, Hip Abductors"
+            },
+            "Plank leg circles": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with your body in a straight line from head to heels, engaging your core. Lift one leg slightly off the ground and draw small circles in the air, maintaining stability and control, then switch legs. Focus on keeping your hips level and your core engaged throughout the movement to target the core, glutes, and hip flexors effectively. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Glutes, Hip Flexors"
+            },
+            "Plank hip dips": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a forearm plank position with elbows directly under shoulders and body in a straight line from head to heels. Rotate your hips to one side, gently tapping the floor, then return to center and repeat on the other side, engaging your core throughout. Focus on maintaining a stable upper body and controlled movement to effectively target the obliques and transverse abdominis. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Obliques, Transverse Abdominis, Core"
+            },
+            "Plank with leg extensions": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground and body in a straight line from head to heels. While maintaining a stable core, extend one leg straight back, hold briefly, then return to the starting position and alternate legs. Focus on engaging your core, glutes, and shoulders to maintain balance and form. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Plank with knee tucks": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Engage your core as you bring one knee towards your chest, then return to the starting position and repeat with the other knee. Focus on maintaining a stable torso and controlled movement to effectively target the core muscles. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Core, shoulders, hip flexors"
+            },
+            "Plank with toe taps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with your body in a straight line from head to heels, elbows directly under shoulders. While maintaining a stable core, lift one foot off the ground and tap it out to the side, then return it to the starting position and repeat with the other foot. Focus on engaging your core and glutes to prevent your hips from sagging or rotating. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Plank with leg raises": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with elbows directly under shoulders and body in a straight line from head to heels. Engage your core and glutes, then lift one leg off the ground, keeping it straight and in line with your body, hold briefly, then lower it back down and repeat with the other leg. Focus on maintaining a stable core and avoiding any hip rotation. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Plank with leg pulses": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with elbows directly under shoulders and body in a straight line from head to heels. Engage your core and glutes, then lift one leg slightly off the ground and pulse it up and down in small, controlled movements. Focus on maintaining a stable torso and even breathing throughout the exercise. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Plank with leg swings": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position, with your forearms on the ground and body in a straight line from head to heels. While maintaining core stability, swing one leg out to the side and back to the center, then alternate with the other leg. Focus on engaging your core and glutes to maintain balance and control throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Plank with leg circles": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with your body in a straight line from head to heels, engaging your core. Lift one leg off the ground and draw small circles in the air, keeping your hips stable and core tight. Switch legs after a set number of circles, focusing on maintaining balance and control throughout the movement. ",
+                "Intensity": " 5 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Core, Glutes, Shoulders"
+            },
+            "Plank with hip dips": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with elbows directly under shoulders and body in a straight line from head to heels. Rotate your hips to one side, gently tapping the floor, then return to center and repeat on the opposite side. Focus on engaging your core and obliques throughout the movement to maintain stability. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Obliques"
+            }
+        },
+        "Push day": {
+            "Push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with hands slightly wider than shoulder-width apart and feet together. Lower your body by bending your elbows, keeping them close to your body, until your chest nearly touches the floor, then push back up to the starting position. Focus on engaging your core and maintaining a straight line from head to heels throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Chest, Triceps, Shoulders, Core"
+            },
+            "Pike push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a downward dog position with your hands and feet on the ground, hips raised, and body forming an inverted V-shape. Lower your head towards the ground by bending your elbows, keeping them close to your body, then push back up to the starting position. Focus on engaging your shoulders and triceps throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Shoulders, Triceps, Upper Chest"
+            },
+            "Diamond push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a plank position with your hands placed close together under your chest, forming a diamond shape with your thumbs and index fingers. Lower your body by bending your elbows, keeping them close to your sides, until your chest nearly touches your hands, then push back up to the starting position. Focus on engaging your triceps, chest, and core throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Triceps, Chest, Core"
+            },
+            "Wide push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a plank position with hands placed wider than shoulder-width apart, keeping your body in a straight line from head to heels. Lower your chest towards the ground by bending your elbows out to the sides, then push back up to the starting position. Focus on engaging the chest, shoulders, and triceps throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Chest, shoulders, triceps"
+            },
+            "Decline push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a plank position with your feet elevated on a bench or step, hands placed shoulder-width apart on the ground. Lower your chest towards the floor by bending your elbows, keeping your body in a straight line, then push back up to the starting position. Focus on engaging your chest, shoulders, and triceps throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, Shoulders, Triceps"
+            },
+            "Incline push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a plank position with your hands placed shoulder-width apart on an elevated surface, such as a bench or step, keeping your body in a straight line from head to heels. Lower your chest towards the surface by bending your elbows, then push back up to the starting position, focusing on engaging your chest, shoulders, and triceps. Ensure your core remains tight throughout the movement to maintain proper form. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Chest, Shoulders, Triceps"
+            },
+            "Dive bomber push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a downward dog position with your hips raised and arms extended. Lower your chest towards the ground, then glide forward into an upward dog position, arching your back and extending your arms. Reverse the movement to return to the starting position, focusing on engaging the chest, shoulders, and triceps throughout. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Chest, Shoulders, Triceps, Core"
+            },
+            "Archer push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with hands wider than shoulder-width apart. Lower your body towards one hand while keeping the opposite arm straight, then push back to the starting position and alternate sides. Focus on engaging the chest, triceps, and shoulders while maintaining a stable core throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Chest, Triceps, Shoulders"
+            },
+            "Shoulder tap push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and feet hip-width apart. Lower your chest towards the ground by bending your elbows, then push back up to the starting position. At the top, lift one hand to tap the opposite shoulder, alternating sides with each push-up, while maintaining a stable core to engage the shoulders, chest, and triceps effectively. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, Shoulders, Triceps, Core"
+            },
+            "One-arm push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with feet slightly wider than shoulder-width apart, placing one hand directly under your shoulder and the other behind your back. Lower your body by bending the elbow of the supporting arm, keeping your body straight and core engaged, then push back up to the starting position. Focus on maintaining balance and control throughout the movement. ",
+                "Intensity": "9",
+                "Difficulty": "9",
+                "Muscles": "Chest, Triceps, Core, Shoulders"
+            },
+            "Hindu push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a downward dog position with hands and feet on the ground, hips raised. Lower your chest towards the floor, then glide forward into an upward dog position, arching your back and looking up. Reverse the movement to return to the starting position, focusing on engaging the chest, shoulders, and triceps throughout. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, Shoulders, Triceps, Core"
+            },
+            "Clap push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with hands slightly wider than shoulder-width apart. Lower your body until your chest nearly touches the floor, then explosively push up, clapping your hands together before returning them to the starting position. Focus on maintaining a tight core and controlled landing to engage the chest, triceps, and shoulders effectively. ",
+                "Intensity": "7",
+                "Difficulty": "7",
+                "Muscles": "Chest, Triceps, Shoulders"
+            },
+            "Planche push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a planche position with your hands shoulder-width apart on the ground, arms straight, and body parallel to the floor. Lower your chest towards the ground by bending your elbows while maintaining a straight body line, then push back up to the starting position. Focus on engaging your core, shoulders, and chest throughout the movement to maintain balance and control. ",
+                "Intensity": "10",
+                "Difficulty": "10",
+                "Muscles": "Chest, Shoulders, Core, Triceps"
+            },
+            "Tricep push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with hands placed closer than shoulder-width apart, directly under your shoulders. Lower your body by bending your elbows, keeping them close to your sides, until your chest nearly touches the floor, then push back up to the starting position. Focus on engaging your triceps and maintaining a straight line from head to heels throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Triceps, Chest, Core"
+            },
+            "Handstand push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a handstand position against a wall, with your hands shoulder-width apart and your body straight. Lower your body by bending your elbows until your head gently touches the ground, then push back up to the starting position, focusing on engaging your shoulders and triceps. Ensure your core remains tight to maintain balance and prevent arching your back. ",
+                "Intensity": "8",
+                "Difficulty": "9",
+                "Muscles": "Shoulders, Triceps, Core"
+            },
+            "Chest press": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a plank position with your hands slightly wider than shoulder-width apart and your body in a straight line from head to heels. Lower your chest towards the ground by bending your elbows, keeping them at a 45-degree angle to your body, then push back up to the starting position. Focus on engaging your chest, triceps, and shoulders throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Pectorals, Triceps, Deltoids"
+            },
+            "Shoulder press": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a downward dog position with hands and feet on the ground, hips raised, and body forming an inverted V-shape. Lower your head towards the ground by bending your elbows, then push back up to the starting position, focusing on engaging your shoulders and triceps. Ensure your core remains tight throughout the movement to maintain stability. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Shoulders, Triceps, Core"
+            },
+            "Tricep dip": {
+                "Equipment": "Bodyweight",
+                "Description": "Position yourself on the edge of a sturdy chair or bench with hands shoulder-width apart, fingers facing forward, and legs extended. Lower your body by bending your elbows to a 90-degree angle, keeping your back close to the bench, then press through your palms to return to the starting position. Focus on engaging the triceps throughout the movement, ensuring elbows remain tucked in. \n\nDescription",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Triceps, Shoulders, Chest"
+            },
+            "Bench dip": {
+                "Equipment": "Bodyweight",
+                "Description": "Sit on the edge of a bench with your hands placed next to your hips, fingers pointing forward. Slide off the bench, supporting your weight with your arms, and lower your body by bending your elbows to a 90-degree angle, then press back up to the starting position. Focus on keeping your elbows close to your body to effectively target the triceps. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Triceps, shoulders, chest"
+            },
+            "Wall walk": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a plank position with your feet against a wall. Slowly walk your feet up the wall while simultaneously walking your hands backward until your chest touches the wall, maintaining a tight core and straight body line. Reverse the movement to return to the starting position, focusing on shoulder stability and core engagement throughout. ",
+                "Intensity": "7",
+                "Difficulty": "7",
+                "Muscles": "Shoulders, Core, Upper Back"
+            },
+            "Superman push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with your hands slightly wider than shoulder-width apart. Lower your body towards the ground, then explosively push up, extending your arms and legs off the ground simultaneously, resembling a \"Superman\" pose. Focus on engaging your core, chest, shoulders, and triceps throughout the movement for stability and power. ",
+                "Intensity": "8",
+                "Difficulty": "8",
+                "Muscles": "Chest, Shoulders, Triceps, Core"
+            },
+            "T push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with hands shoulder-width apart. Lower your body until your chest nearly touches the floor, then push back up while rotating your torso and extending one arm towards the ceiling, forming a 'T' shape. Alternate sides with each repetition, focusing on engaging the chest, shoulders, and core for stability. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, Shoulders, Core"
+            },
+            "Plyometric push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with hands shoulder-width apart and body in a straight line from head to heels. Lower your chest to the floor, then explosively push up with enough force for your hands to leave the ground, softly landing back into the starting position. Focus on engaging the chest, triceps, and shoulders while maintaining core stability throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Chest, Triceps, Shoulders, Core"
+            },
+            "Pseudo planche push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a push-up position with your hands placed slightly lower than your chest and fingers pointing towards your feet. Lean your shoulders forward while keeping your elbows close to your body, then lower your chest towards the ground, maintaining a straight line from head to heels. Focus on engaging your core, shoulders, and triceps throughout the movement. ",
+                "Intensity": "8",
+                "Difficulty": "8",
+                "Muscles": "Chest, Shoulders, Triceps, Core"
+            },
+            "Scapular push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Keeping your arms straight, retract your shoulder blades by squeezing them together, then protract by pushing them apart without bending your elbows. Focus on controlled movements to engage the serratus anterior and improve shoulder stability. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Serratus anterior, trapezius, rhomboids"
+            },
+            "Reverse push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a seated position with your legs extended and hands placed behind you, fingers pointing towards your feet. Lift your hips off the ground, keeping your body straight from shoulders to heels, and lower yourself by bending your elbows, then push back up to the starting position. Focus on engaging your triceps, shoulders, and core throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Triceps, Shoulders, Core"
+            },
+            "Lateral push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with your hands slightly wider than shoulder-width apart. As you lower your body, shift your weight to one side, bending the elbow on that side while keeping the opposite arm straight, then push back up to the starting position and repeat on the other side. Focus on engaging your chest, shoulders, and triceps while maintaining a strong core throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, Shoulders, Triceps"
+            },
+            "Push-up with rotation": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with hands shoulder-width apart and body in a straight line from head to heels. Lower your chest to the floor, then push back up and rotate your body to one side, extending the opposite arm towards the ceiling. Focus on engaging your core and stabilizing muscles throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Chest, Triceps, Shoulders, Core, Obliques"
+            },
+            "Spiderman push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with your hands shoulder-width apart and your body in a straight line from head to heels. As you lower your chest towards the ground, bring your right knee towards your right elbow, then return to the starting position and repeat on the left side. Focus on maintaining a strong core and controlled movement to engage the chest, triceps, shoulders, and obliques effectively. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Chest, Triceps, Shoulders, Obliques"
+            },
+            "L-sit push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a seated position with legs extended straight in front of you and hands placed on the ground beside your hips. Lift your body off the ground by pressing through your palms, keeping your legs straight and parallel to the floor, then perform a push-up by bending your elbows and lowering your chest towards the ground. Focus on maintaining core engagement and straight legs throughout the movement. ",
+                "Intensity": "8",
+                "Difficulty": "8",
+                "Muscles": "Core, Triceps, Shoulders, Chest"
+            },
+            "Plank to push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with elbows under shoulders and body in a straight line. Transition to a high plank by placing one hand at a time under your shoulders, then lower back to forearms, alternating sides. Focus on engaging your core, shoulders, and triceps throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, shoulders, triceps"
+            },
+            "Plank shoulder tap": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and feet hip-width apart. While maintaining a stable core, lift one hand to tap the opposite shoulder, alternating sides without swaying your hips. Focus on engaging your core, shoulders, and glutes to maintain balance and stability throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Core, Shoulders, Glutes"
+            },
+            "Sphinx push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with elbows directly under shoulders and body in a straight line. Push through your palms to lift your body, extending your arms until they are straight, then lower back down to the starting position. Focus on engaging your triceps and core throughout the movement. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 5 ",
+                "Muscles": " Triceps, Core, Chest"
+            },
+            "Tricep extension": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a seated position on the floor with your knees bent and feet flat, placing your hands behind you with fingers pointing towards your body. Lift your hips off the ground, keeping your elbows slightly bent, then lower your body by bending your elbows until they form a 90-degree angle, focusing on engaging the triceps. Push through your palms to return to the starting position, ensuring your elbows remain close to your body throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Triceps"
+            },
+            "Mountain climber": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a high plank position with your hands directly under your shoulders and your body forming a straight line from head to heels. Quickly drive one knee towards your chest, then switch legs in a running motion, keeping your core engaged and hips low. Focus on maintaining a steady pace and controlled breathing throughout the exercise. ",
+                "Intensity": "7",
+                "Difficulty": "4",
+                "Muscles": "Core, shoulders, quadriceps, and hip flexors."
+            },
+            "Burpee": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position, then drop into a squat with your hands on the ground. Kick your feet back into a plank position, perform a push-up, return to the squat position, and explosively jump up with arms overhead. Focus on maintaining a strong core and proper form throughout the movement to engage the full body effectively. ",
+                "Intensity": "8",
+                "Difficulty": "7",
+                "Muscles": "Full body, including chest, arms, core, glutes, and legs."
+            },
+            "Squat thrust": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart. Lower your body into a squat, place your hands on the ground, and jump your feet back into a plank position. Quickly jump your feet back to the squat position and stand up, completing one repetition. Ensure your core is engaged throughout to maintain proper form. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Glutes, Core, Shoulders"
+            },
+            "Side plank with arm extension": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position with your body in a straight line, supporting yourself on one forearm and the side of your foot. Extend your top arm straight up towards the ceiling, keeping your core engaged and hips lifted. Focus on maintaining balance and stability throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Obliques, shoulders, core stabilizers"
+            },
+            "Chest squeeze": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet shoulder-width apart, arms extended in front of you at chest height, palms together. Press your palms firmly against each other, engaging your chest muscles, and hold for a few seconds before releasing. Focus on maintaining tension in the chest throughout the exercise. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Pectorals, deltoids, triceps"
+            },
+            "Downward dog push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a downward dog position with your hands shoulder-width apart and hips raised, forming an inverted V-shape. Lower your head towards the ground by bending your elbows, keeping them close to your body, then push back up to the starting position. Focus on engaging your shoulders, triceps, and core throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Shoulders, Triceps, Core"
+            },
+            "Plank walk": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Step your right hand and foot to the right, followed by your left hand and foot, maintaining a stable core and straight body alignment throughout the movement. Focus on engaging your core, shoulders, and legs to maintain balance and control. ",
+                "Intensity": " 5 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Core, Shoulders, Legs"
+            },
+            "Push-up with leg lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with hands shoulder-width apart and feet together. As you lower your body towards the ground, lift one leg off the floor, keeping it straight and aligned with your body, then return to the starting position and switch legs on the next repetition. Focus on engaging your core, chest, and glutes to maintain balance and stability throughout the movement. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Chest, Core, Glutes"
+            },
+            "Pike press": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a downward dog position with your hands and feet on the ground, hips raised, and body forming an inverted V. Lower your head towards the ground by bending your elbows, keeping them close to your body, then press back up to the starting position. Focus on engaging your shoulders and triceps throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Shoulders, Triceps, Upper Back"
+            },
+            "Chest fly": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a plank position with your hands placed slightly wider than shoulder-width apart. Lower your chest towards the ground by bending your elbows, keeping your body straight, then push back up to the starting position, focusing on squeezing your chest muscles. Ensure your core is engaged throughout to maintain stability and prevent sagging hips. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Pectorals, Deltoids, Triceps"
+            },
+            "Shoulder shrug": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand upright with feet shoulder-width apart and arms relaxed at your sides. Elevate your shoulders towards your ears, squeezing your shoulder blades together, then slowly lower them back to the starting position. Focus on controlled movements to effectively engage the trapezius muscles. ",
+                "Intensity": "2",
+                "Difficulty": "2",
+                "Muscles": "Trapezius, Levator Scapulae"
+            },
+            "Tricep kickback": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a tabletop position on all fours, ensuring your hands are directly under your shoulders and knees under your hips. Extend one arm straight back, keeping it parallel to the floor, while maintaining a slight bend in the elbow, then return to the starting position. Focus on engaging the triceps throughout the movement, ensuring your core remains stable and your back flat. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Triceps, Core"
+            },
+            "Chest stretch": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand tall with feet shoulder-width apart. Clasp your hands behind your back, straighten your arms, and gently lift them upwards while pushing your chest forward. Focus on feeling a stretch across your chest and shoulders, keeping your neck relaxed and breathing steadily. ",
+                "Intensity": " 2 ",
+                "Difficulty": " 2 ",
+                "Muscles": " Pectorals, Deltoids"
+            },
+            "Shoulder stretch": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by standing or sitting upright with your back straight. Extend one arm across your chest and use the opposite hand to gently pull the arm closer to your body, feeling a stretch in the shoulder. Hold the position without rotating your torso, keeping the shoulder down and relaxed. ",
+                "Intensity": "2",
+                "Difficulty": "2",
+                "Muscles": "Deltoids, Trapezius"
+            },
+            "Tricep stretch": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by standing or sitting upright, extending one arm overhead, and bending the elbow to reach the hand down the back. Use the opposite hand to gently pull the elbow towards the head, feeling a stretch in the tricep. Maintain a straight posture and hold the stretch without bouncing. ",
+                "Intensity": "2",
+                "Difficulty": "2",
+                "Muscles": "Triceps"
+            },
+            "Arm circles": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet shoulder-width apart and extend your arms straight out to the sides at shoulder height. Begin making small, controlled circles with your arms, gradually increasing the size of the circles. Focus on maintaining a straight posture and engaging your shoulder and upper back muscles throughout the movement. ",
+                "Intensity": "2",
+                "Difficulty": "2",
+                "Muscles": "Shoulders, Upper Back"
+            },
+            "Push-up with shoulder tap": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with hands directly under shoulders and feet hip-width apart. Lower your body to perform a push-up, then as you return to the starting position, lift one hand to tap the opposite shoulder, maintaining core stability. Focus on engaging the chest, triceps, and core throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, Triceps, Core"
+            },
+            "Hand release push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with your hands under your shoulders and your body in a straight line from head to heels. Lower your body to the ground, then lift your hands off the floor momentarily before pressing back up to the starting position. Focus on engaging your chest, shoulders, and triceps throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Chest, Shoulders, Triceps"
+            },
+            "Push-up with reach": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with hands shoulder-width apart and feet together. Lower your body until your chest nearly touches the floor, then push back up while simultaneously extending one arm forward in a reaching motion. Focus on maintaining a stable core and even weight distribution to engage the chest, shoulders, triceps, and core effectively. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, Shoulders, Triceps, Core"
+            },
+            "Plank with shoulder taps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and feet hip-width apart. While maintaining a stable core, lift one hand to tap the opposite shoulder, alternating sides without allowing your hips to sway. Focus on engaging your core, shoulders, and stabilizing muscles throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Core, Shoulders, Stabilizers"
+            },
+            "Shoulder stand": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by lying on your back with your arms at your sides, palms down. Lift your legs overhead, supporting your lower back with your hands, and extend your legs upward, aligning them with your torso. Focus on engaging your core and maintaining balance, keeping your neck relaxed and shoulders grounded. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders, Upper Back"
+            },
+            "Tricep push-back": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet hip-width apart, hinge forward at the hips while keeping your back straight, and bend your knees slightly. Extend your arms straight back behind you, palms facing each other, and squeeze your triceps as you push your arms back, then return to the starting position. Focus on maintaining a stable core and controlled movement to effectively target the triceps. \n\nDescription",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Triceps, Core"
+            },
+            "Floor tricep dips": {
+                "Equipment": "Bodyweight",
+                "Description": "Sit on the floor with your legs extended and hands placed behind you, fingers pointing towards your body. Lift your hips off the ground, then bend your elbows to lower your body, keeping elbows close to your sides, and press back up to starting position. Focus on engaging the triceps throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Triceps, shoulders, core"
+            },
+            "Side plank": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by lying on your side with legs extended and feet stacked. Prop yourself up on your forearm, ensuring your elbow is directly beneath your shoulder. Lift your hips off the ground, forming a straight line from head to heels, and engage your core to maintain balance. Hold this position, keeping your body aligned and avoiding any sagging at the hips. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Obliques, Transverse Abdominis, Shoulders"
+            },
+            "Push-up with side plank": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with hands shoulder-width apart and body in a straight line. Perform a push-up, then rotate your body to one side, extending the top arm towards the ceiling to form a side plank. Alternate sides with each push-up, focusing on engaging the core, chest, shoulders, and triceps. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 5 ",
+                "Muscles": " Chest, Shoulders, Triceps, Core, Obliques"
+            },
+            "Plank to T push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with hands under shoulders and body in a straight line from head to heels. Lower into a push-up, then as you push back up, rotate your body to one side, extending the top arm towards the ceiling, forming a \"T\" shape. Focus on engaging your core, chest, and shoulders throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, Chest, Shoulders"
+            },
+            "Handstand hold": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position, place your hands shoulder-width apart on the ground, and kick your legs up to balance vertically against a wall or freestanding. Engage your core and keep your body straight, focusing on maintaining balance and stability. This exercise primarily targets the shoulders, core, and arms. ",
+                "Intensity": "7",
+                "Difficulty": "7",
+                "Muscles": "Shoulders, Core, Arms"
+            },
+            "Shoulder tap plank": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and feet hip-width apart. While maintaining a stable core and avoiding hip rotation, lift one hand to tap the opposite shoulder, then return it to the ground and repeat with the other hand. Focus on engaging your core, shoulders, and glutes throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Core, Shoulders, Glutes"
+            },
+            "Chest tap push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Lower your chest towards the floor by bending your elbows, then push back up to the starting position and quickly tap your right hand to your left shoulder, then repeat on the other side. Focus on maintaining core stability and even weight distribution to engage the chest, triceps, and core effectively. \n\nDescription",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Chest, Triceps, Core"
+            },
+            "Plank with arm lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground, elbows directly under shoulders, and body in a straight line from head to heels. Engage your core and lift one arm forward, keeping it parallel to the ground, then return to the starting position and repeat with the other arm. Focus on maintaining stability and balance throughout the movement to effectively engage the core, shoulders, and back muscles. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders, Back"
+            },
+            "Plank with alternating arm and leg lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your body in a straight line from head to heels, forearms on the ground, and core engaged. Simultaneously lift your right arm and left leg, hold briefly, then return to the starting position and alternate sides. Focus on maintaining balance and stability, engaging the core, glutes, and shoulders throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Tricep push-up with knee tuck": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with hands under shoulders and feet together. Lower your body by bending your elbows, keeping them close to your sides, then push back up while simultaneously tucking one knee towards your chest. Focus on engaging your triceps, core, and chest throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Triceps, Core, Chest"
+            },
+            "Inchworm": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin standing with feet hip-width apart. Hinge at your hips to place your hands on the floor, then walk your hands forward into a plank position, keeping your core engaged. Walk your hands back to your feet and return to standing, focusing on maintaining a straight line from head to heels throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Core, Shoulders, Hamstrings"
+            },
+            "Plyo push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with hands slightly wider than shoulder-width apart and body in a straight line from head to heels. Lower your chest towards the floor, then explosively push up with enough force for your hands to leave the ground, clapping if possible, before landing softly and immediately transitioning into the next repetition. Focus on engaging the chest, triceps, and shoulders while maintaining core stability throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Chest, Triceps, Shoulders"
+            },
+            "Reverse plank": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin seated on the floor with legs extended and hands placed slightly behind you, fingers pointing forward. Lift your hips towards the ceiling, forming a straight line from head to heels, engaging your core and glutes while keeping your shoulders down and away from your ears. Hold this position, ensuring your body remains aligned and your gaze is directed upwards. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Core, glutes, hamstrings, shoulders"
+            },
+            "Inchworm push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin standing with feet hip-width apart, then hinge at the hips to place hands on the floor, walking them forward into a high plank position. Perform a push-up by lowering your chest to the ground, then press back up and walk your hands back to your feet, returning to the standing position. Focus on maintaining a straight line from head to heels during the push-up to engage the core and upper body effectively. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, shoulders, triceps, core, hamstrings"
+            },
+            "Push-up with shoulder taps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with hands directly under shoulders and feet hip-width apart. Lower your body to perform a push-up, then as you rise back to the plank, lift one hand to tap the opposite shoulder, alternating sides with each repetition. Focus on maintaining a stable core and even hips to engage the chest, shoulders, triceps, and core effectively. \n\nDescription",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Chest, Shoulders, Triceps, Core"
+            },
+            "Wall push-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand facing a wall at arm's length, place your palms flat on the wall at shoulder height and width. Keeping your body straight, bend your elbows to bring your chest towards the wall, then push back to the starting position. Focus on engaging your chest, shoulders, and triceps while maintaining a straight line from head to heels. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Chest, Shoulders, Triceps"
+            },
+            "Shoulder press plank": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body forming a straight line from head to heels. Lower your forearms to the ground one at a time, then press back up to the starting position, keeping your core engaged and hips stable throughout the movement. Focus on maintaining proper alignment to effectively target the shoulders, core, and triceps. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Shoulders, Core, Triceps"
+            },
+            "Tricep push-up with leg lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a plank position with hands under shoulders and feet hip-width apart. Lower your body by bending your elbows, keeping them close to your sides, while simultaneously lifting one leg off the ground. Push back up to the starting position, focusing on engaging the triceps and core throughout the movement. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 5 ",
+                "Muscles": " Triceps, Core, Glutes"
+            },
+            "Chest press plank": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands placed slightly wider than shoulder-width apart, directly under your shoulders, and your body forming a straight line from head to heels. Lower your chest towards the ground by bending your elbows, keeping them close to your body, then push back up to the starting position. Focus on engaging your core and chest muscles throughout the movement to maintain stability and proper form. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, Core, Triceps"
+            },
+            "Push-up with leg extension": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard push-up position with hands shoulder-width apart and body in a straight line from head to heels. As you lower your chest towards the ground, extend one leg straight behind you, then return to the starting position and switch legs with each repetition. Focus on engaging the chest, triceps, core, and glutes for stability and strength. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Chest, Triceps, Core, Glutes"
+            },
+            "Plank with arm extension": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground, elbows directly under your shoulders, and body in a straight line from head to heels. Extend one arm forward, keeping your core engaged and hips stable, then return to the starting position and repeat with the other arm. Focus on maintaining balance and control to engage the core, shoulders, and back effectively. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders, Back"
+            },
+            "Shoulder tap push-up with leg lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with hands under shoulders and feet hip-width apart. Lower your chest towards the ground, then push back up while simultaneously lifting one leg and tapping the opposite shoulder with the opposite hand. Focus on maintaining a stable core and controlled movements to engage the shoulders, chest, core, and glutes effectively. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Shoulders, Chest, Core, Glutes"
+            },
+            "Tricep push-up with arm reach": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with hands under shoulders and feet hip-width apart. Lower your body by bending elbows close to your sides, engaging triceps, then push back up and extend one arm forward. Alternate arms with each push-up, maintaining a straight line from head to heels. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 5 ",
+                "Muscles": " Triceps, Chest, Core"
+            },
+            "Chest fly with leg lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by lying on your back with your arms extended out to the sides and legs lifted at a 90-degree angle. Engage your core as you bring your arms together above your chest while simultaneously lowering your legs towards the ground without touching it. Focus on maintaining a controlled movement to engage the chest and core muscles effectively. ",
+                "Intensity": " 5 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Chest, Core, Hip Flexors"
+            },
+            "Plank with shoulder tap and leg lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with hands under shoulders and feet hip-width apart. While maintaining a stable core, lift your right hand to tap your left shoulder and simultaneously lift your left leg, then return to start and alternate sides. Focus on engaging your core, glutes, and shoulders to maintain balance and control throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Handstand push-up against wall": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a handstand position with your back against a wall, hands shoulder-width apart on the floor. Lower your body by bending your elbows until your head nearly touches the ground, then push back up to the starting position, keeping your core engaged throughout. Focus on maintaining a straight body line and controlled movement to effectively target the shoulders, triceps, and upper chest. ",
+                "Intensity": "8",
+                "Difficulty": "8",
+                "Muscles": "Shoulders, Triceps, Upper Chest"
+            }
+        },
+        "Pull day": {
+            "Pull-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by hanging from a pull-up bar with an overhand grip, hands shoulder-width apart, and arms fully extended. Engage your core and pull your body upward until your chin clears the bar, focusing on squeezing your shoulder blades together. Lower yourself back to the starting position with control, ensuring full arm extension before repeating. ",
+                "Intensity": "7",
+                "Difficulty": "7",
+                "Muscles": "Latissimus dorsi, biceps, rhomboids, trapezius"
+            },
+            "Chin-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by gripping the bar with an underhand grip, hands shoulder-width apart. Hang with arms fully extended, then pull your body upward until your chin is above the bar, focusing on engaging your biceps and upper back. Lower yourself back to the starting position with control, ensuring full range of motion. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Biceps, Latissimus Dorsi, Rhomboids"
+            },
+            "Inverted Row": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by lying under a sturdy horizontal bar, gripping it with an overhand grip, hands shoulder-width apart. Keep your body straight from head to heels, and pull your chest towards the bar by retracting your shoulder blades, then lower back to the starting position. Focus on engaging the back, biceps, and core throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Back, Biceps, Core"
+            },
+            "Australian Pull-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by positioning yourself under a low bar or suspension trainer, gripping it with an overhand grip, and extending your legs forward with heels on the ground. Keep your body straight and core engaged as you pull your chest towards the bar, squeezing your shoulder blades together, then lower back to the starting position. Focus on maintaining a straight line from head to heels throughout the movement to effectively target the upper back and biceps. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Upper back, biceps, core"
+            },
+            "Renegade Row": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and feet hip-width apart. Engage your core and maintain a straight line from head to heels as you lift one hand off the ground, pulling your elbow towards your ribcage while balancing on the opposite hand and feet. Alternate sides, focusing on keeping your hips stable and minimizing rotation. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, Back, Shoulders"
+            },
+            "Superman": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie face down on the floor with arms extended forward and legs straight. Simultaneously lift your arms, chest, and legs off the ground, engaging your lower back and glutes, then lower back down. Focus on maintaining a neutral neck position and controlled movements. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Lower back, glutes, shoulders"
+            },
+            "Reverse Snow Angels": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie face down on the floor with arms extended straight overhead and palms facing down. Keeping your forehead on the ground, lift your arms and legs slightly off the floor, then sweep your arms out to the sides and down towards your hips, mimicking a snow angel motion. Focus on engaging your upper back and shoulder muscles throughout the movement, ensuring your core remains tight to protect your lower back. \n\nDescription",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Upper back, shoulders, core"
+            },
+            "Scapular Pulls": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a dead hang position from a pull-up bar with arms fully extended and shoulders relaxed. Engage your scapula by pulling your shoulder blades down and together without bending your elbows, then return to the starting position. Focus on activating the upper back and shoulder stabilizers. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Upper back, shoulder stabilizers"
+            },
+            "Single-Arm Plank": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your body in a straight line from head to heels, feet hip-width apart. Lift one arm off the ground, extending it forward or placing it on your hip, while maintaining a stable core and avoiding any rotation in the hips. Focus on engaging your core, shoulders, and glutes to maintain balance and stability. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, Shoulders, Glutes"
+            },
+            "Dead Hang": {
+                "Equipment": "Bodyweight",
+                "Description": "Hang from a pull-up bar with an overhand grip, arms fully extended, and feet off the ground. Keep your shoulders engaged by slightly retracting them, and maintain a straight line from head to heels. Focus on maintaining a stable core and avoid swinging. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Forearms, Shoulders, Core"
+            },
+            "Mountain Climbers": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Quickly drive your knees alternately towards your chest, maintaining a brisk pace while keeping your core engaged and hips level. Focus on maintaining proper form to target the core, shoulders, and legs effectively. ",
+                "Intensity": "7",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders, Legs"
+            },
+            "Plank with Lateral Arm Raise": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground, elbows directly under your shoulders, and body in a straight line from head to heels. While maintaining core stability, lift one arm out to the side until it is parallel to the ground, then return it to the starting position and repeat with the other arm. Focus on engaging your core, shoulders, and back muscles to maintain balance and control throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders, Back"
+            },
+            "Bear Crawl": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a tabletop position with hands under shoulders and knees under hips, hovering slightly above the ground. Move forward by simultaneously advancing your right hand and left foot, then your left hand and right foot, maintaining a low, stable posture. Focus on engaging your core and keeping your back flat throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, shoulders, quadriceps"
+            },
+            "Towel Row": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet shoulder-width apart, holding a towel with both hands, arms extended in front of you. Bend your knees slightly, hinge at the hips, and pull the towel towards your chest by squeezing your shoulder blades together, keeping elbows close to your body. Focus on engaging your back muscles throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Back, Biceps, Shoulders"
+            },
+            "Lying T Raise": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie face down on the floor with arms extended out to the sides, forming a \"T\" shape. Keeping your head in a neutral position, lift your arms off the ground by squeezing your shoulder blades together, then slowly lower them back down. Focus on engaging the upper back and shoulder muscles throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Upper back, shoulders"
+            },
+            "Scapular Push-ups": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Keeping your arms straight, retract your shoulder blades by squeezing them together, then protract by pushing them apart without bending your elbows. Focus on controlled movement to engage the serratus anterior and improve shoulder stability. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Serratus anterior, trapezius, rhomboids"
+            },
+            "Commando Pull-up": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a hanging position with an overhand grip, hands shoulder-width apart. Pull your body up, bringing your head to one side of the bar, then lower yourself back to the starting position and repeat on the opposite side. Focus on engaging your lats, biceps, and core for stability throughout the movement. ",
+                "Intensity": "8",
+                "Difficulty": "7",
+                "Muscles": "Lats, Biceps, Core"
+            },
+            "Plank with Arm Extension": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground, elbows directly under your shoulders, and body in a straight line from head to heels. Extend one arm forward, keeping your hips stable and core engaged, then return to the starting position and repeat with the other arm. Focus on maintaining a stable core and avoiding any hip rotation throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders, Glutes"
+            },
+            "Plank to Downward Dog": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with hands under shoulders and body in a straight line from head to heels. Engage your core and push your hips up and back, transitioning into a downward dog position, keeping your spine elongated and heels reaching towards the floor. Return to plank by lowering your hips and maintaining a strong core throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Core, Shoulders, Hamstrings"
+            },
+            "Bent-over T Raise": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a bent-over position with your feet shoulder-width apart, knees slightly bent, and torso parallel to the ground. Extend your arms straight down, then raise them out to the sides until they form a \"T\" shape with your body, keeping your palms facing down and squeezing your shoulder blades together. Focus on maintaining a neutral spine and engaging your upper back and shoulders throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Upper back, shoulders, core"
+            }
+        },
+        "Core and cardio": {
+            "Plank": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a prone position, supporting your body on your forearms and toes, with elbows directly beneath shoulders and body forming a straight line from head to heels. Engage your core, glutes, and quads, maintaining a neutral spine and avoiding sagging or arching your back. Hold this position, focusing on maintaining tension in the core and stabilizing muscles. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Core, shoulders, glutes"
+            },
+            "Mountain climbers": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Quickly drive your knees alternately towards your chest, maintaining a brisk pace while keeping your core engaged and hips level. This exercise targets the core, shoulders, and legs, and should be performed with controlled breathing and consistent speed. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Core, shoulders, legs"
+            },
+            "Russian twists": {
+                "Equipment": "Bodyweight",
+                "Description": "Sit on the floor with your knees bent and feet flat, leaning back slightly to engage your core. Hold your hands together at your chest, then twist your torso to the right, bringing your hands beside your hip, and repeat on the left side. Keep your core tight and back straight throughout the movement to effectively target the obliques. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Obliques, Rectus Abdominis"
+            },
+            "Bicycle crunches": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie flat on your back with your hands behind your head and legs lifted, knees bent at 90 degrees. Simultaneously bring your right elbow towards your left knee while extending your right leg, then switch sides in a pedaling motion. Focus on engaging your core throughout the movement to effectively target the abdominal muscles. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Abdominals, Obliques"
+            },
+            "Flutter kicks": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with your hands under your glutes for support, legs extended. Lift your heels off the ground slightly and alternate kicking your legs up and down in a fluttering motion, keeping your core engaged and lower back pressed into the floor. Focus on maintaining a steady pace and controlled movement to target the lower abs and hip flexors. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Lower abs, hip flexors"
+            },
+            "Burpees": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position, then drop into a squat with your hands on the ground. Kick your feet back into a plank position, perform a push-up, return to the squat, and explosively jump up with arms overhead. Focus on maintaining a straight back during the plank and landing softly to protect your joints. ",
+                "Intensity": "8",
+                "Difficulty": "7",
+                "Muscles": "Full body, especially chest, triceps, quads, glutes, and core."
+            },
+            "Superman": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie face down on the floor with arms extended forward and legs straight. Simultaneously lift your arms, chest, and legs off the ground, engaging your lower back and glutes, then slowly lower back to the starting position. Focus on maintaining a neutral neck and squeezing your shoulder blades together. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Lower back, glutes, shoulders"
+            },
+            "Side plank": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by lying on your side with legs extended and feet stacked. Prop yourself up on your forearm, ensuring your elbow is directly under your shoulder, and lift your hips off the ground, forming a straight line from head to heels. Engage your core and hold this position, focusing on maintaining balance and stability. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Obliques, Transverse Abdominis, Shoulders"
+            },
+            "Jumping jacks": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand upright with your feet together and arms at your sides. Jump while spreading your legs shoulder-width apart and simultaneously raise your arms overhead. Return to the starting position by jumping again, bringing your feet together and lowering your arms. ",
+                "Intensity": "5",
+                "Difficulty": "2",
+                "Muscles": "Cardiovascular system, calves, deltoids, and quadriceps."
+            },
+            "Leg raises": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie flat on your back with your legs extended and arms at your sides. Engage your core and lift your legs together until they form a 90-degree angle with your torso, keeping them straight. Lower them slowly without touching the ground to maintain tension in your abs. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Abdominals, hip flexors"
+            },
+            "High knees": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand tall with feet hip-width apart. Quickly drive one knee toward your chest, then switch to the other knee in a running motion, keeping your core engaged and arms pumping. Focus on maintaining a fast pace while landing softly on the balls of your feet. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 3 ",
+                "Muscles": " Quadriceps, Hamstrings, Calves, Core"
+            },
+            "Plank jacks": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Jump your feet out to the sides, wider than shoulder-width apart, then jump them back together, maintaining a tight core and stable upper body throughout. Focus on engaging your core, shoulders, and legs to maintain form and stability. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Core, shoulders, legs"
+            },
+            "Sit-ups": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with knees bent and feet flat on the floor, hip-width apart. Cross your arms over your chest or place your fingertips behind your ears, then engage your core to lift your upper body towards your knees, keeping your lower back on the ground, and slowly return to the starting position. Focus on using your abdominal muscles to lift, avoiding pulling on your neck. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Abdominals"
+            },
+            "Squat jumps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, arms at your sides. Lower into a squat by bending your knees and pushing your hips back, keeping your chest up and knees aligned with your toes. Explosively jump upward, extending your arms overhead, and land softly back into the squat position to repeat. ",
+                "Intensity": "7",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Hamstrings, Glutes, Calves"
+            },
+            "Scissor kicks": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with your hands under your glutes for support, legs extended. Lift both legs off the ground slightly, then alternate crossing one leg over the other in a scissor-like motion, keeping your core engaged and lower back pressed into the floor. Focus on maintaining a steady pace and controlled movement to effectively target the lower abs and hip flexors. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Lower abs, hip flexors"
+            },
+            "Bear crawl": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a tabletop position with hands under shoulders and knees under hips, hovering slightly above the ground. Move forward by simultaneously advancing your right hand and left foot, then your left hand and right foot, keeping your back flat and core engaged. Focus on maintaining a steady pace and controlled movements to engage the shoulders, core, and legs effectively. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Shoulders, Core, Quadriceps"
+            },
+            "Reverse crunches": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie flat on your back with your arms by your sides and legs extended. Bend your knees and lift your legs towards your chest, curling your hips off the floor while keeping your upper body stable. Focus on engaging your lower abs throughout the movement, then slowly lower your legs back to the starting position without letting your feet touch the ground. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Lower abdominals, hip flexors"
+            },
+            "Lunges": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand upright with feet hip-width apart, then step forward with one leg, lowering your hips until both knees are bent at about a 90-degree angle, ensuring the front knee is directly above the ankle. Push through the heel of the front foot to return to the starting position, keeping your torso upright and core engaged throughout the movement. Focus on maintaining balance and control to effectively target the quadriceps, hamstrings, and glutes. \n\nDescription",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "V-ups": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by lying flat on your back with arms extended overhead and legs straight. Simultaneously lift your arms and legs towards each other, forming a \"V\" shape with your body, engaging your core throughout the movement. Ensure your lower back remains in contact with the ground as you return to the starting position. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Abdominals, hip flexors"
+            },
+            "Skaters": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet hip-width apart. Leap laterally to the right, landing on your right foot while bringing your left foot behind your right ankle, and swing your arms in the same direction. Repeat the motion to the left, focusing on maintaining balance and engaging your core and glutes throughout the movement. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Glutes, Quads, Core"
+            },
+            "Plank with shoulder taps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and feet hip-width apart. While maintaining a stable core, lift one hand to tap the opposite shoulder, then return it to the ground and repeat with the other hand. Focus on keeping your hips level and engaging your core throughout the movement to avoid rocking side to side. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders, Chest"
+            },
+            "Seated leg tucks": {
+                "Equipment": "Bodyweight",
+                "Description": "Sit on the edge of a sturdy chair or bench with your hands gripping the sides for support. Lean back slightly, extend your legs out in front of you, and then draw your knees towards your chest, engaging your core throughout the movement. Ensure your back remains straight and avoid using momentum to complete the exercise. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Core, Hip Flexors"
+            },
+            "Butt kicks": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand tall with feet hip-width apart, arms relaxed at your sides. Begin jogging in place, bringing your heels up towards your glutes with each step, ensuring your knees point downward. Focus on maintaining a brisk pace and engaging your hamstrings and glutes throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Hamstrings, Glutes"
+            },
+            "Hollow body hold": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with arms extended overhead and legs straight. Engage your core to lift your shoulders and legs off the ground, creating a slight curve in your body, while keeping your lower back pressed into the floor. Hold this position, focusing on maintaining tension in your core without arching your back. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Core, Hip Flexors"
+            },
+            "Plank with hip dips": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with elbows aligned under shoulders and body forming a straight line from head to heels. Rotate your hips to one side, gently dipping them towards the floor, then return to center and repeat on the opposite side. Focus on engaging your core throughout to stabilize your body and protect your lower back. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Core, obliques, shoulders"
+            },
+            "Side plank with leg lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position with your elbow directly under your shoulder and your body in a straight line from head to heels. Engage your core and lift your top leg as high as you can while maintaining balance and keeping your hips elevated. Focus on stabilizing through your obliques and glutes throughout the movement. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 5 ",
+                "Muscles": " Obliques, Glutes, Hip Abductors"
+            },
+            "Inchworms": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin standing with feet hip-width apart, then hinge at the hips to place your hands on the floor in front of you. Walk your hands forward into a plank position, ensuring your body forms a straight line from head to heels, then walk your feet towards your hands to return to the starting position. Focus on maintaining core engagement throughout the movement to stabilize your body. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Core, Shoulders, Hamstrings"
+            },
+            "Cross-body mountain climbers": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Drive your right knee towards your left elbow, then quickly switch legs, bringing your left knee towards your right elbow, maintaining a brisk pace. Focus on engaging your core throughout the movement to stabilize your body and enhance the workout's effectiveness. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Core, shoulders, hip flexors"
+            },
+            "Russian twists with a twist": {
+                "Equipment": "Bodyweight",
+                "Description": "Sit on the floor with your knees bent and feet flat, leaning back slightly to engage your core. Hold your hands together at chest level, twist your torso to one side, then the other, ensuring your core is engaged throughout the movement. Focus on controlled movements to effectively target the obliques and avoid using momentum. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Obliques, Rectus Abdominis, Hip Flexors"
+            },
+            "Jump squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a standing position with feet shoulder-width apart, arms at your sides. Lower into a squat by bending your knees and pushing your hips back, then explosively jump up, extending your arms overhead. Land softly back into the squat position, ensuring knees are aligned with toes to engage the quadriceps, hamstrings, and glutes effectively. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Alternating toe touches": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet shoulder-width apart, arms extended out to the sides. Bend at the waist, reaching your right hand towards your left foot while lifting your left leg slightly, then return to the starting position and repeat on the opposite side. Focus on engaging your core and maintaining a controlled movement throughout. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Core, Hamstrings, Obliques"
+            },
+            "Plank up-downs": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with elbows directly under shoulders and body in a straight line. Press up onto your right hand, followed by your left, transitioning into a high plank, then lower back down onto your right forearm, followed by your left. Maintain a tight core throughout to engage the abdominals and stabilize the body. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Core, shoulders, triceps"
+            },
+            "Spiderman planks": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body forming a straight line from head to heels. As you engage your core, bring your right knee towards your right elbow, then return to the starting position and repeat on the left side. Focus on maintaining a stable torso and controlled movement to effectively target the core, obliques, and shoulders. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, Obliques, Shoulders"
+            },
+            "Squat pulses": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, toes slightly pointed out. Lower into a squat by bending your knees and pushing your hips back, keeping your chest up and core engaged. From the bottom of the squat, perform small, controlled pulses by moving up and down a few inches, focusing on maintaining tension in the quadriceps and glutes. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Glutes, Hamstrings"
+            },
+            "Dead bug": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with arms extended towards the ceiling and knees bent at 90 degrees. Slowly lower your right arm and left leg towards the floor while keeping your lower back pressed into the ground, then return to the starting position and repeat on the opposite side. Focus on maintaining core stability throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Core, Hip Flexors, Shoulders"
+            },
+            "Side plank with reach under": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position with your elbow directly under your shoulder and feet stacked. Engage your core and extend your top arm towards the ceiling, then slowly reach it under your torso, rotating your upper body slightly, before returning to the starting position. Focus on maintaining a straight line from head to heels and keeping your hips elevated throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Obliques, shoulders, core"
+            },
+            "Knee tucks": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a seated position on the floor with your legs extended and hands placed slightly behind you for support. Engage your core as you draw your knees towards your chest, lifting your feet off the ground, then extend your legs back out without touching the floor. Focus on maintaining a controlled movement to effectively target the abdominal muscles. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Abdominals, hip flexors"
+            },
+            "Pike push-ups": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a downward dog position with your hands and feet on the ground, hips raised, and body forming an inverted V-shape. Lower your head towards the floor by bending your elbows, keeping them close to your body, then push back up to the starting position. Focus on engaging your shoulders, triceps, and upper chest throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Shoulders, Triceps, Upper Chest"
+            },
+            "Standing oblique crunches": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet shoulder-width apart, hands behind your head. Lift your right knee towards your right elbow while bending your torso to the side, engaging your obliques. Return to the starting position and repeat on the left side, ensuring controlled movements throughout. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Obliques, Core"
+            },
+            "Plank with knee to elbow": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Engage your core as you bring one knee towards the same-side elbow, then return to the starting position and repeat with the opposite knee. Focus on maintaining a stable torso and controlled movement to effectively target the core and obliques. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Obliques, Shoulders"
+            },
+            "Windshield wipers": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with arms extended to the sides for stability, and lift your legs straight up towards the ceiling. Keeping your legs together and core engaged, slowly lower them to one side without touching the ground, then return to the center and repeat on the other side. Focus on controlled movements to engage the obliques and lower abs effectively. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Obliques, Lower Abs"
+            },
+            "Squat thrusts": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, then lower into a squat by bending your knees and hips. Place your hands on the ground and jump your feet back into a plank position, ensuring your body forms a straight line from head to heels. Jump your feet back to the squat position and stand up to complete one repetition, focusing on engaging your core and maintaining proper form throughout. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes, Core"
+            },
+            "Side plank dips": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position with your elbow directly under your shoulder and your feet stacked. Lower your hip towards the ground without touching it, then lift back to the starting position, engaging your obliques throughout the movement. Maintain a straight line from head to heels, focusing on controlled movements to effectively target the core and obliques. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Obliques, Core, Shoulders"
+            },
+            "Cross jacks": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet together and arms extended out to the sides at shoulder height. Jump, crossing your right foot over your left while simultaneously crossing your right arm over your left in front of your chest. Quickly reverse the movement, returning to the starting position, and repeat, alternating sides. Maintain a steady pace and engage your core throughout. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Cardiovascular system, legs, shoulders, core"
+            },
+            "Tuck jumps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, knees slightly bent. Jump explosively, bringing your knees towards your chest while keeping your core engaged and landing softly on the balls of your feet. Focus on maintaining a quick, controlled motion to maximize power and minimize impact. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Quadriceps, Hamstrings, Calves, Core"
+            },
+            "Russian twists with a clap": {
+                "Equipment": "Bodyweight",
+                "Description": "Sit on the floor with your knees bent and feet slightly elevated, leaning back slightly to engage your core. Hold your hands together, twist your torso to one side, clap your hands, then twist to the opposite side and clap again, maintaining a controlled motion throughout. Focus on engaging your obliques and keeping your back straight to avoid strain. ",
+                "Intensity": " 5 ",
+                "Difficulty": " 3 ",
+                "Muscles": " Obliques, Rectus Abdominis"
+            },
+            "Plank with leg lifts": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground, elbows aligned under shoulders, and body forming a straight line from head to heels. Engage your core and glutes, then lift one leg off the ground, keeping it straight and in line with your body, hold briefly, and lower it back down before alternating to the other leg. Focus on maintaining a stable core and avoiding any hip rotation throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Butterfly sit-ups": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by sitting on the floor with the soles of your feet touching and knees bent outward, forming a butterfly position. Lie back with your arms extended overhead, then engage your core to sit up, reaching your arms forward past your feet. Focus on maintaining a controlled motion to effectively target the abdominal muscles. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Abdominals, hip flexors"
+            },
+            "Alternating lunges": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin standing with feet hip-width apart, hands on hips or at your sides. Step forward with one leg, lowering your hips until both knees are bent at about a 90-degree angle, ensuring your front knee is directly above your ankle. Push through the heel of your front foot to return to the starting position, then repeat with the opposite leg, focusing on engaging your quadriceps, hamstrings, and glutes. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Plank with arm reach": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground, elbows directly under shoulders, and body in a straight line from head to heels. Extend one arm forward, keeping hips stable and core engaged, then return to the starting position and alternate arms. Focus on maintaining a strong core and stable hips throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, shoulders, glutes"
+            },
+            "Squat hold": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet shoulder-width apart, toes slightly pointed out, and lower your hips back and down as if sitting into a chair, keeping your chest up and core engaged. Hold the position with thighs parallel to the ground, ensuring knees are aligned with toes and weight is distributed evenly across your feet. Focus on maintaining a straight back and avoid letting knees cave inward. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Core"
+            },
+            "Side plank with crunch": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position with your elbow directly under your shoulder and your body in a straight line. Engage your core as you bring your top knee towards your top elbow, performing a crunch, then return to the starting position. Focus on maintaining balance and stability throughout the movement to effectively target the obliques and core. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Obliques, Core, Shoulders"
+            },
+            "Moguls": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a high plank position with your hands under your shoulders and feet together. Engage your core and jump both feet to the right side, landing softly with knees slightly bent, then immediately jump to the left side. Maintain a steady rhythm and focus on keeping your core tight throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders, Legs"
+            },
+            "Single-leg V-ups": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie flat on your back with arms extended overhead and legs straight. Engage your core to lift one leg and your upper body simultaneously, reaching your hands towards your toes, then return to the starting position and repeat on the other side. Focus on maintaining a controlled movement to effectively target the abdominal muscles and hip flexors. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Abdominals, Hip Flexors"
+            },
+            "Plank with alternating toe taps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with your body in a straight line from head to heels, elbows directly under shoulders. While maintaining a stable core, lift one foot off the ground and tap it out to the side, then return it to the starting position and repeat with the other foot. Focus on engaging your core and glutes to prevent your hips from sagging or rotating. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Squat and kick": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, lower into a squat by bending your knees and pushing your hips back, ensuring your knees do not extend past your toes. As you rise back to standing, extend one leg forward in a controlled kick, then return to the squat position and repeat with the opposite leg. Focus on maintaining a straight back and engaging your core throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Core"
+            },
+            "Bicycle crunches with a twist": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie flat on your back with your hands behind your head and legs lifted, knees bent at 90 degrees. Engage your core as you lift your shoulder blades off the ground, bringing your right elbow towards your left knee while extending your right leg, then switch sides in a pedaling motion. Focus on controlled movements to effectively engage the obliques and rectus abdominis. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Obliques, Rectus Abdominis"
+            },
+            "Lateral plank walk": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with hands directly under shoulders and body in a straight line from head to heels. Step your right hand and foot to the side, followed by your left hand and foot, maintaining a stable core and straight body alignment. Continue moving laterally for a set distance or number of steps, focusing on engaging the core, shoulders, and glutes throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, Shoulders, Glutes"
+            },
+            "Squat with side leg lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, toes pointing forward. Lower into a squat by bending your knees and pushing your hips back, keeping your chest up and core engaged. As you rise back to standing, lift your right leg out to the side, keeping it straight and engaging your glutes, then return to the starting position and repeat on the other side. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Glutes, Abductors"
+            },
+            "Plank with leg kick": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground, elbows aligned under shoulders, and body forming a straight line from head to heels. Engage your core and glutes, then lift one leg off the ground, extending it straight back without arching your back or dropping your hips. Alternate legs, maintaining a stable plank position throughout to target the core, glutes, and shoulders effectively. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Tricep dips": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin seated on the edge of a sturdy chair or bench with your hands placed next to your hips, fingers facing forward. Slide your hips off the edge, keeping your legs extended and feet flat on the floor, then lower your body by bending your elbows to a 90-degree angle, keeping them close to your body, and push back up to the starting position. Focus on engaging your triceps throughout the movement, ensuring your shoulders remain down and away from your ears. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Triceps, shoulders, chest"
+            },
+            "Side plank with hip lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position with your elbow directly under your shoulder, legs extended, and feet stacked. Engage your core and lift your hips towards the ceiling, then lower them back down without touching the ground, maintaining a straight line from head to heels. Focus on keeping your body stable and your core engaged throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Obliques, shoulders, glutes"
+            },
+            "Jumping lunges": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet hip-width apart, then step forward into a lunge, ensuring your front knee aligns over your ankle. Explosively jump, switching legs mid-air, and land softly in a lunge with the opposite leg forward, maintaining a straight torso throughout. Focus on engaging your quadriceps, hamstrings, and glutes for stability and power. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Plank with opposite arm and leg lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your body in a straight line from head to heels, supported on your forearms and toes. Simultaneously lift your right arm and left leg, keeping them straight and parallel to the floor, then return to the starting position and switch sides. Focus on maintaining core stability and balance throughout the movement to engage the core, shoulders, and glutes effectively. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders, Glutes"
+            },
+            "Scapular push-ups": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Keeping your arms straight, retract your shoulder blades by squeezing them together, then protract by pushing them apart, engaging your serratus anterior. Focus on controlled movements to enhance shoulder stability and avoid bending your elbows. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Serratus anterior, trapezius, rhomboids"
+            },
+            "Seated Russian twists": {
+                "Equipment": "Bodyweight",
+                "Description": "Sit on the floor with your knees bent and feet flat, leaning back slightly to engage your core. Clasp your hands together and rotate your torso to the right, then to the left, keeping your core tight and back straight throughout the movement. Focus on engaging the obliques and avoid using momentum for a controlled twist. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Obliques, Rectus Abdominis"
+            },
+            "Plank with knee drive": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Drive one knee towards your chest, engaging your core, then return to the starting position and repeat with the other knee. Maintain a stable torso throughout to effectively target the core muscles. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, shoulders, hip flexors"
+            },
+            "Squat with calf raise": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, toes slightly pointed out. Lower into a squat by bending your knees and pushing your hips back, keeping your chest up and core engaged. As you rise back to standing, lift your heels off the ground to perform a calf raise, then lower your heels back down to complete one repetition. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Glutes, Calves"
+            },
+            "Side plank with thread the needle": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position with your elbow directly under your shoulder and feet stacked. Engage your core and extend your top arm towards the ceiling, then thread it under your torso, rotating your upper body slightly, before returning to the starting position. Focus on maintaining a straight line from head to heels and engaging the obliques throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Obliques, shoulders, core"
+            },
+            "Jumping oblique twists": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with feet hip-width apart, knees slightly bent, and hands clasped in front of your chest. Jump and twist your torso to the right, bringing your left knee up towards your right elbow, then immediately jump and twist to the left, bringing your right knee towards your left elbow. Focus on engaging your core and obliques throughout the movement for stability and control. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Obliques, Core, Legs"
+            },
+            "Plank with lateral arm raise": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground, elbows directly under your shoulders, and body in a straight line from head to heels. Engage your core and slowly lift one arm to the side, parallel to the ground, while maintaining balance and keeping hips stable. Alternate arms, focusing on core stability and shoulder strength. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders"
+            },
+            "Squat with twist": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, arms extended in front of you. Lower into a squat by bending your knees and pushing your hips back, keeping your chest up. As you rise, twist your torso to one side, extending the opposite arm back, then return to the starting position and repeat on the other side. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Glutes, Obliques"
+            },
+            "Single-leg deadlift": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand upright with feet hip-width apart, shift weight onto one leg, and hinge at the hips while extending the opposite leg straight back, keeping the back flat and core engaged. Lower your torso until it's parallel to the ground, then return to the starting position by driving through the heel of the standing leg. Focus on maintaining balance and control to engage the hamstrings, glutes, and core effectively. ",
+                "Intensity": "4",
+                "Difficulty": "4",
+                "Muscles": "Hamstrings, Glutes, Core"
+            },
+            "Plank with single-arm row": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and feet hip-width apart. Shift your weight to one side and lift the opposite hand off the ground, pulling your elbow back towards your ribcage while keeping your core engaged and hips stable. Focus on maintaining a straight line from head to heels and avoid rotating your torso. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, Upper Back, Shoulders"
+            },
+            "Jumping knee tucks": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, arms at your sides. Jump explosively, bringing your knees toward your chest while keeping your core engaged and landing softly on the balls of your feet. Focus on maintaining balance and control throughout the movement to effectively engage your core, quadriceps, and calves. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Core, Quadriceps, Calves"
+            },
+            "Plank with alternating leg lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with elbows directly under shoulders and body in a straight line from head to heels. Engage your core and glutes, then lift one leg off the ground, keeping it straight, and hold for a moment before lowering it back down and alternating to the other leg. Focus on maintaining a stable torso and avoid letting your hips sag or rotate. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Squat walk": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a squat position with feet shoulder-width apart, knees bent, and hips back, ensuring your chest is up and core engaged. Step one foot forward, followed by the other, maintaining the squat position throughout the movement. Focus on keeping your knees aligned with your toes and your weight on your heels to target the quadriceps, hamstrings, and glutes effectively. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Side plank with starfish reach": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position with your elbow directly under your shoulder, feet stacked, and body in a straight line. Engage your core and lift your top leg and arm towards the ceiling, forming a starfish shape, while maintaining balance and stability. Focus on keeping your hips elevated and aligned, targeting the obliques, shoulders, and glutes. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Obliques, Shoulders, Glutes"
+            },
+            "Heel touches": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with knees bent and feet flat on the floor, arms at your sides. Engage your core and lift your shoulders slightly off the ground, reaching your right hand towards your right heel, then switch to the left side. Focus on controlled movements to effectively target the obliques. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Obliques, Rectus Abdominis"
+            },
+            "Plank with shoulder touch": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and feet hip-width apart. While maintaining a stable core, lift one hand to touch the opposite shoulder, alternating sides, ensuring your hips remain level throughout the movement. Focus on engaging your core, shoulders, and stabilizing muscles to prevent any rocking motion. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Core, Shoulders, Stabilizers"
+            },
+            "Squat with front kick": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, arms at your sides. Lower into a squat by bending your knees and pushing your hips back, keeping your chest up and core engaged. As you rise from the squat, extend one leg forward into a front kick, then return to the starting position and repeat with the opposite leg. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Core"
+            },
+            "Leg pull-ins": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin seated on the floor with your legs extended and hands placed slightly behind you for support. Engage your core as you lean back slightly, then draw your knees towards your chest, keeping your feet together and maintaining a controlled motion. Focus on contracting your abdominal muscles throughout the movement, and avoid using momentum to ensure proper form. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Abdominals, Hip Flexors"
+            },
+            "Side plank with leg swing": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position, supporting your body on one forearm with your feet stacked. Engage your core and lift your top leg, swinging it forward and backward in a controlled motion while maintaining a stable torso. Focus on keeping your hips elevated and aligned to target the obliques, glutes, and hip abductors effectively. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Obliques, Glutes, Hip Abductors"
+            }
+        }
+    }
+}

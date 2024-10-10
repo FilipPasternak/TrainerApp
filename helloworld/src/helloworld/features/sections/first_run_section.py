@@ -37,11 +37,9 @@ class FirstRunSection:
 
             for i in range(len(headers)):
                 if headers[i] not in existing_data[0]:
-                    # print('not in kurwa jego mac', headers[i], existing_data[0])
                     existing_data[0].append(headers[i])
                     existing_data[1].append(str(values[i]))
                 else:
-                    # print('in', existing_data[0].index(headers[i]), existing_data[1][existing_data[0].index(headers[i])],str(values[i]))
                     existing_header_index = existing_data[0].index(headers[i])
                     existing_data[1][existing_header_index] = str(values[i])
 

@@ -1,0 +1,1846 @@
+{
+    "Fully equipped gym": {
+        "Leg day": {
+            "Squats": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet shoulder-width apart, holding a barbell across your upper back with an overhand grip. Lower your body by bending your knees and hips, keeping your chest up and back straight, until your thighs are parallel to the floor. Push through your heels to return to the starting position, focusing on engaging your glutes, quadriceps, and core throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Core"
+            },
+            "Lunges": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand upright with feet hip-width apart, holding a dumbbell in each hand at your sides. Step forward with one leg, lowering your hips until both knees are bent at about a 90-degree angle, ensuring the front knee is directly above the ankle. Push through the heel of the front foot to return to the starting position, focusing on engaging the quadriceps, hamstrings, and glutes. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Deadlifts": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet hip-width apart, barbell over mid-foot, and grip it just outside your knees. Keep your back straight, chest up, and shoulders back as you lift the barbell by extending your hips and knees simultaneously, focusing on engaging your glutes, hamstrings, and lower back. Lower the barbell back to the ground with control, maintaining a neutral spine throughout the movement. \n\nDescription",
+                "Intensity": "8",
+                "Difficulty": "7",
+                "Muscles": "Glutes, Hamstrings, Lower Back, Quadriceps"
+            },
+            "Leg Press": {
+                "Equipment": "Machine: Leg Press",
+                "Description": "Sit on the leg press machine with your back flat against the pad and feet shoulder-width apart on the platform. Push through your heels to extend your legs, ensuring your knees do not lock, then slowly return to the starting position. Focus on engaging your quadriceps, hamstrings, and glutes throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Romanian Deadlifts": {
+                "Equipment": "Barbell",
+                "Description": "Begin with feet hip-width apart, holding a barbell with an overhand grip in front of your thighs. Keeping your back straight and knees slightly bent, hinge at the hips to lower the barbell along your legs until you feel a stretch in your hamstrings, then return to the starting position by driving your hips forward. Focus on engaging the hamstrings and glutes throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Hamstrings, Glutes, Lower Back"
+            },
+            "Step-ups": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand upright with a dumbbell in each hand, arms at your sides. Step onto a sturdy platform or bench with one foot, pressing through the heel to lift your body up, then bring the other foot up to meet it. Step back down with the same foot, maintaining control, and repeat, focusing on engaging the quadriceps, hamstrings, and glutes. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Glute Bridges": {
+                "Equipment": "Barbell",
+                "Description": "Lie on your back with knees bent and feet flat on the floor, hip-width apart. Place a barbell across your hips, holding it securely with both hands. Engage your core and glutes, then lift your hips towards the ceiling until your body forms a straight line from shoulders to knees, squeezing your glutes at the top before lowering back down. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Glutes, Hamstrings, Core"
+            },
+            "Calf Raises": {
+                "Equipment": "Machine: Standing Calf Raise",
+                "Description": "Stand with your shoulders under the machine's pads and feet hip-width apart on the platform, with heels hanging off the edge. Push through the balls of your feet to raise your heels as high as possible, then slowly lower back to the starting position. Focus on engaging the calf muscles throughout the movement for optimal results. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Calves"
+            },
+            "Box Jumps": {
+                "Equipment": "Plyo box",
+                "Description": "Begin by standing with feet shoulder-width apart, facing the plyo box. Bend your knees slightly, swing your arms, and explosively jump onto the box, landing softly with both feet flat and knees slightly bent. Step back down carefully to the starting position, focusing on engaging your core and leg muscles throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Quadriceps, Hamstrings, Glutes, Calves, Core"
+            },
+            "Walking Lunges": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin by standing upright with a dumbbell in each hand, arms at your sides. Step forward with your right foot, lowering your hips until both knees are bent at about a 90-degree angle, ensuring your front knee is directly above your ankle. Push through your right heel to return to standing, then repeat with the left leg, focusing on engaging your quadriceps, hamstrings, and glutes throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Sumo Deadlifts": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet wider than shoulder-width apart, toes slightly pointed out, and grip the barbell with hands inside your knees. Keep your chest up, back straight, and core engaged as you drive through your heels to lift the barbell, extending your hips and knees simultaneously. Focus on maintaining a neutral spine throughout the movement to effectively target the glutes, hamstrings, and inner thighs. \n\nDescription",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Glutes, Hamstrings, Inner Thighs"
+            },
+            "Bulgarian Split Squats": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with one foot elevated on a bench behind you and hold a dumbbell in each hand. Lower your body by bending the front knee until the thigh is parallel to the ground, keeping your chest upright and core engaged. Push through the heel of the front foot to return to the starting position, focusing on the quadriceps, glutes, and hamstrings. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Quadriceps, Glutes, Hamstrings"
+            },
+            "Hamstring Curls": {
+                "Equipment": "Machine: Leg Curl",
+                "Description": "Sit on the leg curl machine with your back against the pad and your legs extended straight. Position the padded lever just above your heels, then curl your legs by bending your knees, bringing your heels towards your glutes while keeping your thighs stationary. Focus on engaging your hamstrings throughout the movement, and slowly return to the starting position. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Hamstrings, Glutes"
+            },
+            "Hip Thrusts": {
+                "Equipment": "Barbell",
+                "Description": "Begin seated on the ground with your upper back resting against a bench, feet flat on the floor, and a barbell positioned over your hips. Drive through your heels to lift your hips towards the ceiling, squeezing your glutes at the top, ensuring your body forms a straight line from shoulders to knees, then lower back down. Focus on engaging the glutes and hamstrings throughout the movement, keeping your core tight to maintain stability. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Glutes, Hamstrings, Core"
+            },
+            "Jump Squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, arms at your sides. Lower into a squat by bending your knees and pushing your hips back, keeping your chest up and core engaged. Explode upward into a jump, extending your arms overhead, and land softly back into the squat position to repeat. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Calves"
+            },
+            "Single-Leg Deadlifts": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand upright holding a dumbbell in each hand, feet hip-width apart. Shift your weight onto one leg, hinge at the hips, and lower the dumbbells towards the ground while extending the opposite leg straight behind you, keeping your back flat. Return to the starting position by engaging your glutes and hamstrings, focusing on balance and control throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Hamstrings, Glutes, Core, Lower Back"
+            },
+            "Curtsy Lunges": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet hip-width apart, holding a dumbbell in each hand at your sides. Step your right leg diagonally behind your left leg, bending both knees to lower into a lunge while keeping your chest upright and core engaged. Return to the starting position and repeat on the opposite side, focusing on the glutes, quads, and inner thighs. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Glutes, Quads, Inner Thighs"
+            },
+            "Leg Extensions": {
+                "Equipment": "Machine: Leg Extension",
+                "Description": "Sit on the leg extension machine with your back firmly against the pad and your feet under the padded bar. Adjust the machine so your knees align with the pivot point, then extend your legs fully while keeping your back straight and core engaged. Focus on contracting your quadriceps at the top of the movement before slowly lowering back to the starting position. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps"
+            },
+            "Kettlebell Swings": {
+                "Equipment": "Kettlebells",
+                "Description": "Begin with feet shoulder-width apart, holding the kettlebell with both hands in front of you. Hinge at the hips, keeping your back straight, and swing the kettlebell between your legs, then thrust your hips forward to swing it up to shoulder height. Focus on engaging your core and glutes throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Glutes, Hamstrings, Core, Shoulders"
+            },
+            "Reverse Lunges": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand upright with feet hip-width apart, holding a dumbbell in each hand at your sides. Step one foot back into a lunge, lowering your hips until both knees are bent at about a 90-degree angle, ensuring your front knee is directly above your ankle. Push through the heel of your front foot to return to the starting position, focusing on engaging your glutes and quadriceps. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Glutes, Quadriceps, Hamstrings"
+            },
+            "Goblet Squats": {
+                "Equipment": "Kettlebells",
+                "Description": "Stand with feet shoulder-width apart, holding a kettlebell close to your chest with both hands. Lower your body into a squat by bending your knees and pushing your hips back, keeping your chest up and core engaged. Return to the starting position by driving through your heels, focusing on your quadriceps, glutes, and core. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Glutes, Core"
+            },
+            "Leg Press Machine": {
+                "Equipment": "Machine: Leg Press",
+                "Description": "Sit on the leg press machine with your back flat against the pad and feet shoulder-width apart on the platform. Push through your heels to extend your legs, ensuring your knees remain aligned with your toes, then slowly return to the starting position without locking your knees. Focus on engaging your quadriceps, hamstrings, and glutes throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Donkey Kicks": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin on all fours with your hands directly under your shoulders and knees under your hips. Keeping your knee bent at 90 degrees, lift one leg towards the ceiling, squeezing your glutes at the top, then lower back to the starting position without touching the ground. Focus on controlled movements to effectively engage the glutes and hamstrings. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Glutes, Hamstrings"
+            },
+            "Calf Press": {
+                "Equipment": "Machine: Calf Raise",
+                "Description": "Sit on the calf raise machine with your feet positioned on the platform, toes pointing forward, and heels hanging off the edge. Push through the balls of your feet to raise your heels as high as possible, then slowly lower back to the starting position, focusing on a full range of motion. Ensure your knees remain slightly bent to avoid locking them, and concentrate on engaging the calf muscles throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Gastrocnemius, Soleus"
+            },
+            "Side Lunges": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet hip-width apart, holding a dumbbell in each hand at your sides. Step your right foot out to the side, bending your right knee and pushing your hips back while keeping your left leg straight. Return to the starting position and repeat on the other side, focusing on engaging your glutes and inner thighs. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Glutes, Inner Thighs, Quadriceps"
+            },
+            "Stiff-legged Deadlifts": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet hip-width apart, holding a barbell in front of your thighs with an overhand grip. Keeping your back straight and knees slightly bent, hinge at the hips to lower the barbell down the front of your legs until you feel a stretch in your hamstrings, then return to the starting position by driving your hips forward. Focus on engaging the hamstrings and glutes throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Hamstrings, Glutes, Lower Back"
+            },
+            "Glute-Ham Raises": {
+                "Equipment": "Machine: Glute-Ham Raise",
+                "Description": "Begin by positioning yourself on the glute-ham raise machine with your thighs resting on the pads and your feet secured under the footplate. Lower your upper body towards the ground by bending at the knees and hips, then contract your hamstrings and glutes to raise your body back to the starting position, keeping your back straight throughout the movement. Focus on engaging the hamstrings and glutes while maintaining a controlled motion. ",
+                "Intensity": "7",
+                "Difficulty": "7",
+                "Muscles": "Hamstrings, Glutes, Lower Back"
+            },
+            "Pistol Squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand on one leg with the other leg extended forward, arms outstretched for balance. Lower your body into a squat by bending the standing leg, keeping the extended leg straight and parallel to the ground, then push through the heel to return to standing. Focus on maintaining balance and engaging the quadriceps, glutes, and core throughout the movement. ",
+                "Intensity": "8",
+                "Difficulty": "8",
+                "Muscles": "Quadriceps, Glutes, Core"
+            },
+            "Sissy Squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand upright with feet shoulder-width apart, keeping your core engaged and hands on your hips or extended in front for balance. Slowly lean back, bending at the knees while keeping your torso straight, lowering your body until your knees are fully flexed, then return to the starting position. Focus on engaging your quadriceps throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Core"
+            },
+            "Reverse Hyperextensions": {
+                "Equipment": "Machine: Hyperextension Bench",
+                "Description": "Begin by lying face down on the hyperextension bench with your hips at the edge and legs hanging freely. Grasp the handles for support, then engage your glutes and lower back to lift your legs until they are in line with your torso, keeping them straight throughout the movement. Focus on controlled motion to effectively target the glutes, hamstrings, and lower back. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Glutes, Hamstrings, Lower Back"
+            },
+            "Wall Sits": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with your back against a wall, feet shoulder-width apart and about two feet from the wall. Slide down until your thighs are parallel to the ground, keeping your knees directly above your ankles and your back flat against the wall. Hold this position, focusing on engaging your quadriceps, hamstrings, and glutes. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Kettlebell Lunges": {
+                "Equipment": "Kettlebells",
+                "Description": "Stand upright with feet hip-width apart, holding a kettlebell in each hand at your sides. Step forward with one leg, lowering your hips until both knees are bent at about a 90-degree angle, ensuring the front knee is directly above the ankle. Push through the front heel to return to the starting position, focusing on engaging the quadriceps, hamstrings, and glutes. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Leg Curl Machine": {
+                "Equipment": "Machine: Leg Curl",
+                "Description": "Sit on the leg curl machine with your back against the pad and your legs extended straight. Position the padded lever just above your ankles, grip the handles, and curl your legs by bending your knees, bringing your heels towards your glutes. Focus on engaging your hamstrings throughout the movement, then slowly return to the starting position. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Hamstrings, Calves"
+            },
+            "Split Squats": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin in a standing position with feet hip-width apart, holding a dumbbell in each hand at your sides. Step one foot forward into a lunge position, ensuring the front knee is aligned over the ankle and the back knee is lowered toward the ground. Push through the heel of the front foot to return to the starting position, focusing on engaging the quadriceps, hamstrings, and glutes. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Frog Jumps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a squat position with feet shoulder-width apart, toes slightly turned out, and hands on the ground between your legs. Explosively jump forward, extending your legs and swinging your arms forward for momentum, landing softly back into the squat position. Focus on engaging your quadriceps, glutes, and calves throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Glutes, Calves"
+            },
+            "Fire Hydrants": {
+                "Equipment": "Ankle weights",
+                "Description": "Begin on all fours with your hands directly under your shoulders and knees under your hips, wearing ankle weights. Keeping your knee bent at 90 degrees, lift one leg out to the side until your thigh is parallel to the ground, then lower it back down without touching the floor. Focus on engaging your glutes and core throughout the movement to maintain stability. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Hip Abductors, Core"
+            },
+            "Leg Abduction Machine": {
+                "Equipment": "Machine: Hip Abductor",
+                "Description": "Sit on the hip abductor machine with your back straight and feet flat on the footrests. Adjust the pads to rest against the outside of your knees, then slowly push your legs apart, focusing on engaging your outer thighs and glutes. Return to the starting position with control, ensuring your movements are smooth and steady throughout the exercise. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Outer Thighs"
+            },
+            "Plie Squats": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet wider than shoulder-width apart, toes pointing slightly outward, and hold a dumbbell with both hands in front of your chest. Lower your body by bending your knees and pushing your hips back, keeping your chest up and core engaged, until your thighs are parallel to the floor. Press through your heels to return to the starting position, focusing on engaging your inner thighs and glutes. ",
+                "Intensity": " 5 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Quadriceps, Glutes, Inner Thighs"
+            },
+            "Seated Calf Raises": {
+                "Equipment": "Machine: Seated Calf Raise",
+                "Description": "Sit on the machine with your feet positioned on the footplate, ensuring your heels are hanging off the edge. Place your thighs under the padded lever, and push through the balls of your feet to raise your heels as high as possible, then slowly lower back to the starting position. Focus on engaging your calf muscles throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Gastrocnemius, Soleus"
+            },
+            "Skater Lunges": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet hip-width apart. Leap laterally to the right, landing on your right foot while bringing your left foot behind your right leg, bending both knees into a lunge. Push off your right foot to leap to the left, repeating the motion on the opposite side. Focus on maintaining balance and engaging your core throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Calves"
+            },
+            "Hack Squats": {
+                "Equipment": "Machine: Hack Squat",
+                "Description": "Stand on the hack squat machine with your back against the pad and shoulders under the shoulder pads, feet shoulder-width apart. Lower your body by bending your knees until your thighs are parallel to the platform, keeping your back straight and core engaged, then push through your heels to return to the starting position. Focus on engaging the quadriceps, glutes, and hamstrings throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Glutes, Hamstrings"
+            },
+            "Good Mornings": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet shoulder-width apart, holding a barbell across your upper back with an overhand grip. Keeping your back straight and core engaged, hinge at the hips to lower your torso until it's nearly parallel to the floor, then return to the starting position. Focus on engaging the hamstrings, glutes, and lower back throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Hamstrings, Glutes, Lower Back"
+            },
+            "Lateral Lunges": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet hip-width apart, holding a dumbbell in each hand at your sides. Step out to the side with your right foot, bending your right knee and pushing your hips back while keeping your left leg straight. Return to the starting position and repeat on the other side, focusing on engaging your glutes and inner thighs. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Glutes, Quadriceps, Inner Thighs"
+            },
+            "Reverse Leg Press": {
+                "Equipment": "Machine: Reverse Leg Press",
+                "Description": "Begin by positioning yourself on the reverse leg press machine, lying face down with your hips aligned with the machine's pivot point. Place your feet shoulder-width apart on the platform, ensuring your knees are slightly bent. Push the platform away by extending your legs fully, focusing on engaging your glutes and hamstrings, then slowly return to the starting position. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Glutes, Hamstrings, Quadriceps"
+            },
+            "Kettlebell Deadlifts": {
+                "Equipment": "Kettlebells",
+                "Description": "Stand with feet hip-width apart, holding a kettlebell with both hands in front of you. Hinge at the hips, keeping your back straight and core engaged, lowering the kettlebell towards the ground while maintaining a slight bend in the knees. Drive through your heels to return to standing, focusing on engaging the glutes and hamstrings. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Glutes, Hamstrings, Lower Back"
+            },
+            "Leg Raises": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie flat on your back with your legs extended and arms at your sides. Engage your core and lift your legs together until they form a 90-degree angle with your torso, then slowly lower them back down without touching the ground. Focus on maintaining a controlled movement to effectively target the lower abdominal muscles. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Lower abdominals, hip flexors"
+            },
+            "Clamshells": {
+                "Equipment": "Resistance loop bands",
+                "Description": "Begin by lying on your side with your legs stacked, knees bent at a 45-degree angle, and a resistance loop band placed just above your knees. Keeping your feet together, lift your top knee as high as possible without rotating your pelvis, then slowly return to the starting position. Focus on engaging your glutes and outer thighs throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Hip Abductors"
+            },
+            "Jefferson Squats": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet shoulder-width apart, positioning the barbell between your legs. Grip the barbell with one hand in front and the other behind you, keeping your back straight and core engaged. Lower into a squat by bending your knees and hips, ensuring your knees track over your toes, then push through your heels to return to standing. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes, Core"
+            },
+            "Standing Calf Raises": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand with your feet hip-width apart and your hands on your hips or by your sides for balance. Slowly rise onto the balls of your feet, lifting your heels as high as possible, then lower back down with control. Focus on engaging your calf muscles throughout the movement. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Calves"
+            },
+            "Lateral Band Walks": {
+                "Equipment": "Resistance bands",
+                "Description": "Begin by placing a resistance band around your legs, just above the knees. Stand with feet shoulder-width apart, knees slightly bent, and core engaged. Step laterally to the side, maintaining tension in the band, and then bring the other foot to meet it, focusing on keeping your hips level and knees aligned. Repeat in the opposite direction. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Hip Abductors"
+            },
+            "Leg Press Calf Raise": {
+                "Equipment": "Machine: Leg Press",
+                "Description": "Sit on the leg press machine with your feet shoulder-width apart on the platform, toes pointing forward. Extend your legs fully, then press through the balls of your feet to lift your heels, engaging your calves. Lower your heels back down with control, ensuring your knees remain slightly bent throughout the movement to avoid locking them. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Calves, Gastrocnemius, Soleus"
+            },
+            "Duck Walks": {
+                "Equipment": "Resistance bands",
+                "Description": "Begin by placing a resistance band around your thighs, just above the knees, and stand with feet shoulder-width apart. Lower into a squat position, keeping your chest up and back straight, then take small steps forward, maintaining the squat and tension in the band. Focus on engaging your glutes, quads, and hamstrings throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Glutes, Quads, Hamstrings"
+            },
+            "Single-Leg Glute Bridges": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with one knee bent and the other leg extended straight. Press through the heel of the bent leg to lift your hips off the ground, keeping your extended leg in line with your torso, and squeeze your glutes at the top. Focus on engaging your core and glutes while maintaining a straight line from shoulders to knees. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Hamstrings, Core"
+            },
+            "Calf Raises on Leg Press Machine": {
+                "Equipment": "Machine: Leg Press",
+                "Description": "Sit on the leg press machine with your feet shoulder-width apart on the platform, ensuring your heels are hanging off the edge. Push through the balls of your feet to lift the weight, fully extending your ankles, then slowly lower back to the starting position. Focus on controlled movements to effectively target the calf muscles. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Calves"
+            },
+            "Single-Leg Squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin by standing on one leg with the other leg extended slightly forward, keeping your core engaged and back straight. Lower your body by bending the knee of the standing leg, ensuring your knee aligns with your toes, and descend until your thigh is parallel to the ground, then push through your heel to return to the starting position. Focus on maintaining balance and control throughout the movement to effectively target the quadriceps, glutes, and core. \n\nDescription",
+                "Intensity": "7",
+                "Difficulty": "7",
+                "Muscles": "Quadriceps, Glutes, Core"
+            },
+            "Calf Raises on Smith Machine": {
+                "Equipment": "Machine: Smith Machine",
+                "Description": "Stand with your feet shoulder-width apart on the Smith Machine platform, positioning the bar across your upper back. Slowly raise your heels to stand on your toes, engaging your calf muscles, then lower back down with control. Focus on maintaining balance and a straight posture throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Calves"
+            },
+            "Kettlebell Step-ups": {
+                "Equipment": "Kettlebells",
+                "Description": "Stand upright holding a kettlebell in each hand, arms at your sides, and place one foot on a sturdy bench or step. Push through the heel of the elevated foot to lift your body up, bringing the opposite foot to meet it, then step back down with the same foot. Focus on maintaining a straight back and engaging your core throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Core"
+            },
+            "Cable Pull Throughs": {
+                "Equipment": "Cable machine",
+                "Description": "Stand facing away from the cable machine with feet shoulder-width apart, holding the rope attachment between your legs. Hinge at the hips, keeping your back straight, and pull the rope forward by squeezing your glutes and hamstrings, then return to the starting position. Focus on maintaining a neutral spine and engaging the posterior chain throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Hamstrings, Lower Back"
+            },
+            "Seated Leg Press": {
+                "Equipment": "Machine: Seated Leg Press",
+                "Description": "Sit on the leg press machine with your back firmly against the pad and feet shoulder-width apart on the platform. Push through your heels to extend your legs without locking your knees, then slowly return to the starting position. Focus on engaging your quadriceps, hamstrings, and glutes throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Leg Extension Machine": {
+                "Equipment": "Machine: Leg Extension",
+                "Description": "Sit on the leg extension machine with your back against the pad and your feet under the padded bar. Adjust the machine so your knees align with the pivot point, then extend your legs fully while keeping your back straight and core engaged. Focus on contracting your quadriceps as you lift and control the movement as you lower back to the starting position. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps"
+            }
+        },
+        "Push day": {
+            "Dumbbell bench press": {
+                "Equipment": "Barbell",
+                "Description": "Lie flat on a bench with feet firmly on the ground, holding a barbell with an overhand grip slightly wider than shoulder-width. Lower the barbell to your chest, keeping elbows at a 45-degree angle, then press it back up until arms are fully extended, focusing on engaging the chest, shoulders, and triceps. Ensure a controlled movement to prevent strain and maintain a neutral spine throughout the exercise. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Chest, Shoulders, Triceps"
+            },
+            "Military press": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet shoulder-width apart, holding a barbell at shoulder height with an overhand grip. Press the barbell overhead by extending your arms fully, keeping your core engaged and back straight, then lower it back to the starting position. Focus on maintaining control throughout the movement to effectively target the shoulders, triceps, and upper chest. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Shoulders, Triceps, Upper Chest"
+            },
+            "Tricep dips": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin seated on the edge of a sturdy chair or bench with your hands placed next to your hips, fingers pointing forward. Slide your hips off the edge, keeping your legs extended and feet flat on the floor, then lower your body by bending your elbows to a 90-degree angle, keeping them close to your sides, and push back up to the starting position. Focus on engaging the triceps throughout the movement, ensuring your shoulders remain down and away from your ears. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Triceps, Shoulders, Chest"
+            },
+            "Chest press": {
+                "Equipment": "Machine: Chest press",
+                "Description": "Sit on the chest press machine with your back firmly against the pad and feet flat on the floor. Grasp the handles with an overhand grip, elbows bent at 90 degrees, and press forward until your arms are fully extended, then slowly return to the starting position. Focus on engaging your chest muscles throughout the movement, avoiding locking your elbows at the top. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Pectorals, Triceps, Deltoids"
+            },
+            "Shoulder press": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin seated or standing with feet shoulder-width apart, holding a dumbbell in each hand at shoulder height, palms facing forward. Press the dumbbells upward until your arms are fully extended overhead, then slowly lower them back to the starting position. Focus on engaging the shoulders, triceps, and upper chest throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Deltoids, Triceps, Upper Chest"
+            },
+            "Tricep kickbacks": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet hip-width apart, holding a dumbbell in each hand. Bend slightly at the knees and hinge forward at the hips, keeping your back straight. With elbows bent at 90 degrees, extend your arms back until they are straight, focusing on squeezing the triceps, then return to the starting position. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Triceps, Deltoids"
+            },
+            "Push-ups": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with hands placed shoulder-width apart and feet together, keeping your body in a straight line from head to heels. Lower your chest towards the ground by bending your elbows, keeping them close to your body, then push back up to the starting position. Focus on engaging your core and maintaining a neutral spine throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Chest, Triceps, Shoulders, Core"
+            },
+            "Lateral raises": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand at your sides. With a slight bend in your elbows, raise your arms out to the sides until they are parallel to the floor, keeping your palms facing down. Focus on engaging your shoulder muscles and avoid swinging the weights; lower them back to the starting position with control. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Deltoids, Trapezius"
+            },
+            "Tricep overhead extension": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell with both hands above your head, arms fully extended. Keeping your elbows close to your head, lower the dumbbell behind your head by bending your elbows, then extend your arms back to the starting position. Focus on engaging the triceps throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Triceps, Shoulders"
+            },
+            "Incline bench press": {
+                "Equipment": "Barbell",
+                "Description": "Lie back on an incline bench set at a 30-45 degree angle, with feet flat on the floor. Grip the barbell slightly wider than shoulder-width apart, lower it to your upper chest while keeping elbows at a 45-degree angle, then press the barbell back up until arms are fully extended. Focus on engaging the upper chest, shoulders, and triceps throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Upper chest, shoulders, triceps"
+            },
+            "Front raises": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand with palms facing down. Keeping your arms straight, lift the dumbbells in front of you to shoulder height, then slowly lower them back down. Focus on controlled movements to engage the shoulders and avoid swinging. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Deltoids, Trapezius"
+            },
+            "Skull crushers": {
+                "Equipment": "Barbell",
+                "Description": "Lie on a flat bench with your feet firmly on the ground, holding a barbell with a narrow grip, arms fully extended above your chest. Keeping your elbows stationary, lower the barbell towards your forehead by bending your elbows, then extend your arms back to the starting position, focusing on engaging the triceps throughout the movement. Ensure controlled motion to avoid injury and maintain a steady pace. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Triceps"
+            },
+            "Chest flyes": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin by lying on a flat bench with a dumbbell in each hand, arms extended above your chest with a slight bend in the elbows. Slowly lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest, then bring them back to the starting position by squeezing your chest muscles. Focus on maintaining control throughout the movement to effectively target the pectoral muscles. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Pectorals, Deltoids, Biceps"
+            },
+            "Arnold press": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin seated or standing with a dumbbell in each hand, palms facing your body at shoulder height. As you press the weights overhead, rotate your palms outward until they face forward at the top of the movement, then reverse the motion to return to the starting position. Focus on controlled movements to engage the shoulders, triceps, and upper chest effectively. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Shoulders, Triceps, Upper Chest"
+            },
+            "Tricep pushdown": {
+                "Equipment": "Cable machine",
+                "Description": "Stand facing the cable machine with feet shoulder-width apart, grasping the bar with an overhand grip. Keep elbows close to your sides and push the bar down until your arms are fully extended, focusing on squeezing the triceps. Return to the starting position with control, ensuring elbows remain stationary throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Triceps, forearms"
+            },
+            "Decline bench press": {
+                "Equipment": "Barbell",
+                "Description": "Lie on a decline bench with your feet secured, holding a barbell with a grip slightly wider than shoulder-width. Lower the barbell to your lower chest, keeping your elbows at a 45-degree angle, then press it back up until your arms are fully extended. Focus on engaging your lower pectorals, triceps, and anterior deltoids throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Lower pectorals, triceps, anterior deltoids"
+            },
+            "Reverse flyes": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand, and hinge forward at the hips with a slight bend in the knees, keeping your back straight. With a slight bend in the elbows, raise the dumbbells out to the sides until your arms are parallel to the floor, squeezing your shoulder blades together, then slowly lower them back to the starting position. Focus on controlled movements to target the rear deltoids and upper back muscles effectively. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Rear deltoids, rhomboids, trapezius"
+            },
+            "Tricep rope pushdown": {
+                "Equipment": "Cable machine",
+                "Description": "Stand facing the cable machine with feet shoulder-width apart, grasping the rope attachment with palms facing each other. Keep elbows close to your sides and extend your arms downward, fully engaging the triceps, then slowly return to the starting position. Focus on maintaining a straight back and controlled movement throughout the exercise. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Triceps, forearms"
+            },
+            "Machine shoulder press": {
+                "Equipment": "Machine: Shoulder press",
+                "Description": "Sit on the shoulder press machine with your back firmly against the pad and feet flat on the floor. Grip the handles with palms facing forward, elbows bent at 90 degrees, and press upward until your arms are fully extended without locking the elbows. Focus on engaging the deltoids, triceps, and upper chest throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Deltoids, Triceps, Upper Chest"
+            },
+            "Diamond push-ups": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a plank position with your hands close together, forming a diamond shape with your thumbs and index fingers directly under your chest. Lower your body by bending your elbows, keeping them close to your sides, until your chest nearly touches your hands, then push back up to the starting position. Focus on engaging your triceps, chest, and core throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Triceps, Chest, Core"
+            },
+            "Chest pullover": {
+                "Equipment": "Dumbbells",
+                "Description": "Lie on a flat bench with your upper back and shoulders supported, holding a dumbbell with both hands above your chest. Keeping your arms slightly bent, lower the dumbbell in an arc behind your head until you feel a stretch in your chest, then return to the starting position. Focus on engaging your chest, lats, and triceps throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, Lats, Triceps"
+            },
+            "Upright rows": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet shoulder-width apart, holding a barbell with an overhand grip, hands slightly closer than shoulder-width. Pull the barbell straight up towards your chin, keeping it close to your body, elbows leading the movement, and pause briefly at the top before lowering it back down. Focus on engaging your shoulders and upper back throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Deltoids, Trapezius, Biceps"
+            },
+            "Tricep bench dips": {
+                "Equipment": "Bodyweight",
+                "Description": "Sit on the edge of a bench with your hands beside your hips, fingers pointing forward. Slide off the bench, supporting your weight with your arms, and lower your body by bending your elbows to a 90-degree angle, then push back up to the starting position. Focus on keeping your elbows close to your body to effectively target the triceps. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Triceps, shoulders, chest"
+            },
+            "Standing chest press": {
+                "Equipment": "Kettlebells",
+                "Description": "Stand with feet shoulder-width apart, holding a kettlebell in each hand at chest level with palms facing forward. Press the kettlebells forward until arms are fully extended, keeping elbows slightly bent, then return to the starting position. Focus on engaging the chest, shoulders, and triceps throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Chest, Shoulders, Triceps"
+            },
+            "Shoulder front raise plate twist": {
+                "Equipment": "Weight plates",
+                "Description": "Stand with feet shoulder-width apart, holding a weight plate with both hands at the 3 and 9 o'clock positions. Begin with the plate resting against your thighs, then raise it to shoulder height while keeping arms straight. Once at shoulder height, twist the plate to the left and right, engaging the shoulders and core, before lowering it back to the starting position. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Deltoids, Core, Trapezius"
+            },
+            "Tricep bench press": {
+                "Equipment": "Barbell",
+                "Description": "Lie flat on a bench with your feet firmly on the ground, holding a barbell with a shoulder-width grip above your chest. Lower the barbell slowly to your chest, keeping your elbows close to your body, then press it back up to the starting position, focusing on engaging your triceps throughout the movement. Ensure your wrists remain straight and avoid flaring your elbows to maximize tricep activation and minimize shoulder strain. \n\nDescription",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Triceps, Chest, Shoulders"
+            },
+            "Machine chest flyes": {
+                "Equipment": "Machine: Chest fly",
+                "Description": "Sit on the chest fly machine with your back firmly against the pad and feet flat on the floor. Grasp the handles with a slight bend in your elbows, then bring your arms together in front of your chest, squeezing your chest muscles, before slowly returning to the starting position. Focus on controlled movements to engage the pectoral muscles effectively. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Pectorals, Deltoids, Triceps"
+            },
+            "Seated shoulder press": {
+                "Equipment": "Dumbbells",
+                "Description": "Sit upright on a bench with back support, holding a dumbbell in each hand at shoulder height, palms facing forward. Press the dumbbells overhead until your arms are fully extended, then slowly lower them back to the starting position. Focus on keeping your core engaged and avoid arching your back to effectively target the shoulders. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Deltoids, Triceps, Upper Pectorals"
+            },
+            "Tricep hammer extensions": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin by standing or sitting with a dumbbell in each hand, arms extended overhead, palms facing each other. Keeping your elbows close to your head, lower the dumbbells behind your head by bending your elbows, then extend your arms back to the starting position. Focus on engaging the triceps throughout the movement, ensuring your elbows remain stationary. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Triceps"
+            },
+            "Cable chest press": {
+                "Equipment": "Cable machine",
+                "Description": "Stand facing away from the cable machine with feet shoulder-width apart, grasping the handles at chest height. Press the handles forward by extending your arms, keeping elbows slightly bent, and engage your chest muscles. Return to the starting position with control, focusing on the chest, shoulders, and triceps. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Chest, Shoulders, Triceps"
+            },
+            "Shoulder shrugs": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet shoulder-width apart, holding a barbell in front of your thighs with an overhand grip. Keeping your arms straight, lift your shoulders towards your ears, squeezing your traps at the top, then slowly lower back to the starting position. Focus on controlled movements to effectively target the trapezius muscles. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Trapezius, Upper Back"
+            },
+            "Tricep dumbbell floor press": {
+                "Equipment": "Dumbbells",
+                "Description": "Lie on your back with knees bent and feet flat on the floor, holding a dumbbell in each hand with arms extended above your chest. Lower the dumbbells by bending your elbows until they lightly touch the floor, then press them back up by extending your arms, focusing on engaging your triceps throughout the movement. Ensure your elbows remain close to your body to maximize tricep activation and avoid flaring out. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Triceps, Chest, Shoulders"
+            },
+            "Machine incline press": {
+                "Equipment": "Machine: Incline press",
+                "Description": "Sit on the incline press machine with your back firmly against the pad and feet flat on the floor. Grasp the handles with an overhand grip, elbows bent at 90 degrees, and press the handles upward until your arms are fully extended, then slowly return to the starting position. Focus on engaging the chest, shoulders, and triceps throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Chest, Shoulders, Triceps"
+            },
+            "Chest squeeze press": {
+                "Equipment": "Medicine ball",
+                "Description": "Stand with feet shoulder-width apart, holding a medicine ball at chest level with both hands. Press the ball by squeezing it between your palms while extending your arms forward, then return to the starting position. Focus on engaging the chest muscles throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Pectorals, Deltoids, Triceps"
+            },
+            "Shoulder lateral raise machine": {
+                "Equipment": "Machine: Lateral raise",
+                "Description": "Sit upright on the lateral raise machine with your back firmly against the pad and your feet flat on the floor. Grasp the handles with your arms at your sides, then lift your arms outward and upward to shoulder height, keeping a slight bend in your elbows. Focus on engaging your deltoids throughout the movement, and avoid using momentum to ensure proper form. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Deltoids, Trapezius"
+            },
+            "Tricep skull crushers": {
+                "Equipment": "Barbell",
+                "Description": "Lie on a flat bench with your feet firmly on the ground, holding a barbell with an overhand grip, arms extended above your chest. Lower the barbell towards your forehead by bending your elbows, keeping your upper arms stationary, then extend your arms back to the starting position. Focus on engaging the triceps throughout the movement, ensuring controlled motion to avoid injury. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Triceps"
+            },
+            "Machine decline press": {
+                "Equipment": "Machine: Decline press",
+                "Description": "Sit on the decline press machine with your back firmly against the pad and feet flat on the floor. Grasp the handles with an overhand grip, elbows bent at 90 degrees, and press the handles forward until your arms are fully extended, then slowly return to the starting position. Focus on engaging the chest, triceps, and shoulders throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Chest, Triceps, Shoulders"
+            },
+            "Chest cable crossover": {
+                "Equipment": "Cable machine",
+                "Description": "Stand in the center of a cable machine with feet shoulder-width apart, grasping the handles with arms extended to the sides. With a slight bend in the elbows, pull the handles together in front of your chest, focusing on squeezing the chest muscles, then slowly return to the starting position. Ensure to keep your core engaged and avoid swinging your body for optimal muscle activation. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Pectorals, Deltoids, Triceps"
+            },
+            "Shoulder reverse flyes": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand, and hinge forward at the hips with a slight bend in the knees. With a slight bend in the elbows, raise the dumbbells out to the sides until your arms are parallel to the floor, squeezing the shoulder blades together. Focus on controlled movements to target the rear deltoids and upper back muscles. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Rear deltoids, rhomboids, trapezius"
+            },
+            "Tricep diamond pushdown": {
+                "Equipment": "Cable machine",
+                "Description": "Stand facing the cable machine with a rope attachment set at chest height. Grasp the rope with both hands, forming a diamond shape with your thumbs and index fingers. Keep your elbows close to your body as you extend your arms downward, focusing on squeezing your triceps at the bottom of the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Triceps, Forearms"
+            },
+            "Machine chest press": {
+                "Equipment": "Machine: Chest press",
+                "Description": "Sit on the chest press machine with your back firmly against the pad and feet flat on the floor. Grasp the handles with an overhand grip, elbows bent at 90 degrees, and press forward until your arms are fully extended, then slowly return to the starting position. Focus on engaging the chest muscles throughout the movement, avoiding locking the elbows at the top. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Pectorals, triceps, deltoids"
+            },
+            "Shoulder cable front raise": {
+                "Equipment": "Cable machine",
+                "Description": "Stand facing away from the cable machine with feet shoulder-width apart, grasp the handle with an overhand grip, and keep your arm straight. Raise the handle in front of you to shoulder height, keeping your core engaged and avoiding any swinging motion. Focus on controlled movement to target the anterior deltoids effectively. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Anterior deltoids, trapezius, and serratus anterior"
+            },
+            "Tricep cable kickbacks": {
+                "Equipment": "Cable machine",
+                "Description": "Stand facing the cable machine with a handle attached to the low pulley. Bend slightly forward at the hips, keeping your back straight, and hold the handle with one hand, elbow bent at 90 degrees. Extend your arm straight back, focusing on contracting the triceps, then return to the starting position. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Triceps"
+            },
+            "Incline dumbbell press": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin seated on an incline bench, holding a dumbbell in each hand at shoulder height with palms facing forward. Press the dumbbells upward until your arms are fully extended, then slowly lower them back to the starting position, focusing on engaging your chest and triceps throughout the movement. Ensure your back remains flat against the bench and avoid locking your elbows at the top. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, Triceps, Shoulders"
+            },
+            "Chest dips": {
+                "Equipment": "Parallette bars",
+                "Description": "Begin by gripping the parallette bars with your arms straight and shoulders above your hands, keeping your body upright. Lower your body by bending your elbows until your upper arms are parallel to the ground, then push back up to the starting position, focusing on engaging your chest and triceps. Ensure your elbows are slightly tucked in to avoid shoulder strain. \n\nDescription",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Chest, Triceps, Shoulders"
+            },
+            "Shoulder plate front raise": {
+                "Equipment": "Weight plates",
+                "Description": "Stand with feet shoulder-width apart, holding a weight plate with both hands in front of your thighs. Keeping your arms straight, raise the plate to shoulder height, then lower it back down with control. Focus on engaging your shoulders and maintaining a stable core throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Deltoids, Trapezius, Core"
+            },
+            "Tricep dumbbell kickbacks": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet hip-width apart, holding a dumbbell in each hand. Bend slightly at the knees and hinge forward at the hips, keeping your back straight. With elbows bent at 90 degrees and close to your sides, extend your arms back until fully straightened, focusing on squeezing the triceps, then return to the starting position. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Triceps"
+            }
+        },
+        "Pull day": {
+            "Pull-ups": {
+                "Equipment": "Pull-up bar",
+                "Description": "Grip the pull-up bar with palms facing away, hands shoulder-width apart. Hang with arms fully extended, then pull your body up until your chin is above the bar, engaging your back and biceps. Lower yourself back to the starting position with control, ensuring full range of motion. ",
+                "Intensity": "8",
+                "Difficulty": "7",
+                "Muscles": "Latissimus dorsi, biceps, and upper back muscles"
+            },
+            "Bent-over rows": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet shoulder-width apart, holding a barbell with an overhand grip. Bend at the hips, keeping your back straight and knees slightly bent, until your torso is nearly parallel to the floor. Pull the barbell towards your lower ribcage, squeezing your shoulder blades together, then lower it back down with control. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 5 ",
+                "Muscles": " Upper back, lats, biceps"
+            },
+            "Single-arm dumbbell rows": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin in a staggered stance with one hand resting on a bench and the other holding a dumbbell, keeping your back flat and core engaged. Pull the dumbbell towards your hip, squeezing your shoulder blade at the top, then lower it back down with control. Focus on maintaining a stable torso and avoid twisting your body. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Latissimus dorsi, rhomboids, biceps"
+            },
+            "Reverse flyes": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand, and hinge forward at the hips with a slight bend in the knees. With a slight bend in the elbows, raise the dumbbells out to the sides until your arms are parallel to the floor, squeezing the shoulder blades together. Focus on controlled movements to target the rear deltoids and upper back. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Rear deltoids, rhomboids, trapezius"
+            },
+            "Chin-ups": {
+                "Equipment": "Pull-up bar",
+                "Description": "Begin by gripping the pull-up bar with your palms facing you, hands shoulder-width apart. Hang with your arms fully extended, then pull your body upward until your chin is above the bar, engaging your biceps and back muscles. Lower yourself back to the starting position with control, ensuring full arm extension before repeating. ",
+                "Intensity": "7",
+                "Difficulty": "7",
+                "Muscles": "Biceps, Latissimus Dorsi, Rhomboids"
+            },
+            "Lat pulldowns": {
+                "Equipment": "Machine: Lat pulldown",
+                "Description": "Sit at the lat pulldown machine with your thighs secured under the pads and grasp the bar with a wide overhand grip. Pull the bar down towards your chest, keeping your back straight and elbows pointed down, then slowly return to the starting position. Focus on engaging your latissimus dorsi muscles throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Latissimus dorsi, biceps, rhomboids"
+            },
+            "Hammer curls": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand with palms facing your torso. Keep elbows close to your body and curl the weights up by bending your elbows, focusing on contracting the biceps and brachialis, then slowly lower back to the starting position. Maintain a neutral wrist position throughout to avoid strain. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Biceps, brachialis, forearms"
+            },
+            "Face pulls": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, holding the resistance band at shoulder height with both hands, palms facing down. Anchor the band at eye level, pull it towards your face by retracting your shoulder blades, keeping elbows high and wide, and focus on squeezing the rear deltoids and upper back. Ensure a controlled motion to avoid using momentum. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Rear deltoids, upper back, rotator cuff"
+            },
+            "Inverted rows": {
+                "Equipment": "Suspension trainer",
+                "Description": "Begin by adjusting the suspension trainer to waist height and grasp the handles with an overhand grip, keeping your body straight and heels on the ground. Pull your chest towards the handles by bending your elbows, squeezing your shoulder blades together, and then slowly lower back to the starting position. Focus on engaging your back, biceps, and core throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Back, Biceps, Core"
+            },
+            "Seated cable rows": {
+                "Equipment": "Machine: Cable machine",
+                "Description": "Sit on the cable machine bench with feet firmly on the platform, knees slightly bent, and grasp the handle with both hands. Pull the handle towards your torso, keeping your back straight and elbows close to your body, squeezing your shoulder blades together. Focus on engaging your back muscles throughout the movement, then slowly return to the starting position. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Latissimus dorsi, rhomboids, trapezius, biceps"
+            },
+            "Deadlifts": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet hip-width apart, barbell over mid-foot, and grip it just outside your knees. Keep your back straight, hinge at the hips, and lift the barbell by extending your hips and knees simultaneously, focusing on engaging your glutes, hamstrings, and lower back. Lower the barbell back to the ground with control, maintaining a neutral spine throughout. ",
+                "Intensity": "8",
+                "Difficulty": "7",
+                "Muscles": "Glutes, Hamstrings, Lower Back"
+            },
+            "Dumbbell pullovers": {
+                "Equipment": "Dumbbells",
+                "Description": "Lie on a flat bench with your upper back and shoulders supported, feet flat on the floor, and hold a dumbbell with both hands above your chest. Keeping your arms slightly bent, lower the dumbbell in an arc over your head until you feel a stretch in your chest, then return to the starting position by engaging your chest and lats. Focus on controlled movements to effectively target the chest, lats, and triceps. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, Lats, Triceps"
+            },
+            "Wide grip rows": {
+                "Equipment": "Barbell",
+                "Description": "Begin by standing with feet shoulder-width apart, holding a barbell with a wide overhand grip. Bend your knees slightly and hinge at the hips, keeping your back straight and core engaged. Pull the barbell towards your lower chest, squeezing your shoulder blades together, then slowly lower it back to the starting position. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Upper back, lats, rear deltoids, biceps"
+            },
+            "Concentration curls": {
+                "Equipment": "Dumbbells",
+                "Description": "Sit on a bench with your legs spread, holding a dumbbell in one hand. Rest your elbow on the inside of your thigh, keeping your arm fully extended. Curl the dumbbell towards your shoulder, focusing on contracting the bicep, then slowly lower it back to the starting position. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Biceps"
+            },
+            "T-bar rows": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet shoulder-width apart, knees slightly bent, and hinge at the hips to grasp the barbell with both hands, keeping your back straight. Pull the barbell towards your chest by squeezing your shoulder blades together, then slowly lower it back to the starting position. Focus on engaging the upper back and lats throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Upper back, lats, biceps"
+            },
+            "Underhand barbell rows": {
+                "Equipment": "Barbell",
+                "Description": "Begin with your feet shoulder-width apart, knees slightly bent, and grip the barbell with an underhand grip, hands shoulder-width apart. Bend forward at the hips, keeping your back straight and core engaged, then pull the barbell towards your lower ribcage, squeezing your shoulder blades together. Lower the barbell back to the starting position with control, focusing on engaging the back and biceps throughout the movement. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 5 ",
+                "Muscles": " Back, Biceps, Lats"
+            },
+            "Lateral pulldowns": {
+                "Equipment": "Machine: Lat pulldown",
+                "Description": "Sit at the lat pulldown machine with your thighs secured under the pads, grasp the bar with a wide overhand grip. Pull the bar down towards your upper chest while keeping your back straight and elbows pointed down, then slowly return to the starting position. Focus on engaging your latissimus dorsi and avoid using momentum or leaning back excessively. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Latissimus dorsi, biceps, rhomboids"
+            },
+            "Preacher curls": {
+                "Equipment": "Barbell",
+                "Description": "Sit on a preacher bench with your upper arms resting on the pad and grip a barbell with an underhand grip, shoulder-width apart. Curl the barbell upwards by flexing your elbows, keeping your upper arms stationary, and then slowly lower it back to the starting position. Focus on engaging the biceps throughout the movement for optimal results. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Biceps"
+            },
+            "Renegade rows": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin in a high plank position with a dumbbell in each hand, wrists aligned under shoulders, and feet slightly wider than hip-width apart for stability. Keeping your core engaged and hips level, row one dumbbell towards your ribcage by bending the elbow, then lower it back to the ground and repeat on the other side. Focus on maintaining a stable torso throughout the movement to effectively target the back, shoulders, and core. ",
+                "Intensity": "6",
+                "Difficulty": "6",
+                "Muscles": "Back, Shoulders, Core"
+            },
+            "Meadows rows": {
+                "Equipment": "Barbell",
+                "Description": "Begin by standing beside a barbell loaded on one end, with the other end secured in a corner or landmine attachment. Bend at the hips and knees, keeping your back straight, and grasp the barbell with one hand. Pull the barbell towards your hip, squeezing your shoulder blade at the top, then lower it back down with control. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Lats, Rhomboids, Rear Deltoids, Biceps"
+            },
+            "Incline dumbbell curls": {
+                "Equipment": "Dumbbells",
+                "Description": "Sit on an incline bench set at a 45-degree angle, holding a dumbbell in each hand with arms fully extended and palms facing forward. Curl the weights up by bending your elbows, keeping your upper arms stationary, and squeeze your biceps at the top before slowly lowering back to the starting position. Focus on maintaining a controlled motion to effectively target the biceps. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Biceps"
+            },
+            "Chest supported rows": {
+                "Equipment": "Machine: Chest supported row",
+                "Description": "Sit on the chest-supported row machine with your chest firmly against the pad and feet flat on the floor. Grasp the handles with a neutral grip, pull them towards your torso by retracting your shoulder blades, and squeeze your back muscles, then slowly return to the starting position. Focus on engaging the upper back and lats while maintaining a stable core throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Upper back, lats, rhomboids"
+            },
+            "Zottman curls": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand with palms facing forward. Curl the weights up while rotating your wrists so palms face you at the top, then rotate wrists again to lower the weights with palms facing down. Focus on controlled movements to engage both the biceps and forearms effectively. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Biceps, Forearms"
+            },
+            "Kroc rows": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin by standing with feet shoulder-width apart, holding a dumbbell in one hand. Bend forward at the hips, keeping your back straight, and place your free hand on a bench for support. Pull the dumbbell towards your hip, engaging your back muscles, then lower it back down with control. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Latissimus dorsi, rhomboids, biceps"
+            },
+            "Reverse curls": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet shoulder-width apart, holding a barbell with an overhand grip, arms fully extended. Curl the barbell towards your shoulders by bending your elbows, keeping your upper arms stationary, and focus on engaging the forearms and biceps. Lower the barbell back to the starting position in a controlled manner. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Forearms, Biceps"
+            },
+            "Pendlay rows": {
+                "Equipment": "Barbell",
+                "Description": "Begin with the barbell on the floor, feet shoulder-width apart, and bend at the hips with a flat back until your torso is parallel to the ground. Grip the barbell with an overhand grip, pull it towards your lower chest by retracting your shoulder blades, then lower it back to the floor, maintaining a neutral spine throughout. Focus on engaging the upper back and lats while keeping your core tight. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Upper back, lats, biceps"
+            },
+            "High rows": {
+                "Equipment": "Machine: Cable machine",
+                "Description": "Begin by sitting at the cable machine with your feet flat on the floor and grasp the handle with an overhand grip, arms fully extended. Pull the handle towards your upper chest, keeping elbows high and squeezing your shoulder blades together, then slowly return to the starting position. Focus on engaging the upper back and rear deltoids throughout the movement. ",
+                "Intensity": " 5 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Upper back, rear deltoids, biceps"
+            },
+            "Spider curls": {
+                "Equipment": "Equipment: Bench",
+                "Description": "Sit on a bench with your chest against the backrest, holding a dumbbell in each hand with an underhand grip. Let your arms hang down fully extended, then curl the weights up towards your shoulders, focusing on squeezing the biceps at the top of the movement. Ensure your elbows remain stationary and avoid swinging your body to maintain proper form. \n\nDescription",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Biceps"
+            },
+            "Mule kickbacks": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin on all fours with a dumbbell secured behind one knee. Keeping your core engaged, lift the weighted leg towards the ceiling, maintaining a 90-degree angle at the knee, then lower back to the starting position. Focus on controlled movements to effectively target the glutes and hamstrings. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Glutes, Hamstrings"
+            },
+            "Kettlebell swings": {
+                "Equipment": "Kettlebells",
+                "Description": "Begin with feet shoulder-width apart, holding the kettlebell with both hands in front of you. Hinge at the hips, keeping your back straight, and swing the kettlebell between your legs, then drive your hips forward to swing it up to shoulder height. Focus on engaging your core and glutes throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Glutes, Hamstrings, Core, Shoulders"
+            },
+            "Band pull aparts": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, holding a resistance band with both hands at shoulder height, arms extended in front of you. Pull the band apart by moving your hands outward, keeping your arms straight, until the band touches your chest, then slowly return to the starting position. Focus on squeezing your shoulder blades together to engage the upper back and rear deltoids. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Upper back, rear deltoids, rhomboids"
+            },
+            "Straight arm pulldowns": {
+                "Equipment": "Machine: Cable machine",
+                "Description": "Stand facing the cable machine with feet shoulder-width apart, grasping the straight bar with an overhand grip. Keep your arms straight and pull the bar down towards your thighs, engaging your lats and keeping your core tight, then slowly return to the starting position. Focus on maintaining straight arms throughout the movement to effectively target the latissimus dorsi. \n\nDescription",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Latissimus dorsi, triceps, core"
+            },
+            "Bodyweight rows": {
+                "Equipment": "Suspension trainer",
+                "Description": "Stand facing the suspension trainer, gripping the handles with an overhand grip, arms fully extended, and body leaning back at a slight angle. Engage your core and pull your chest towards the handles by bending your elbows, keeping your body in a straight line from head to heels, then slowly return to the starting position. Focus on squeezing your shoulder blades together at the top of the movement to effectively target the back muscles. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Back, Biceps, Core"
+            },
+            "Scapular retractions": {
+                "Equipment": "Equipment: Bench",
+                "Description": "Begin seated on a bench with your back straight and feet flat on the floor. Place your hands on the edge of the bench beside your hips, then retract your shoulder blades by squeezing them together without shrugging your shoulders. Focus on engaging the muscles between your shoulder blades while keeping your arms straight. ",
+                "Intensity": "3",
+                "Difficulty": "2",
+                "Muscles": "Rhomboids, Trapezius"
+            },
+            "Incline rows": {
+                "Equipment": "Barbell",
+                "Description": "Begin by lying face down on an incline bench, holding a barbell with an overhand grip, arms fully extended. Pull the barbell towards your chest by retracting your shoulder blades and bending your elbows, keeping your body stable and core engaged. Focus on squeezing your back muscles at the top of the movement before slowly lowering the barbell back to the starting position. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Upper back, lats, biceps"
+            },
+            "Sled pulls": {
+                "Equipment": "Equipment: Sled",
+                "Description": "Begin by attaching a harness to the sled and secure it around your waist. Stand facing away from the sled with feet shoulder-width apart, lean slightly forward, and engage your core. Walk or run forward, pulling the sled behind you, focusing on maintaining a steady pace and keeping your back straight. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes, Calves, Core"
+            },
+            "Single-arm cable rows": {
+                "Equipment": "Machine: Cable machine",
+                "Description": "Stand facing the cable machine with feet shoulder-width apart, grasp the handle with one hand, and step back slightly to create tension. Pull the handle towards your torso, keeping your elbow close to your body, and squeeze your shoulder blade at the end of the movement. Focus on maintaining a straight back and engage your core throughout the exercise. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Latissimus dorsi, rhomboids, biceps"
+            },
+            "Pull-up negatives": {
+                "Equipment": "Pull-up bar",
+                "Description": "Begin by standing on a platform or jumping to position yourself with your chin above the pull-up bar, gripping it with palms facing away. Slowly lower your body in a controlled manner until your arms are fully extended, focusing on engaging your back and biceps throughout the descent. This exercise emphasizes eccentric strength and control, crucial for building up to full pull-ups. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 5 ",
+                "Muscles": " Latissimus dorsi, biceps, forearms"
+            },
+            "Inverted bodyweight rows": {
+                "Equipment": "Suspension trainer",
+                "Description": "Begin by setting the suspension trainer to a suitable height and lie underneath it, gripping the handles with an overhand grip. Keep your body straight from head to heels, engage your core, and pull your chest towards the handles by retracting your shoulder blades, then slowly lower back to the starting position. Focus on maintaining a straight line with your body and avoid sagging hips to effectively target the upper back, biceps, and core. \n\nDescription",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Upper back, biceps, core"
+            },
+            "Kettlebell rows": {
+                "Equipment": "Kettlebells",
+                "Description": "Stand with feet shoulder-width apart, holding a kettlebell in each hand. Bend slightly at the knees and hinge forward at the hips, keeping your back straight. Pull the kettlebells towards your hips, squeezing your shoulder blades together, then lower them back down. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Back, Biceps, Shoulders"
+            },
+            "Face pulls with external rotation": {
+                "Equipment": "Resistance bands",
+                "Description": "Begin by anchoring the resistance band at chest height and stand facing it, holding the ends with an overhand grip. Pull the band towards your face, keeping elbows high, and externally rotate your shoulders by pulling your hands apart at the end of the movement. Focus on engaging the rear deltoids, upper back, and rotator cuff muscles. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Rear deltoids, upper back, rotator cuff"
+            },
+            "Dumbbell hammer curls": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand with a neutral grip (palms facing each other). Keep your elbows close to your torso and curl the weights up by bending your elbows, focusing on contracting the biceps and brachialis. Lower the dumbbells back to the starting position with control, ensuring your wrists remain straight throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Biceps, Brachialis, Forearms"
+            },
+            "Barbell shrugs": {
+                "Equipment": "Barbell",
+                "Description": "Stand with feet shoulder-width apart, holding a barbell with an overhand grip in front of your thighs. Keeping your arms straight, lift your shoulders towards your ears, squeezing your traps at the top, then slowly lower back to the starting position. Focus on controlled movements to effectively target the trapezius muscles. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Trapezius, Upper Back"
+            },
+            "Cable face pulls": {
+                "Equipment": "Machine: Cable machine",
+                "Description": "Stand facing the cable machine with feet shoulder-width apart, grasping the rope attachment with both hands. Pull the rope towards your face, keeping elbows high and squeezing your shoulder blades together, focusing on the rear deltoids and upper back. Ensure a controlled motion, avoiding excessive leaning or using momentum. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Rear deltoids, trapezius, rhomboids"
+            },
+            "Resistance band curls": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, holding a resistance band under your feet and gripping the handles with palms facing forward. Keep elbows close to your sides and curl the bands upward by bending your elbows, focusing on contracting the biceps. Slowly lower back to the starting position, ensuring controlled movement throughout. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Biceps"
+            },
+            "Single-arm lat pulldowns": {
+                "Equipment": "Machine: Lat pulldown",
+                "Description": "Sit at the lat pulldown machine with your feet flat on the floor and adjust the thigh pad to secure your legs. Grasp the handle with one hand, palm facing forward, and pull it down towards your chest while keeping your torso upright and engaging your core. Focus on squeezing your shoulder blade down and back, targeting the latissimus dorsi, before slowly returning to the starting position. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Latissimus dorsi, biceps, and shoulders"
+            },
+            "Reverse pec deck flyes": {
+                "Equipment": "Machine: Pec deck",
+                "Description": "Sit on the pec deck machine with your chest against the pad and feet flat on the floor. Grasp the handles with a neutral grip, keeping your elbows slightly bent, and pull the handles back in a wide arc until your arms are in line with your shoulders, focusing on squeezing your shoulder blades together. This exercise primarily targets the rear deltoids and upper back muscles. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Rear deltoids, rhomboids, trapezius"
+            },
+            "Cable curls": {
+                "Equipment": "Machine: Cable machine",
+                "Description": "Stand facing the cable machine with feet shoulder-width apart, grasping the bar attachment with an underhand grip. Keep elbows close to your sides and curl the bar towards your chest by contracting your biceps, then slowly lower back to the starting position. Focus on maintaining a controlled motion to effectively target the biceps without swinging your body. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Biceps"
+            },
+            "Kettlebell high pulls": {
+                "Equipment": "Kettlebells",
+                "Description": "Begin in a standing position with feet shoulder-width apart, holding a kettlebell with both hands in front of your thighs. Engage your core, bend your knees slightly, and hinge at the hips to lower the kettlebell between your legs. Explosively extend your hips and knees, pulling the kettlebell upward to chest height while keeping elbows above the wrists, then control the descent back to the starting position. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Shoulders, Upper Back, Core, Hamstrings"
+            },
+            "TRX rows": {
+                "Equipment": "Suspension trainer",
+                "Description": "Stand facing the anchor point of the suspension trainer, holding the handles with an overhand grip, arms extended, and feet shoulder-width apart. Lean back, keeping your body straight, and pull your chest towards the handles by bending your elbows, squeezing your shoulder blades together. Focus on engaging your back muscles throughout the movement, then slowly return to the starting position. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Back, Biceps, Core"
+            },
+            "Machine rows": {
+                "Equipment": "Machine: Rowing machine",
+                "Description": "Sit on the rowing machine with feet secured in the footrests and knees slightly bent. Grasp the handle with both hands, keeping your back straight and core engaged. Push through your legs first, then pull the handle towards your chest, keeping elbows close to your body, and return to the starting position in a controlled manner. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Back, Biceps, Core"
+            },
+            "Cable hammer curls": {
+                "Equipment": "Machine: Cable machine",
+                "Description": "Stand facing the cable machine with feet shoulder-width apart, grasping the rope attachment with a neutral grip (palms facing each other). Keep your elbows close to your sides and curl the rope towards your shoulders, focusing on squeezing the biceps and brachialis at the top of the movement. Slowly lower the rope back to the starting position, maintaining control throughout the exercise. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Biceps, Brachialis, Forearms"
+            },
+            "Band rows": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, knees slightly bent, and place the resistance band under your feet. Hold the band handles with palms facing each other, hinge at the hips, and pull the handles towards your waist, squeezing your shoulder blades together. Focus on keeping your back straight and core engaged throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Back, Biceps, Shoulders"
+            },
+            "One-arm cable curls": {
+                "Equipment": "Machine: Cable machine",
+                "Description": "Stand facing the cable machine with feet shoulder-width apart, grasping the handle with one hand. Keep your elbow close to your body and curl the handle towards your shoulder, focusing on contracting the bicep, then slowly lower back to the starting position. Ensure your upper arm remains stationary throughout the movement to maximize bicep engagement. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Biceps"
+            },
+            "Kettlebell renegade rows": {
+                "Equipment": "Kettlebells",
+                "Description": "Begin in a high plank position with a kettlebell in each hand, wrists aligned under shoulders, and feet slightly wider than hip-width for stability. Engage your core, row one kettlebell towards your hip while keeping your body stable, then lower it back to the ground and repeat on the other side. Focus on maintaining a straight line from head to heels and avoid rotating your hips. ",
+                "Intensity": "7",
+                "Difficulty": "7",
+                "Muscles": "Back, Core, Shoulders"
+            },
+            "Band face pulls": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, holding the resistance band with both hands at shoulder height, arms extended. Pull the band towards your face by retracting your shoulder blades and keeping elbows high, focusing on squeezing the upper back muscles. Maintain a neutral spine throughout the movement to target the rear deltoids and upper back effectively. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Rear deltoids, upper back, trapezius"
+            },
+            "Cable drag curls": {
+                "Equipment": "Machine: Cable machine",
+                "Description": "Stand facing the cable machine with a straight bar attached to the low pulley. Grip the bar with an underhand grip, keeping your elbows close to your body, and pull the bar upwards, dragging it along your torso until your forearms are vertical. Focus on squeezing your biceps at the top of the movement before slowly lowering the bar back to the starting position. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Biceps"
+            },
+            "Kettlebell snatches": {
+                "Equipment": "Kettlebells",
+                "Description": "Begin with feet shoulder-width apart, holding a kettlebell between your legs with one hand. Drive through your hips to swing the kettlebell overhead, keeping it close to your body, and lock out your arm at the top. Focus on a smooth, controlled motion to engage the shoulders, back, and core effectively. ",
+                "Intensity": "7",
+                "Difficulty": "7",
+                "Muscles": "Shoulders, Back, Core"
+            },
+            "Resistance band rows": {
+                "Equipment": "Resistance bands",
+                "Description": "Begin seated or standing with feet shoulder-width apart, holding the resistance band handles with arms extended in front of you. Pull the handles towards your torso, keeping elbows close to your body and squeezing your shoulder blades together, then slowly return to the starting position. Focus on engaging the back muscles throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Back, Biceps, Shoulders"
+            },
+            "Dumbbell Z press": {
+                "Equipment": "Dumbbells",
+                "Description": "Sit on the floor with legs extended and hold a dumbbell in each hand at shoulder height, palms facing forward. Press the dumbbells overhead until arms are fully extended, then lower back to the starting position, keeping your core engaged and back straight throughout. Focus on maintaining stability and control to effectively target the shoulders and core. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Shoulders, Core"
+            },
+            "Kettlebell windmills": {
+                "Equipment": "Kettlebells",
+                "Description": "Stand with feet shoulder-width apart, holding a kettlebell in one hand overhead, arm fully extended. Keeping your eyes on the kettlebell, hinge at the hips and rotate your torso to lower your free hand towards the opposite foot, maintaining a straight back. Focus on engaging your core, shoulders, and obliques throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, Shoulders, Obliques"
+            },
+            "Resistance band pull-throughs": {
+                "Equipment": "Resistance bands",
+                "Description": "Begin by anchoring a resistance band low behind you and straddle it with feet shoulder-width apart. Grasp the band with both hands, hinge at the hips, and pull the band through your legs while keeping your back straight and core engaged. Focus on squeezing your glutes and hamstrings as you return to the starting position. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Hamstrings, Lower Back"
+            },
+            "Dumbbell farmer's walks": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand upright with feet hip-width apart, holding a dumbbell in each hand at your sides with a firm grip. Walk forward in a straight line, keeping your core engaged, shoulders back, and maintaining a neutral spine. Focus on controlled breathing and steady steps to engage the forearms, traps, and core effectively. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Forearms, Trapezius, Core"
+            },
+            "Kettlebell clean and press": {
+                "Equipment": "Kettlebells",
+                "Description": "Begin with feet shoulder-width apart, holding a kettlebell in one hand between your legs. Initiate the movement by driving through your hips to swing the kettlebell up, catching it at shoulder height with a slight dip in your knees, then press it overhead by extending your arm fully. Focus on maintaining a strong core and controlled movement throughout to engage the shoulders, core, and legs effectively. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Shoulders, Core, Legs"
+            },
+            "Resistance band bicep curls": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, holding a resistance band under your feet and gripping the handles with palms facing forward. Keep elbows close to your torso and curl the band upwards by contracting your biceps, then slowly lower back to the starting position. Focus on controlled movements to maximize bicep engagement and avoid swinging your arms. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Biceps"
+            },
+            "Dumbbell renegade rows": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin in a high plank position with a dumbbell in each hand, wrists aligned under shoulders, and feet slightly wider than hip-width apart for stability. Keeping your core engaged and hips level, row one dumbbell towards your ribcage by bending the elbow, then lower it back to the ground and repeat on the other side. Focus on maintaining a stable torso throughout the movement to effectively target the back, shoulders, and core muscles. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Back, Shoulders, Core"
+            },
+            "Kettlebell figure 8s": {
+                "Equipment": "Kettlebells",
+                "Description": "Stand with feet shoulder-width apart, holding a kettlebell in one hand. Bend slightly at the knees and hinge at the hips, passing the kettlebell between your legs in a figure 8 motion, switching hands as you pass it through. Focus on maintaining a strong core and controlled movement to engage the shoulders, core, and legs effectively. ",
+                "Intensity": " 5 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Core, Shoulders, Legs"
+            },
+            "Resistance band pull aparts": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, holding a resistance band with both hands at shoulder height, arms extended in front of you. Pull the band apart by moving your arms out to the sides, keeping them straight, and squeeze your shoulder blades together. Focus on maintaining tension in the band throughout the movement to engage the upper back and rear deltoids effectively. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Upper back, rear deltoids, rhomboids"
+            },
+            "Dumbbell skull crushers": {
+                "Equipment": "Dumbbells",
+                "Description": "Lie on a flat bench with a dumbbell in each hand, arms extended above your chest. Keeping your elbows stationary, lower the dumbbells towards your forehead by bending your elbows, then extend your arms back to the starting position. Focus on engaging the triceps throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Triceps"
+            },
+            "Kettlebell Turkish get-ups": {
+                "Equipment": "Kettlebells",
+                "Description": "Begin lying on your back with a kettlebell in one hand, arm extended towards the ceiling. Slowly rise to a standing position by transitioning through a series of movements: roll to your side, prop up on your elbow, push onto your hand, bridge your hips, sweep your leg back, and stand up, keeping the kettlebell overhead throughout. Focus on maintaining control and stability, engaging your core, shoulders, and hips. ",
+                "Intensity": "7",
+                "Difficulty": "8",
+                "Muscles": "Core, Shoulders, Hips"
+            },
+            "Resistance band tricep extensions": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, holding a resistance band with both hands behind your head, elbows bent. Extend your arms upward, keeping your elbows close to your head, until your arms are fully straightened, then slowly return to the starting position. Focus on engaging the triceps throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Triceps"
+            },
+            "Dumbbell reverse flyes": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand, hinge at the hips with a slight bend in the knees, keeping your back straight and chest up. With a slight bend in the elbows, raise the dumbbells out to the sides until your arms are parallel to the floor, squeezing your shoulder blades together, then slowly lower them back to the starting position. Focus on controlled movements to engage the rear deltoids and upper back effectively. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Rear deltoids, rhomboids, trapezius"
+            },
+            "Kettlebell side bends": {
+                "Equipment": "Kettlebells",
+                "Description": "Stand with feet shoulder-width apart, holding a kettlebell in one hand at your side. Keeping your core engaged, slowly bend at the waist to the side holding the kettlebell, then return to the starting position. Focus on maintaining a straight back and avoid leaning forward or backward to effectively target the obliques. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Obliques, Core"
+            },
+            "Resistance band face pulls": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, holding a resistance band anchored at chest height. Pull the band towards your face, keeping elbows high and squeezing shoulder blades together. Focus on maintaining a straight back and controlled movement to target the rear deltoids and upper back. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Rear deltoids, upper back, traps"
+            },
+            "Dumbbell drag curls": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand with palms facing forward. Keep elbows close to your body and drag the dumbbells up along your torso by bending your elbows, focusing on squeezing your biceps at the top. Lower the weights back down slowly, maintaining control throughout the movement. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Biceps, forearms"
+            },
+            "Kettlebell goblet squats": {
+                "Equipment": "Kettlebells",
+                "Description": "Stand with feet shoulder-width apart, holding a kettlebell with both hands at chest level. Lower your body into a squat by bending your knees and pushing your hips back, keeping your chest up and core engaged. Return to the starting position by driving through your heels, focusing on your quadriceps, glutes, and core. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Glutes, Core"
+            },
+            "Dumbbell front raises": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand with palms facing your thighs. Keeping your arms straight but not locked, raise the dumbbells in front of you to shoulder height, then slowly lower them back to the starting position. Focus on controlled movements to engage the shoulders and avoid swinging. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Deltoids, Upper Trapezius"
+            },
+            "Kettlebell lunges": {
+                "Equipment": "Kettlebells",
+                "Description": "Begin by standing upright with feet hip-width apart, holding a kettlebell in each hand at your sides. Step forward with one leg, lowering your hips until both knees are bent at about a 90-degree angle, ensuring the front knee is directly above the ankle. Push through the heel of the front foot to return to the starting position, focusing on engaging the quadriceps, hamstrings, and glutes throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Dumbbell lateral raises": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand at your sides with palms facing inward. Keeping a slight bend in your elbows, raise your arms out to the sides until they are parallel to the floor, then slowly lower them back to the starting position. Focus on engaging the deltoids throughout the movement, avoiding swinging or using momentum. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Deltoids, Trapezius"
+            },
+            "Kettlebell Russian twists": {
+                "Equipment": "Kettlebells",
+                "Description": "Sit on the floor with your knees bent and feet slightly elevated, holding a kettlebell with both hands in front of your chest. Lean back slightly, engage your core, and rotate your torso to the right, bringing the kettlebell beside your hip, then twist to the left. Focus on controlled movements to engage the obliques and avoid using momentum. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Obliques, Rectus Abdominis, Hip Flexors"
+            },
+            "Dumbbell rear delt flyes": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand, and hinge at the hips with a slight bend in the knees, keeping your back straight. With a slight bend in the elbows, raise the dumbbells out to the sides until your arms are parallel to the floor, focusing on squeezing the shoulder blades together. Ensure controlled movements to target the rear deltoids effectively. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Rear deltoids, upper back, and shoulders"
+            },
+            "Resistance band tricep kickbacks": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, holding a resistance band with both hands, and bend slightly at the knees. Lean forward at the hips, keeping your back straight, and tuck your elbows close to your sides. Extend your arms backward, fully straightening them to engage the triceps, then return to the starting position. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Triceps, Deltoids"
+            }
+        },
+        "Core and cardio": {
+            "Plank with shoulder taps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and feet hip-width apart. While maintaining a stable core, lift one hand to tap the opposite shoulder, alternating sides without allowing your hips to sway. Focus on engaging your core, shoulders, and glutes throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, shoulders, glutes"
+            },
+            "Russian twists": {
+                "Equipment": "Medicine ball",
+                "Description": "Sit on the floor with your knees bent and feet flat, holding a medicine ball with both hands. Lean back slightly, keeping your back straight, and lift your feet off the ground. Rotate your torso to the right, bringing the medicine ball beside your hip, then twist to the left, repeating the motion. Focus on engaging your core throughout the movement. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 5 ",
+                "Muscles": " Obliques, Rectus Abdominis, Hip Flexors"
+            },
+            "Mountain climbers": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Quickly drive your knees alternately towards your chest, maintaining a brisk pace while keeping your core engaged and hips level. This exercise targets the core, shoulders, and legs, and should be performed with controlled breathing to maintain form. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Core, Shoulders, Legs"
+            },
+            "Bicycle crunches": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie flat on your back with your hands behind your head and legs lifted, knees bent at 90 degrees. Engage your core as you bring your right elbow towards your left knee while extending your right leg, then switch sides in a pedaling motion. Focus on controlled movements to effectively target the obliques and rectus abdominis. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Obliques, Rectus Abdominis"
+            },
+            "Dead bug exercise": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with arms extended towards the ceiling and knees bent at 90 degrees. Slowly lower your right arm and left leg towards the floor while keeping your lower back pressed into the ground, then return to the starting position and repeat on the opposite side. Focus on engaging your core throughout the movement to maintain stability and control. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Core, Hip Flexors, Shoulders"
+            },
+            "Lying leg raises": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie flat on your back with your legs extended and arms by your sides or under your glutes for support. Keeping your legs straight, lift them towards the ceiling until your body forms an L-shape, then slowly lower them back down without touching the floor. Focus on engaging your core throughout the movement to effectively target the lower abdominal muscles. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Lower abdominals, hip flexors"
+            },
+            "Side plank dips": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position with your elbow directly under your shoulder and your feet stacked. Lower your hip towards the ground without touching it, then raise it back to the starting position, engaging your obliques throughout the movement. Ensure your body remains in a straight line from head to heels to maximize core engagement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Obliques, shoulders, glutes"
+            },
+            "Superman exercise": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie face down on the floor with arms extended forward and legs straight. Simultaneously lift your arms, chest, and legs off the ground, engaging your lower back and glutes, then lower back down. Focus on maintaining a neutral neck position and controlled movements to effectively target the lower back and core. ",
+                "Intensity": "3",
+                "Difficulty": "3",
+                "Muscles": "Lower back, glutes, core"
+            },
+            "Hollow body hold": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with arms extended overhead and legs straight, lift your shoulders and legs off the ground, keeping your lower back pressed into the floor. Engage your core, maintaining a slight curve in your body, and hold this position. Focus on keeping your abs tight and avoid arching your back. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Core, Hip Flexors"
+            },
+            "Flutter kicks": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with your hands under your glutes for support, legs extended. Lift your heels about 6 inches off the ground and alternate kicking your legs up and down in a controlled manner, keeping your core engaged throughout. Focus on maintaining a steady pace and avoid arching your lower back. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Core, Hip Flexors"
+            },
+            "Woodchoppers": {
+                "Equipment": "Cable machine",
+                "Description": "Stand with feet shoulder-width apart, holding the cable handle with both hands at shoulder height. Rotate your torso and pull the handle diagonally across your body, engaging your core, until it reaches the opposite hip. Return to the starting position, focusing on controlled movement and maintaining a stable stance. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 5 ",
+                "Muscles": " Obliques, shoulders, and core"
+            },
+            "Medicine ball slams": {
+                "Equipment": "Medicine ball",
+                "Description": "Stand with feet shoulder-width apart, holding a medicine ball overhead with both hands. Engage your core, bend your knees slightly, and explosively slam the ball down to the ground in front of you, using your entire body. Catch the ball on the rebound and repeat, focusing on maintaining a strong core and controlled movement throughout. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Core, Shoulders, Arms, Legs"
+            },
+            "Sit-ups": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with knees bent and feet flat on the floor, arms crossed over your chest. Engage your core to lift your upper body towards your knees, keeping your back straight, then slowly lower back down. Focus on using your abdominal muscles to control the movement without pulling on your neck. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Abdominals, Hip Flexors"
+            },
+            "V-sit hold": {
+                "Equipment": "Bodyweight",
+                "Description": "Sit on the floor with your legs extended and lean back slightly, keeping your back straight. Lift your legs to form a V shape with your body, balancing on your sit bones, and hold the position while engaging your core. Focus on maintaining a straight spine and keeping your shoulders relaxed. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, hip flexors, quadriceps"
+            },
+            "Plank jacks": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Jump your feet out to the sides, wider than shoulder-width apart, then jump them back together, maintaining a tight core and stable upper body throughout the movement. Focus on engaging your core, shoulders, and legs to maintain form and stability. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders, Legs"
+            },
+            "Leg raises": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie flat on your back with your legs extended and arms at your sides, palms facing down. Engage your core and lift your legs together until they form a 90-degree angle with your torso, keeping them straight, then slowly lower them back down without touching the ground. Focus on maintaining a controlled movement to effectively target the lower abdominal muscles. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Lower abdominals, hip flexors"
+            },
+            "Oblique crunches": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with knees bent and feet flat on the floor, hands behind your head. Lift your shoulder blades off the ground, twisting your torso to bring your right elbow towards your left knee, then alternate sides. Focus on engaging your oblique muscles throughout the movement, avoiding pulling on your neck. ",
+                "Intensity": "4",
+                "Difficulty": "3",
+                "Muscles": "Obliques, Rectus Abdominis"
+            },
+            "Reverse crunches": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie flat on your back with your arms at your sides and legs extended. Bend your knees and lift your legs towards your chest, curling your hips off the floor while keeping your upper body stable. Focus on engaging your lower abs throughout the movement, and slowly lower your legs back to the starting position without touching the ground. ",
+                "Intensity": " 4 ",
+                "Difficulty": " 3 ",
+                "Muscles": " Lower abdominals, hip flexors"
+            },
+            "Burpees": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a standing position, then drop into a squat with your hands on the ground. Kick your feet back into a plank position, perform a push-up, return to the squat position, and explosively jump up with your arms overhead. Focus on maintaining a strong core and proper form throughout the movement to engage the chest, shoulders, triceps, quads, and core effectively. ",
+                "Intensity": "8",
+                "Difficulty": "7",
+                "Muscles": "Chest, Shoulders, Triceps, Quads, Core"
+            },
+            "Jump squats": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, arms at your sides. Lower into a squat by bending your knees and pushing your hips back, then explosively jump upwards, extending your arms overhead. Land softly back into the squat position, ensuring your knees are aligned with your toes to protect your joints. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Calves"
+            },
+            "High knees": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand tall with feet hip-width apart, engage your core, and lift one knee towards your chest while simultaneously raising the opposite arm. Quickly switch legs, maintaining a brisk pace, ensuring your knees reach hip level. Focus on maintaining an upright posture and landing softly on the balls of your feet. ",
+                "Intensity": "6",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Calves, Core"
+            },
+            "Plank with knee tucks": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Engage your core and bring one knee towards your chest, then return to the starting position and repeat with the opposite knee. Focus on maintaining a stable torso and controlled movement to effectively target the core muscles. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders, Hip Flexors"
+            },
+            "Russian twists with kettlebell": {
+                "Equipment": "Kettlebells",
+                "Description": "Sit on the floor with your knees bent and feet slightly elevated, holding a kettlebell with both hands at chest level. Lean back slightly, engage your core, and rotate your torso to the right, bringing the kettlebell beside your hip, then twist to the left. Focus on controlled movements to engage the obliques and maintain balance. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Obliques, Rectus Abdominis, Hip Flexors"
+            },
+            "Medicine ball toss against wall": {
+                "Equipment": "Medicine ball",
+                "Description": "Stand facing a sturdy wall, holding a medicine ball at chest level with both hands. Engage your core, bend your knees slightly, and explosively toss the ball against the wall, catching it as it rebounds. Focus on using your chest, shoulders, and core muscles to generate power. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Chest, Shoulders, Core"
+            },
+            "Sit-up to overhead press": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin by lying on your back with knees bent and feet flat on the floor, holding a dumbbell in each hand at shoulder height. Engage your core to perform a sit-up, then press the dumbbells overhead as you reach the top position, ensuring your arms are fully extended. Lower the dumbbells back to shoulder height as you return to the starting position, focusing on controlled movements throughout. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Abdominals, Shoulders, Triceps"
+            },
+            "Side plank with leg lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a side plank position with your elbow directly under your shoulder and your body in a straight line from head to heels. Engage your core and lift your top leg as high as possible while maintaining balance, then lower it back down without touching the ground. Focus on keeping your hips elevated and your body aligned throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Obliques, Glutes, Abductors"
+            },
+            "Squat jumps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, arms at your sides. Lower into a squat by bending your knees and pushing your hips back, keeping your chest up and core engaged. Explosively jump upward, extending your arms overhead, and land softly back into the squat position to repeat. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes, Calves"
+            },
+            "Medicine ball rotational throws": {
+                "Equipment": "Medicine ball",
+                "Description": "Stand with feet shoulder-width apart, holding a medicine ball with both hands at chest level. Rotate your torso to one side, then explosively throw the ball against a wall or to a partner, using your core and hips to generate power. Catch the ball on the rebound and repeat on the opposite side, focusing on controlled movements and engaging the obliques. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Obliques, Core, Shoulders"
+            },
+            "Leg pull-ins": {
+                "Equipment": "Bodyweight",
+                "Description": "Sit on the floor with your legs extended and hands placed slightly behind you for support. Engage your core and lean back slightly, then pull your knees towards your chest while keeping your feet together, and extend your legs back out without touching the ground. Focus on maintaining a controlled movement to effectively target the lower abdominals and hip flexors. ",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Lower abdominals, hip flexors"
+            },
+            "Flutter kicks with medicine ball": {
+                "Equipment": "Medicine ball",
+                "Description": "Lie on your back with a medicine ball held between your feet, legs extended. Lift your legs slightly off the ground and perform a flutter kick motion by alternating raising and lowering each leg while keeping your core engaged. Focus on maintaining a steady pace and keeping your lower back pressed into the floor to target the lower abs and hip flexors effectively. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Lower abs, hip flexors, and quads"
+            },
+            "Hanging leg raises": {
+                "Equipment": "Pull-up bar",
+                "Description": "Hang from a pull-up bar with an overhand grip, arms fully extended and feet off the ground. Engage your core and, keeping your legs straight, lift them until they are parallel to the ground, then slowly lower them back to the starting position. Focus on controlled movements to effectively target the lower abdominals and hip flexors. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Lower abdominals, hip flexors, and obliques"
+            },
+            "Mountain climbers with sliders": {
+                "Equipment": "Core sliders",
+                "Description": "Begin in a high plank position with each foot on a core slider, ensuring your body forms a straight line from head to heels. Engage your core and alternate sliding each knee towards your chest, maintaining a brisk pace while keeping your hips level and back flat. Focus on maintaining stability and control to effectively target the core, shoulders, and legs. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Core, shoulders, legs"
+            },
+            "Plank with row": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin in a high plank position with a dumbbell in each hand, wrists aligned under shoulders, and feet hip-width apart. Engage your core and maintain a straight line from head to heels as you row one dumbbell towards your ribcage, keeping your elbow close to your body, then lower it back down and repeat on the other side. Focus on keeping your hips stable and avoid twisting your torso. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Core, Upper Back, Shoulders"
+            },
+            "L-sit hold": {
+                "Equipment": "Parallette bars",
+                "Description": "Begin by sitting between the parallette bars with your legs extended in front of you. Place your hands on the bars, engage your core, and lift your body off the ground, keeping your legs straight and parallel to the floor. Focus on maintaining a tight core and straight arms throughout the hold. ",
+                "Intensity": "7",
+                "Difficulty": "8",
+                "Muscles": "Core, hip flexors, triceps"
+            },
+            "Plank with leg lifts": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground and body in a straight line from head to heels. Engage your core and glutes, then lift one leg off the ground, keeping it straight and in line with your body, hold briefly, then lower it back down and alternate legs. Focus on maintaining a stable core and avoiding any hip rotation. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Kettlebell swings": {
+                "Equipment": "Kettlebells",
+                "Description": "Begin with feet shoulder-width apart, holding the kettlebell with both hands in front of you. Hinge at the hips, keeping your back straight, and swing the kettlebell between your legs, then drive your hips forward to swing it up to shoulder height. Focus on engaging your core and glutes throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Glutes, Hamstrings, Core, Shoulders"
+            },
+            "Medicine ball squat jumps": {
+                "Equipment": "Medicine ball",
+                "Description": "Stand with feet shoulder-width apart, holding a medicine ball at chest level. Lower into a squat, keeping your back straight and chest up, then explosively jump upwards, extending your arms overhead with the ball. Land softly and immediately transition into the next squat, focusing on engaging your quadriceps, glutes, and core. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Quadriceps, Glutes, Core"
+            },
+            "TRX pike": {
+                "Equipment": "TRX suspension trainer",
+                "Description": "Begin in a plank position with your feet in the TRX straps and hands on the ground, ensuring your body forms a straight line from head to heels. Engage your core and lift your hips towards the ceiling, forming an inverted V shape, then slowly lower back to the starting position. Focus on maintaining a controlled movement to effectively target the core and shoulders. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Core, Shoulders, Hip Flexors"
+            },
+            "Bosu ball Russian twists": {
+                "Equipment": "Bosu ball",
+                "Description": "Sit on the Bosu ball with your feet flat on the floor, knees bent, and lean back slightly to engage your core. Hold a weight or medicine ball with both hands, and twist your torso to the right, then to the left, keeping your core tight and back straight. Focus on controlled movements to effectively target the obliques and avoid straining your lower back. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Obliques, Rectus Abdominis, Hip Flexors"
+            },
+            "Sled pushes": {
+                "Equipment": "Sled",
+                "Description": "Begin in a standing position behind the sled, with your hands placed on the sled's handles at shoulder height. Lean slightly forward, engage your core, and drive through your legs to push the sled forward, maintaining a steady pace and keeping your back straight. Focus on engaging your quadriceps, hamstrings, glutes, and calves throughout the movement. \n\nDescription",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes, Calves"
+            },
+            "Plank with toe taps": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground and your body in a straight line from head to heels. While maintaining a stable core, lift one foot off the ground and tap your toes out to the side, then return to the starting position and repeat with the other foot. Focus on engaging your core and glutes to maintain stability throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Glutes, Shoulders"
+            },
+            "Kettlebell windmills": {
+                "Equipment": "Kettlebells",
+                "Description": "Stand with feet shoulder-width apart, holding a kettlebell in one hand overhead, arm fully extended. Keeping your eyes on the kettlebell, hinge at the hips and rotate your torso to lower your free hand towards the opposite foot, maintaining a straight back. Focus on engaging your core, shoulders, and obliques throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, Shoulders, Obliques"
+            },
+            "Medicine ball plank twists": {
+                "Equipment": "Medicine ball",
+                "Description": "Start in a plank position with your forearms resting on a medicine ball, ensuring your body forms a straight line from head to heels. Engage your core and rotate your torso to one side, allowing your hips to follow, then return to the center and repeat on the opposite side. Focus on maintaining stability and control throughout the movement to effectively target the obliques and core muscles. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Obliques, Core, Shoulders"
+            },
+            "Renegade rows": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin in a high plank position with a dumbbell in each hand, wrists aligned under shoulders, and feet slightly wider than hip-width apart for stability. Keeping your core engaged and hips steady, row one dumbbell towards your ribcage by bending the elbow, then lower it back to the ground and repeat on the other side. Focus on maintaining a straight line from head to heels and avoid rotating your torso. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Back, Core, Shoulders"
+            },
+            "Box jumps": {
+                "Equipment": "Plyo box",
+                "Description": "Stand with feet shoulder-width apart, facing the plyo box. Bend your knees slightly, swing your arms, and jump explosively onto the box, landing softly with knees slightly bent. Step back down carefully to starting position. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Glutes, Calves"
+            },
+            "Hollow body rocks": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with your arms extended overhead and legs straight, lifting both slightly off the ground to form a hollow position. Engage your core and rock gently back and forth, maintaining the hollow shape without letting your lower back arch off the floor. Focus on keeping your body tight and controlled throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, Hip Flexors"
+            },
+            "Russian twists with resistance band": {
+                "Equipment": "Resistance bands",
+                "Description": "Sit on the floor with your knees bent and feet flat, holding a resistance band taut between both hands. Lean back slightly, engage your core, and twist your torso to one side, pulling the band across your body, then return to the center and twist to the opposite side. Focus on maintaining a straight back and controlled movement to effectively target the obliques and core muscles. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Obliques, Core"
+            },
+            "Medicine ball burpees": {
+                "Equipment": "Medicine ball",
+                "Description": "Begin in a standing position, holding a medicine ball at chest level. Squat down, placing the ball on the ground, then kick your feet back into a plank position while keeping your hands on the ball. Jump your feet back to the squat position, stand up, and press the ball overhead. ",
+                "Intensity": "8",
+                "Difficulty": "7",
+                "Muscles": "Full body, with emphasis on core, chest, shoulders, and legs."
+            },
+            "Plank with hip dips": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a forearm plank position with elbows directly under shoulders and body in a straight line from head to heels. Rotate your hips to one side, gently dipping them towards the floor, then return to center and repeat on the opposite side. Focus on engaging your core and obliques throughout the movement to maintain stability. ",
+                "Intensity": " 5 ",
+                "Difficulty": " 4 ",
+                "Muscles": " Core, Obliques"
+            },
+            "Kettlebell Turkish get-ups": {
+                "Equipment": "Kettlebells",
+                "Description": "Begin by lying on your back with a kettlebell in one hand, arm extended towards the ceiling, and the same-side knee bent. Press through your foot to lift your torso, transitioning to a seated position, then rise to a standing position while keeping the kettlebell overhead, before reversing the movement to return to the starting position. Focus on maintaining a strong core and stable shoulder throughout the exercise. ",
+                "Intensity": "7",
+                "Difficulty": "8",
+                "Muscles": "Shoulders, Core, Glutes, Legs"
+            },
+            "Medicine ball sit-up throws": {
+                "Equipment": "Medicine ball",
+                "Description": "Begin by lying on your back with knees bent and feet flat on the floor, holding a medicine ball at your chest. Engage your core to sit up, simultaneously throwing the ball to a partner or against a wall, then catch it as you return to the starting position. Focus on controlled movements to effectively engage the abdominals and improve coordination. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 5 ",
+                "Muscles": " Abdominals, Hip Flexors, Shoulders"
+            },
+            "TRX atomic push-ups": {
+                "Equipment": "TRX suspension trainer",
+                "Description": "Begin in a plank position with your feet suspended in the TRX straps and hands placed shoulder-width apart on the ground. Lower your chest towards the floor by bending your elbows, then push back up while simultaneously tucking your knees towards your chest, engaging your core. Focus on maintaining a straight line from head to heels throughout the movement to effectively target the chest, triceps, and core. ",
+                "Intensity": "7",
+                "Difficulty": "7",
+                "Muscles": "Chest, Triceps, Core"
+            },
+            "Battle ropes slams": {
+                "Equipment": "Battle ropes",
+                "Description": "Stand with feet shoulder-width apart, knees slightly bent, and hold the battle ropes with both hands. Raise the ropes overhead and slam them down forcefully to the ground, engaging your core and using your legs for power. Focus on maintaining a strong posture and rhythm throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Shoulders, Core, Legs"
+            },
+            "Plank with alternating arm and leg lift": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground and body in a straight line from head to heels. Simultaneously lift your right arm and left leg, hold briefly, then return to the starting position and switch sides. Focus on maintaining core stability and balance throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, shoulders, glutes"
+            },
+            "Kettlebell figure 8s": {
+                "Equipment": "Kettlebells",
+                "Description": "Stand with feet shoulder-width apart, holding a kettlebell in one hand. Bend your knees slightly and hinge at the hips, passing the kettlebell through your legs in a figure 8 motion, switching hands with each pass. Focus on maintaining a strong core and controlled movement to engage the shoulders, core, and legs effectively. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Shoulders, Core, Legs"
+            },
+            "Medicine ball mountain climbers": {
+                "Equipment": "Medicine ball",
+                "Description": "Start in a high plank position with hands placed on a medicine ball directly under your shoulders, keeping your body in a straight line from head to heels. Drive one knee towards your chest, then quickly switch legs, maintaining core engagement and balance on the ball. Focus on maintaining a steady pace and controlled movement to engage the core, shoulders, and legs effectively. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Core, Shoulders, Legs"
+            },
+            "Side plank with dumbbell lateral raise": {
+                "Equipment": "Dumbbells",
+                "Description": "Begin in a side plank position with your body in a straight line, supporting yourself on one forearm and stacking your feet. Hold a dumbbell in your free hand, and with control, raise it laterally until your arm is parallel to the floor, then lower it back down. Focus on engaging your core and shoulder muscles throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "7",
+                "Muscles": "Obliques, Deltoids, Core"
+            },
+            "Squat thrusts": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standing position with feet shoulder-width apart, then quickly drop into a squat, placing your hands on the ground. Jump your feet back into a plank position, then immediately jump them forward to return to the squat, and stand up to complete one repetition. Focus on maintaining a strong core and proper alignment throughout the movement to engage the legs, core, and shoulders effectively. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Quadriceps, Hamstrings, Glutes, Core, Shoulders"
+            },
+            "Hanging knee raises": {
+                "Equipment": "Pull-up bar",
+                "Description": "Begin by hanging from a pull-up bar with an overhand grip, arms fully extended and feet off the ground. Engage your core and slowly lift your knees towards your chest, keeping your back straight and avoiding swinging. Lower your legs back to the starting position with control. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Abdominals, hip flexors, and obliques"
+            },
+            "Medicine ball plank jacks": {
+                "Equipment": "Medicine ball",
+                "Description": "Begin in a high plank position with hands on a medicine ball, ensuring your body forms a straight line from head to heels. Jump your feet out to the sides, then back together, maintaining core engagement and stability throughout. Focus on keeping your shoulders over the ball and your hips level to effectively target the core, shoulders, and legs. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Core, Shoulders, Legs"
+            },
+            "TRX rows": {
+                "Equipment": "TRX suspension trainer",
+                "Description": "Stand facing the anchor point with feet shoulder-width apart, holding the TRX handles with an overhand grip. Lean back, keeping your body straight, and pull your chest towards the handles by bending your elbows, squeezing your shoulder blades together. Focus on engaging your back muscles and maintaining a neutral spine throughout the movement. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Back, Biceps, Core"
+            },
+            "Bosu ball burpees": {
+                "Equipment": "Bosu ball",
+                "Description": "Begin standing with the Bosu ball on the floor, dome side up. Squat down, grip the edges of the Bosu, and jump your feet back into a plank position, ensuring your body forms a straight line. Jump your feet back towards the Bosu, stand up, and press the Bosu overhead, focusing on core stability and balance throughout the movement. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Core, Chest, Shoulders, Legs"
+            },
+            "Sled pulls": {
+                "Equipment": "Sled",
+                "Description": "Begin by attaching a harness to the sled and secure it around your waist. Stand with feet shoulder-width apart, lean slightly forward, and engage your core. Walk or run forward, pulling the sled behind you, focusing on maintaining a steady pace and keeping your back straight. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Hamstrings, Glutes, Calves, Core"
+            },
+            "Plank with knee drive": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels. Drive one knee towards your chest, then return it to the starting position and repeat with the other knee, maintaining a stable core throughout. Focus on engaging your core and keeping your hips level to maximize effectiveness and prevent strain. ",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Shoulders, Hip Flexors"
+            },
+            "Kettlebell clean and press": {
+                "Equipment": "Kettlebells",
+                "Description": "Begin with feet shoulder-width apart, holding a kettlebell in one hand between your legs. Initiate the movement by driving through your hips to swing the kettlebell up to shoulder height, then press it overhead, keeping your core engaged and wrist straight. Focus on a smooth transition between the clean and press, ensuring proper alignment to target the shoulders, core, and legs effectively. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Shoulders, Core, Legs"
+            },
+            "Medicine ball plank to push-up": {
+                "Equipment": "Medicine ball",
+                "Description": "Begin in a plank position with your hands on a medicine ball, ensuring your body forms a straight line from head to heels. Lower your chest towards the ball by bending your elbows, then push back up to the starting position, engaging your core and stabilizing muscles throughout. Focus on maintaining balance and control to effectively target the chest, shoulders, triceps, and core. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Chest, Shoulders, Triceps, Core"
+            },
+            "Russian twists with resistance loop band": {
+                "Equipment": "Resistance loop bands",
+                "Description": "Sit on the floor with knees bent, feet flat, and loop the resistance band around your feet, holding the ends with both hands. Lean back slightly, engage your core, and twist your torso to one side, pulling the band across your body, then twist to the opposite side. Focus on controlled movements to effectively engage the obliques and core muscles. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Obliques, Core"
+            },
+            "Medicine ball slam burpees": {
+                "Equipment": "Medicine ball",
+                "Description": "Begin in a standing position with feet shoulder-width apart, holding a medicine ball overhead. Slam the ball to the ground with force, then drop into a squat, placing hands on the floor, and kick feet back into a plank position. Perform a push-up, jump feet back to squat, pick up the ball, and return to the starting position. ",
+                "Intensity": "8",
+                "Difficulty": "7",
+                "Muscles": "Core, shoulders, chest, triceps, quads, glutes"
+            },
+            "Plank with leg twist": {
+                "Equipment": "Bodyweight",
+                "Description": "Begin in a standard plank position with your forearms on the ground and body in a straight line from head to heels. Engage your core and lift one leg, twisting it across your body towards the opposite side, then return to the starting position and repeat with the other leg. Focus on maintaining a stable core and controlled movement to effectively engage the obliques and core muscles. \n\nDescription",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Core, Obliques, Shoulders"
+            },
+            "Kettlebell snatches": {
+                "Equipment": "Kettlebells",
+                "Description": "Begin with feet shoulder-width apart, holding a kettlebell between your legs with one hand. Drive through your hips to swing the kettlebell overhead in one fluid motion, keeping your arm straight and wrist neutral, then lower it back to the starting position. Focus on explosive hip drive and shoulder stabilization. ",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Shoulders, Hips, Core, Back"
+            },
+            "Medicine ball lunge twists": {
+                "Equipment": "Medicine ball",
+                "Description": "Stand upright holding a medicine ball with both hands at chest level. Step forward into a lunge with your right leg, keeping your knee aligned with your ankle, and twist your torso to the right, engaging your core. Return to the starting position and repeat on the opposite side, focusing on maintaining balance and controlled movements. ",
+                "Intensity": " 6 ",
+                "Difficulty": " 5 ",
+                "Muscles": " Core, Quadriceps, Glutes, Obliques"
+            },
+            "TRX chest press": {
+                "Equipment": "TRX suspension trainer",
+                "Description": "Stand facing away from the anchor point, holding the TRX handles with arms extended at shoulder height. Lean forward, keeping your body straight, and bend your elbows to lower your chest between your hands, then press back to the starting position. Focus on engaging your chest, shoulders, and core throughout the movement. ",
+                "Intensity": "6",
+                "Difficulty": "5",
+                "Muscles": "Chest, Shoulders, Core"
+            },
+            "Battle ropes waves": {
+                "Equipment": "Battle ropes",
+                "Description": "Stand with feet shoulder-width apart, knees slightly bent, and hold one end of the battle rope in each hand. Generate alternating waves by rapidly lifting and lowering each arm, maintaining a steady rhythm while engaging your core and keeping your back straight. Focus on using your shoulders, arms, and core to create continuous waves. ",
+                "Intensity": "7",
+                "Difficulty": "5",
+                "Muscles": "Shoulders, Arms, Core"
+            }
+        }
+    }
+}
