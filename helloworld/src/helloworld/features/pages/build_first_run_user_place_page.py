@@ -6,6 +6,7 @@ from helloworld.common.common_page import CommonPage
 
 class FirstRunUserPlacePage(CommonPage):
     def __init__(self, main_window, path):
+        super().__init__(path)
         self.path = path
         self.main_window = main_window
         self.full_gym_switch = None
@@ -13,7 +14,7 @@ class FirstRunUserPlacePage(CommonPage):
         self.equipped_home_switch = None
         self.no_gear_home_switch = None
         self.next_page = None
-        self.user_data = None
+        self.user_data = {}
 
     def startup(self):
         main_box = toga.Box(style=Pack(direction=COLUMN))
@@ -75,6 +76,6 @@ class FirstRunUserPlacePage(CommonPage):
             data = 'At home without equipment'
             self.next_page = 'user_goal'
 
-        self.user_data = [['Place'], [data]]
+        self.user_data['Place'] = data
         self.save_user_data_and_proceed(widget)
 

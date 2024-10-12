@@ -2,7 +2,7 @@ import toga
 from toga.style import Pack
 from toga.style.pack import COLUMN, ROW
 
-def create_button(box, action, label, style=Pack(padding=5)) -> None:
+def create_button(box, action, label, style=Pack(padding=5)):
     button = toga.Button(label, on_press=action, style=style)
     box.add(button)
     return button
@@ -15,7 +15,7 @@ def create_text_box(box, style=Pack(padding=5)):
 def create_label(box, text, style=Pack(padding=5)) -> None:
     box.add(toga.Label(text=text, style=style))
 
-def create_switch(box, action, label, style=Pack(padding=5), add_to_box=True) -> None:
+def create_switch(box, action, label, style=Pack(padding=5), add_to_box=True):
     sw = toga.Switch(text=label, on_change=action, style=style)
     if add_to_box:
         box.add(sw)

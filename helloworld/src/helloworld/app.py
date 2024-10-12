@@ -23,7 +23,7 @@ class HelloWorld(toga.App):
         show the main window.
         """
 
-        file_path = os.path.join(self.paths.app, 'storage', 'user_data.csv')
+        file_path = os.path.join(self.paths.app, 'storage', 'user_data.json')
         self.main_window = toga.MainWindow(title=self.formal_name)
 
         if dev_mode:

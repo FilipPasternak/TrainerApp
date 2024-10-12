@@ -58,16 +58,18 @@ class UserGearPage(CommonPage):
         self.main_window = main_window
         self.next_page = next_page
         self.path = path
-        self.user_data = None
+        self.user_data = {}
         self.choosing_box = toga.Box(style=Pack(flex=1))
         self.main_box = toga.Box(style=Pack(direction='column'))
         self.button_box = toga.Box(style=Pack(flex=1))
         self.switches = {}
-        self.gear = self.get_items_from_storage()
+        self.gear = self.get_items_from_storage('User_gear')
         for category, items in home_gym_equipment.items():
             self.switches[category] = []
 
     def startup(self):
+        if not self.gear:
+            self.gear = []
         categories = []
         for category, items in home_gym_equipment.items():
             categories.append(category)
@@ -109,16 +111,8 @@ class UserGearPage(CommonPage):
         self.main_box.add(self.button_box)
 
     def proceed(self, widget):
-        self.user_data = [['User_gear'], [self.gear]]
+        self.user_data['User_gear'] = self.gear
         self.save_user_data_and_proceed(widget=widget)
 
-    def get_items_from_storage(self):
-        csv_path = os.path.join(self.path, 'storage', 'user_data.csv')
-        with open(csv_path, mode='r', newline='') as file:
-            reader = csv.reader(file)
-            data = list(reader)
-        index = data[0].index('User_gear')
-        items = data[1][index]
-        items_eval = ast.literal_eval(items)
-        return items_eval
+
 

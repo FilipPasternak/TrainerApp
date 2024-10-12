@@ -1,0 +1,27 @@
+{
+    "Name": "a",
+    "Sex": "s",
+    "age": "d",
+    "Weight": "r",
+    "Height": "s",
+    "Place": "At home with equipment",
+    "User_gear": [
+        "Dumbbells",
+        "Kettlebells",
+        "Barbell",
+        "Weight plates",
+        "Yoga mat",
+        "Foam roller",
+        "Exercise ball",
+        "Plyo box",
+        "Battle ropes"
+    ],
+    "Experience": "Working out regularly",
+    "Goal": "Gain muscle",
+    "Intensity": "Medium",
+    "Frequency": [
+        "Tue",
+        "Wed",
+        "Fri"
+    ]
+}

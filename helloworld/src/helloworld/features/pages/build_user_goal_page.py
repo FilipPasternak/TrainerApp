@@ -12,7 +12,7 @@ class UserGoalPage(CommonPage):
         self.path = path
         self.next_page = 'dev_page'
         self.gpt = GptClient(path=path)
-        self.user_data = [["Experience", "Goal", "Intensity", "Frequency"], [None, None, None, []]]
+        self.user_data = {}
         self.days = {'Mon': False,
                      'Tue': False,
                      'Wed': False,
@@ -63,13 +63,13 @@ class UserGoalPage(CommonPage):
         self.main_window.content = main_box
 
     def on_select_exp(self, widget):
-        self.user_data[1][0] = widget.value
+        self.user_data['Experience'] = widget.value
 
     def on_select_goal(self, widget):
-        self.user_data[1][1] = widget.value
+        self.user_data['Goal'] = widget.value
 
     def on_select_int(self, widget):
-        self.user_data[1][2] = widget.value
+        self.user_data['Intensity'] = widget.value
 
     def switch_action(self, widget):
         if widget.value:
@@ -78,9 +78,9 @@ class UserGoalPage(CommonPage):
             self.days[widget.text] = False
 
     def proceed(self, widget):
+        self.user_data['Frequency'] = []
         for day, value in self.days.items():
             if value:
-                print(self.user_data, self.user_data[1], self.user_data[1][3])
-                self.user_data[1][3].append(day)
+                self.user_data['Frequency'].append(day)
         self.save_user_data_and_proceed(widget=widget)
 
