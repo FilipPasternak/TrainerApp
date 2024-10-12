@@ -1,10 +1,10 @@
 import toga
 from toga.style import Pack
-from helloworld.common.create_objects import create_button, create_text_box, create_label, create_switch
-from toga.style.pack import ROW, COLUMN
-from helloworld.features.sections.first_run_section import FirstRunSection
+from helloworld.common.create_objects import create_button, create_label, create_switch
+from toga.style.pack import COLUMN
+from helloworld.common.common_page import CommonPage
 
-class FirstRunUserPlacePage(FirstRunSection):
+class FirstRunUserPlacePage(CommonPage):
     def __init__(self, main_window, path):
         self.path = path
         self.main_window = main_window

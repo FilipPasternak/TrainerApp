@@ -2,13 +2,20 @@ import toga
 import os
 import csv
 
-class FirstRunSection:
+class CommonPage:
     def __init__(self, path):
         self.user_data = None
         self.next_page = None
         self.path = path
 
     def save_user_data_and_proceed(self, widget):
+        '''
+        Saves self.user data to user_data.csv file
+        self.user data needs to be in form:
+        [['header1', 'header2', ...], [val1, val2, ...]]
+        :param widget: Button widget
+        :return: None
+        '''
         import helloworld.common.actions as actions
 
         # Save data to user_data.csv

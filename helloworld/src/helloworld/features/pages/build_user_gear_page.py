@@ -1,7 +1,7 @@
 import toga
 from toga.style import Pack
-from helloworld.common.create_objects import create_button, create_label, create_switch, create_selection
-from helloworld.features.sections.first_run_section import FirstRunSection
+from helloworld.common.create_objects import create_button, create_switch, create_selection
+from helloworld.common.common_page import CommonPage
 import csv
 import os
 import ast
@@ -52,8 +52,9 @@ home_gym_equipment = {
     ]
 }
 
-class UserGearPage(FirstRunSection):
+class UserGearPage(CommonPage):
     def __init__(self, main_window, path, next_page='user_goal'):
+        super().__init__(path)
         self.main_window = main_window
         self.next_page = next_page
         self.path = path
