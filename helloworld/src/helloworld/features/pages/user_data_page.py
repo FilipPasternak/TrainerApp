@@ -60,7 +60,7 @@ class FirstRunUserDataPage(CommonPage):
     def proceed(self, widget):
         self.user_data = {'Name': self.name_input.value,
                           'Sex': self.sex_input.value,
-                          'age': self.age_input.value,
+                          'Age': self.age_input.value,
                           'Weight': self.weight_input.value,
                           'Height': self.height_input.value}
         self.save_user_data_and_proceed(widget)

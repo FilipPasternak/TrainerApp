@@ -1,10 +1,10 @@
-from helloworld.features.pages.build_start_page import StartPage
-from helloworld.features.pages.build_diet_page import DietPage
-from helloworld.features.pages.build_training_plan_page import TrainingPlanPage
-from helloworld.features.pages.build_first_run_user_place_page import FirstRunUserPlacePage
-from helloworld.features.pages.build_user_gear_page import UserGearPage
-from helloworld.features.pages.build_user_goal_page import UserGoalPage
-from helloworld.features.pages.build_first_run_user_data_page import FirstRunUserDataPage
+from helloworld.features.pages.start_page import StartPage
+from helloworld.features.pages.diet_page import DietPage
+from helloworld.features.pages.training_plan_page import TrainingPlanPage
+from helloworld.features.pages.user_place_page import FirstRunUserPlacePage
+from helloworld.features.pages.user_gear_page import UserGearPage
+from helloworld.features.pages.user_goal_page import UserGoalPage
+from helloworld.features.pages.user_data_page import FirstRunUserDataPage
 from helloworld.features.pages.dev_page import DevPage
 
 

@@ -5,8 +5,8 @@ My first application
 import toga
 from toga.style import Pack
 from toga.style.pack import COLUMN, ROW
-from helloworld.features.pages.build_start_page import StartPage
-from helloworld.features.pages.build_first_run_user_data_page import FirstRunUserDataPage
+from helloworld.features.pages.start_page import StartPage
+from helloworld.features.pages.user_data_page import FirstRunUserDataPage
 from helloworld.features.pages.dev_page import DevPage
 
 
