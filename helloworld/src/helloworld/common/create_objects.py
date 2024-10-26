@@ -2,8 +2,9 @@ import toga
 from toga.style import Pack
 from toga.style.pack import COLUMN, ROW
 
-def create_button(box, action, label, style=Pack(padding=5)):
+def create_button(box, action, label, style=Pack(padding=5), custom_data=None):
     button = toga.Button(label, on_press=action, style=style)
+    button.custom_data = custom_data
     box.add(button)
     return button
 

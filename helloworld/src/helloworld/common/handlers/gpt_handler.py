@@ -1,6 +1,8 @@
-from openai import OpenAI
-import os
 import json
+import os.path
+
+from openai import OpenAI
+
 
 class GptClient:
     def __init__(self, path):
@@ -21,29 +23,119 @@ class GptClient:
                 }
             ],
             temperature=0.5,
-            model="gpt-4o"
+            model="gpt-4o-mini"
         )
         print(f"Completion tokens: {response.usage.completion_tokens}")
         print(f"Total tokens: {response.usage.total_tokens}")
         return response.choices[0].message.content
 
-    def generate_exercise_details(self, exercise, equipment, day, place):
+    def generate_exercise_details(self, exercise, equipment):
         user_prompt, system_prompt = self.get_exercise_details_prompt(exercise, equipment)
-        details = {'Equipment': equipment}
+        details = {}
         response = self.chat(user=user_prompt, system=system_prompt)
         response_splited = response.split(sep='|')
-        details['Description'] = response_splited[0]
-        details['Intensity'] = response_splited[1]
-        details['Difficulty'] = response_splited[2]
-        details['Muscles'] = response_splited[3]
-        return {exercise: details}
+        for i in range(len(response_splited)):
+            if '\n\n' in response_splited[i]:
+                response_splited[i] = response_splited[i].split('\n\n')[0]
+
+        details['Equipment'] = response_splited[0]
+        details['Description'] = response_splited[1]
+        details['Intensity'] = response_splited[2]
+        details['Difficulty'] = response_splited[3]
+        details['Muscles'] = response_splited[4]
+        return details
 
     def generate_plan(self, data):
         day_layout_system, day_layout_user = self.get_day_layout_prompts(data)
         day_layout_response = self.chat(system=day_layout_system, user=day_layout_user)
+
         exercise_plan_system, exercise_plan_user = self.get_exercise_plan_prompt(data, day_layout_response)
         exercise_plan_response = self.chat(system=exercise_plan_system, user=exercise_plan_user)
-        dupa = 1
+
+        workout_plan = self.parse_workout_plan(exercise_plan_response, day_layout_response)
+        json_path = os.path.join(self.path, 'storage', 'workout_plan.json')
+        with open(json_path, 'w') as file:
+            json.dump(workout_plan, file, indent=4)
+
+        return workout_plan
+
+    def parse_workout_plan(self, response_plan, response_day_layout):
+        '''
+        Parses the workout plan and day layout strings, and returns a structured workout plan.
+
+        :param response_plan: (str) Generated workout plan with exercises for corresponding days.
+        :param response_day_layout: (str) Categories of workout for certain days.
+        :return: (dict) Dictionary containing days as keys, and exercises mapped to workout categories as values.
+        '''
+        plan = {}
+
+        # Clean up response strings
+        response_plan = self.clean_response(response_plan)
+        response_day_layout = self.clean_response(response_day_layout)
+
+        # Process day layouts and exercises
+        days_plan = response_plan.split("\n")
+        days_layout = response_day_layout.split("\n")
+        categories_exercises_layout = self.get_categories_exercises_layout(days_layout)
+
+        for day in days_plan:
+            if not day.strip():
+                # Skip empty lines
+                continue
+
+            day_name, categories_exercises = self.process_day(day)
+            day_plan = {}
+
+            for idx, category_exercises in enumerate(categories_exercises):
+                exercises = category_exercises.strip()
+                day_plan[categories_exercises_layout[day_name][idx]] = exercises
+
+            plan[day_name] = day_plan
+
+        return plan
+
+    @staticmethod
+    def clean_response(response):
+        '''Removes extra characters and trims newlines from the beginning and end of the response.'''
+        return response.replace('```', '').strip()
+
+    def get_categories_exercises_layout(self, days_layout):
+        '''Generates a mapping of days to their corresponding workout categories.'''
+        categories_exercises_layout = {}
+
+        for day in days_layout:
+            day_name, categories = day.split("-")
+            day_name = self.map_days(day_name.strip())
+            categories_list = [cat.rstrip() for cat in categories.split('|')]
+            categories_exercises_layout[day_name] = categories_list
+
+        return categories_exercises_layout
+
+    def process_day(self, day):
+        '''Splits a day's workout plan into the day name and the exercises for each category.'''
+        day_parts = day.split(":")
+        day_name = self.map_days(day_parts[0].strip()).rstrip()
+        categories_exercises = day_parts[1].split("|")
+
+        return day_name, categories_exercises
+
+    @staticmethod
+    def map_days(day_name):
+        '''Maps full day names to short versions. Returns the original day_name if no match is found.'''
+        day_map = {
+            'Monday': 'Mon',
+            'Tuesday': 'Tue',
+            'Wednesday': 'Wed',
+            'Thursday': 'Thu',
+            'Friday': 'Fri',
+            'Saturday': 'Sat',
+            'Sunday': 'Sun'
+        }
+        return day_map.get(day_name, day_name)
+
+    def generate_exercise_description(self, exercise, equipment):
+        user_prompt, system_prompt = self.get_exercise_details_prompt(exercise, equipment)
+        return self.chat(user_prompt, system_prompt)
 
     @staticmethod
     def get_exercise_details_prompt(exercise, equipment):
@@ -54,10 +146,14 @@ class GptClient:
         Each description should explain how to properly perform the exercise, including starting position, body movement, and focus on muscle groups.
         You should include correct way of doing this exercise to remove any misconceptions about doing it.
         The description should be no more than 2-3 sentences.
+        Before the description, specify which piece of equipment is used for this exercise.
+        ** Write only the name of equipment used! No additional words! **
+        If none equipment is used, write Bodyweight.
         After written description write number in scale 1-10 representing intensity of exercise and difficulty.
         After that write which muscles are most involved.
+        ** IT IS VERY IMPORTANT TO NOT ADD ANY ADDITIONAL WORDS IN YOUR ANSWER. FOLLOW THIS FORMAT IN EXAMPLE **
         example:
-        Description|1|1|Muscles
+        Used equipment|Description|1|1|Muscles
         """
         return user_prompt, system_prompt
 
@@ -138,5 +234,7 @@ class GptClient:
 # with open(r'C:\Users\revte\Desktop\Inzynierka\helloworld\src\helloworld\storage\user_data.json', 'r') as file:
 #     data = json.load(file)
 #
-# client = GptClient('dupa')
-# client.generate_plan(data)
+# client = GptClient(r'C:\Users\revte\Desktop\Inzynierka\helloworld\src\helloworld')
+# plan = client.generate_plan(data)
+#
+# dupa = 1
