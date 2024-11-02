@@ -1,18 +1,18 @@
-import toga
 import os
-import csv
 import json
+from kivy.uix.screenmanager import Screen
+# from helloworld.common.handlers.gpt_handler import GptClient
 
 
-class CommonPage:
-    def __init__(self, path):
+class CommonPage(Screen):
+    def __init__(self, path, **kw):
+        super().__init__(**kw)
         self.user_data = None
         self.next_page = None
         self.path = path
+        # self.gpt_client = GptClient(self.path)
 
-    def save_user_data_and_proceed(self, widget):
-        import helloworld.common.actions as actions
-
+    def save_user_data_and_proceed(self):
         user_data_dict = self.read_json_file('user_data.json')
 
         for data, value in self.user_data.items():
@@ -21,14 +21,18 @@ class CommonPage:
         with open(os.path.join(self.path, 'storage', 'user_data.json'), 'w') as file:
             json.dump(user_data_dict, file, indent=4)
 
-        if self.next_page == 'user_place':
-            actions.go_to_first_run_user_place_page(widget=widget)
-        elif self.next_page == 'user_gear':
-            actions.go_to_user_gear_page(widget=widget)
-        elif self.next_page == 'user_goal':
-            actions.go_to_user_goal_page(widget=widget)
-        elif self.next_page == 'dev_page':
-            actions.go_to_dev_page(widget=widget)
+        page_methods = {
+            'start_page': self.go_to_start_page,
+            'diet_page': self.go_to_diet_page,
+            'training_plan_page': self.go_to_training_plan_page,
+            'place_page': self.go_to_user_place_page,
+            'gear_page': self.go_to_user_gear_page,
+            'goal_page': self.go_to_user_goal_page,
+            'data_page': self.go_to_user_data_page,
+            'dev_page': self.go_to_dev_page,
+            'settings_page': self.go_to_settings_page
+        }
+        page_methods[self.next_page]()
 
     def get_items_from_storage(self, item=None):
         stored_dict = self.read_json_file('user_data.json')
@@ -58,17 +62,6 @@ class CommonPage:
             json.dump(exercises_dict, file, indent=4)
 
     @staticmethod
-    def go_to_next_page(page):
-        import helloworld.common.actions as actions
-        goto_functions = {
-            'user_place': actions.go_to_first_run_user_place_page,
-            'user_gear': actions.go_to_user_gear_page,
-            'user_goal': actions.go_to_user_goal_page,
-            'dev_page': actions.go_to_dev_page
-        }
-        return goto_functions[page]
-
-    @staticmethod
     def insert_newlines(text, max_width=500, avg_char_width=10):
         max_chars_per_line = max_width // avg_char_width
 
@@ -84,3 +77,32 @@ class CommonPage:
             current_line_length += len(word) + 1
 
         return ' '.join(formatted_text)
+
+    def go_to_start_page(self, *args):
+        self.manager.current = 'start_page'
+
+    def go_to_diet_page(self, *args):
+        self.manager.current = 'diet_page'
+
+    def go_to_training_plan_page(self, *args):
+        self.manager.current = 'generate_plan'
+
+    def go_to_user_place_page(self, *args):
+        self.manager.current = 'place_page'
+
+    def go_to_user_gear_page(self, *args):
+        self.manager.current = 'gear_page'
+
+    def go_to_user_goal_page(self, *args):
+        self.manager.current = 'goal_page'
+
+    def go_to_user_data_page(self, *args):
+        self.manager.current = 'data_page'
+
+    def go_to_dev_page(self, *args):
+        self.manager.current = 'dev_page'
+
+    def go_to_settings_page(self, *args):
+        self.manager.current = 'settings_page'
+
+

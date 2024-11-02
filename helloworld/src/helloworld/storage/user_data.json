@@ -1,27 +1,27 @@
 {
-    "Name": "a",
-    "Sex": "s",
-    "Age": "d",
-    "Weight": "r",
-    "Height": "s",
+    "Name": "Filip",
+    "Sex": "Male",
+    "Age": 22,
+    "Weight": 75,
+    "Height": 185,
     "Place": "At home with equipment",
     "User_gear": [
         "Dumbbells",
-        "Kettlebells",
-        "Barbell",
         "Weight plates",
-        "Yoga mat",
-        "Foam roller",
-        "Exercise ball",
-        "Plyo box",
-        "Battle ropes"
+        "Sandbag",
+        "Ankle weights",
+        "Resistance bands",
+        "Treadmill",
+        "Jump rope",
+        "Foam roller"
     ],
-    "Experience": "Working out regularly",
-    "Goal": "Gain muscle",
-    "Intensity": "Medium",
+    "Experience": "Beginner",
+    "Goal": "Lose weight",
+    "Intensity": "Relaxing",
     "Frequency": [
+        "Mon",
         "Tue",
         "Wed",
-        "Fri"
+        "Sun"
     ]
 }

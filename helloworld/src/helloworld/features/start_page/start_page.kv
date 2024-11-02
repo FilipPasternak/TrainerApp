@@ -1,0 +1,40 @@
+<StartPage>
+    FloatLayout:
+        Gradient:
+            size_hint: 1, 1
+            pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+
+        GridLayout:
+            pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+            size_hint: .9, .5
+            rows: 2
+            cols: 2
+            spacing: dp(10)
+            Button:
+                text: 'Diet Page'
+                font_size: 20
+                size_hint: 0.8, None
+                height: dp(80)
+                pos_hint: {'center_x': 0.5, 'center_y': 0.4}
+                on_release: root.go_to_diet_page()
+            Button:
+                text: 'Training Plan Page'
+                font_size: 20
+                size_hint: 0.8, None
+                height: dp(80)
+                pos_hint: {'center_x': 0.5, 'center_y': 0.6}
+                on_release: root.go_to_training_plan_page()
+            Button:
+                text: 'Settings'
+                font_size: 20
+                size_hint: 0.8, None
+                height: dp(80)
+                pos_hint: {'center_x': 0.5, 'center_y': 0.6}
+                on_release: root.go_to_settings_page()
+            Button:
+                text: 'Cos tu bedzie'
+                font_size: 20
+                size_hint: 0.8, None
+                height: dp(80)
+                pos_hint: {'center_x': 0.5, 'center_y': 0.6}
+#                on_release: root.go_to_training_plan_page()

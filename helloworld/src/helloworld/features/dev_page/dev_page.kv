@@ -1,0 +1,67 @@
+<DevPage>:
+    AnchorLayout:
+        anchor_y: 'top'
+        BoxLayout:
+            orientation: 'vertical'
+            spacing: dp(10)
+            padding: dp(20)
+            size_hint_y: None
+            height: self.minimum_height
+            pos_hint: {'center_x': 0.5}
+
+            Button:
+                text: 'Go to Goal Page'
+                font_size: 20
+                size_hint: 0.6, None
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                on_release: root.go_to_user_goal_page()
+            Button:
+                text: 'Go to Diet Page'
+                font_size: 20
+                size_hint: 0.6, None
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                on_release: root.go_to_diet_page()
+            Button:
+                text: 'Go to Start Page'
+                font_size: 20
+                size_hint: 0.6, None
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                on_release: root.go_to_start_page()
+            Button:
+                text: 'Go to Gear Page'
+                font_size: 20
+                size_hint: 0.6, None
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                on_release: root.go_to_user_gear_page()
+            Button:
+                text: 'Go to Plan Page'
+                font_size: 20
+                size_hint: 0.6, None
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                on_release: root.go_to_training_plan_page()
+            Button:
+                text: 'Go to Data Page'
+                font_size: 20
+                size_hint: 0.6, None
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                on_release: root.go_to_user_data_page()
+            Button:
+                text: 'Go to Place Page'
+                font_size: 20
+                size_hint: 0.6, None
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                on_release: root.go_to_user_place_page()
+            Button:
+                text: 'Go to Settings Page'
+                font_size: 20
+                size_hint: 0.6, None
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                on_release: root.go_to_settings_page()

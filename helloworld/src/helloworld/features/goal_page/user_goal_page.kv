@@ -1,0 +1,80 @@
+<UserGoalPage>
+    FloatLayout:
+        Gradient:
+            size_hint: 1, 1
+            pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+
+        BoxLayout:
+            orientation: 'vertical'
+            padding: [0, dp(20), 0, dp(50)]
+
+            AnchorLayout:
+                anchor_y: 'top'
+
+                BoxLayout:
+                    orientation: 'vertical'
+                    spacing: dp(20)
+                    padding: dp(20)
+                    size_hint_y: None
+                    height: self.minimum_height
+                    pos_hint: {'center_x': 0.5}
+
+                    Spinner:
+                        id: exp
+                        text: 'Your experience'
+                        values: ['Beginner', 'Worked out before', 'Working out regularly', 'Expert']
+                        size_hint: None, None
+                        font_size: 20
+                        width: dp(200)
+                        height: dp(50)
+                        pos_hint: {'center_x': 0.5}
+                        background_color: 1, 1, 1, 1
+                        color: 0, 0, 0, 1
+
+                    Spinner:
+                        id: goal
+                        text: 'Your goal'
+                        values: ['Gain muscle', 'Lose weight', 'Healthy lifestyle']
+                        size_hint: None, None
+                        font_size: 20
+                        width: dp(200)
+                        height: dp(50)
+                        pos_hint: {'center_x': 0.5}
+                        background_color: 1, 1, 1, 1
+                        color: 0, 0, 0, 1
+
+                    Spinner:
+                        id: intensity
+                        text: 'Training intensity'
+                        values: ['Relaxing', 'Medium', 'Intense']
+                        size_hint: None, None
+                        font_size: 20
+                        width: dp(200)
+                        height: dp(50)
+                        pos_hint: {'center_x': 0.5}
+                        background_color: 1, 1, 1, 1
+                        color: 0, 0, 0, 1
+
+                    Label:
+                        text: 'Choose your training schedule:'
+                        font_size: 20
+                        padding: 50
+                        width: dp(200)
+                        height: dp(100)
+                        pos_hint: {'center_x': 0.5}
+
+                    GridLayout:
+                        id: grid
+                        cols: 4
+                        rows: 2
+                        spacing: dp(10)
+                        size_hint_y: None
+                        height: self.minimum_height
+            Button:
+                text: 'Proceed'
+                size_hint: None, None
+                font_size: 20
+                width: dp(200)
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                on_release: root.proceed()

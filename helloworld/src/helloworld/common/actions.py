@@ -1,11 +1,11 @@
-from helloworld.features.pages.start_page import StartPage
-from helloworld.features.pages.diet_page import DietPage
-from helloworld.features.pages.training_plan_page import TrainingPlanPage
-from helloworld.features.pages.user_place_page import FirstRunUserPlacePage
-from helloworld.features.pages.user_gear_page import UserGearPage
-from helloworld.features.pages.user_goal_page import UserGoalPage
-from helloworld.features.pages.user_data_page import FirstRunUserDataPage
-from helloworld.features.pages.dev_page import DevPage
+from helloworld.features.start_page.start_page import StartPage
+from helloworld.features.diet_page.diet_page import DietPage
+from helloworld.features.training_plan_page.training_plan_page import TrainingPlanPage
+from helloworld.features.place_page.user_place_page import UserPlacePage
+from helloworld.features.gear_page.user_gear_page import UserGearPage
+from helloworld.features.goal_page.user_goal_page import UserGoalPage
+from helloworld.features.data_page.user_data_page import UserDataPage
+from helloworld.features.dev_page import DevPage
 
 
 def go_to_start_page(widget):
@@ -21,7 +21,7 @@ def go_to_training_plan_page(widget):
     page.startup()
 
 def go_to_first_run_user_place_page(widget):
-    page = FirstRunUserPlacePage(widget.app.main_window, widget.app.paths.app)
+    page = UserPlacePage(widget.app.main_window, widget.app.paths.app)
     page.startup()
 
 def go_to_user_gear_page(widget):
@@ -33,7 +33,7 @@ def go_to_user_goal_page(widget):
     page.startup()
 
 def go_to_user_data_page(widget):
-    page = FirstRunUserDataPage(widget.app.main_window, widget.app.paths.app)
+    page = UserDataPage(widget.app.main_window, widget.app.paths.app)
     page.startup()
 
 def go_to_dev_page(widget):

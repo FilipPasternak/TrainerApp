@@ -1,12 +1,14 @@
 {
+    "Mon": {
+        "Push day": "push ups,dumbbell bench press,dumbbell shoulder press,dumbbell lateral raises,dumbbell tricep extensions,sandbag floor press,dumbbell front raises,dumbbell chest fly,dumbbell tricep kickbacks"
+    },
     "Tue": {
-        "Push day": "push ups,dumbbell bench press,shoulder press,dumbbell lateral raise,tricep dips,dumbbell flyes,front raise,overhead tricep extension,plank to push up"
+        "Pull day": "pull ups,one arm dumbbell row,rear delt flys,dumbbell bicep curls,banded face pulls,bodyweight inverted rows,dumbbell hammer curls,banded bent over rows,dumbbell shrugs"
     },
     "Wed": {
-        "Pull day": "pull ups,barbell rows,dumbbell bicep curls,rear delt flyes,deadlifts,face pulls,one arm dumbbell rows",
-        "Core and cardio": "mountain climbers,plank,exercise ball rollouts,high knees,battle ropes,flutter kicks"
+        "Leg day": "squats,dumbbell lunges,sandbag deadlifts,calf raises,glute bridges,dumbbell step ups,bodyweight squats,dumbbell sumo squats,leg curls with band"
     },
-    "Fri": {
-        "Leg day": "squats,lunges,deadlifts,glute bridges,calf raises,dumbbell step ups,leg press,barbell hip thrusts,leg curls,box jumps,side lunges"
+    "Sun": {
+        "Core and cardio": "plank,side plank,leg raises,jumping jacks,high knees,treadmill walking,foam roller stretches"
     }
 }

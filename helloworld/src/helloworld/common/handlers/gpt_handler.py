@@ -6,7 +6,7 @@ from openai import OpenAI
 
 class GptClient:
     def __init__(self, path):
-        api_key=''
+        api_key='sk-1EXrbGqmWD5D1xGJmboDAaaPwXA7-DZxR7R7M-J_MoT3BlbkFJqYW74-BtQGF9GZxOe1Rg4gk_72qn7wL3KudU9Xx6UA'
         self.client = OpenAI(api_key=api_key)
         self.path = path
 
@@ -91,6 +91,7 @@ class GptClient:
                 day_plan[categories_exercises_layout[day_name][idx]] = exercises
 
             plan[day_name] = day_plan
+
 
         return plan
 
