@@ -1,13 +1,9 @@
 from helloworld.common.common_page import CommonPage
-import csv
-import os
-import ast
-from kivy.uix.tabbedpanel import TabbedPanel, TabbedPanelItem
-from kivy.uix.boxlayout import BoxLayout
-from kivy.uix.togglebutton import ToggleButton
-from kivy.uix.button import Button
-from helloworld.resources.gradient import Gradient
-from kivy.uix.label import Label
+from helloworld.common.common_objects import ToggleButton
+
+from kivymd.uix.boxlayout import MDBoxLayout
+
+from kivymd.uix.label import MDLabel
 
 home_gym_equipment = {
     "Weights & Strength Training": [
@@ -62,6 +58,7 @@ class UserGearPage(CommonPage):
         self.gear = []
         self.user_data = {}
         self.next_page = 'goal_page'
+        self.toggle_buttons = []
 
     def on_enter(self):
         switches_layout = self.ids.Switches
@@ -69,29 +66,25 @@ class UserGearPage(CommonPage):
         switches_layout.clear_widgets()
 
         for category, equipment_list in home_gym_equipment.items():
-            category_layout = BoxLayout(orientation='vertical', spacing=10, size_hint_y=None)
+            category_layout = MDBoxLayout(orientation='vertical', spacing=10, size_hint_y=None)
             category_layout.bind(minimum_height=category_layout.setter('height'))
 
-            category_label = Label(text=category, size_hint_y=None, height=30)
+            category_label = MDLabel(text=category, size_hint_y=None, height=30)
             category_layout.add_widget(category_label)
 
             for equipment in equipment_list:
                 toggle_button = ToggleButton(text=equipment, size_hint_y=None, height=50)
-                toggle_button.bind(on_release=self.on_toggle)
+                self.toggle_buttons.append(toggle_button)
                 category_layout.add_widget(toggle_button)
 
             switches_layout.add_widget(category_layout)
 
-    def on_toggle(self, instance):
-        if instance.state == 'down':
-            self.gear.append(instance.text)
-        if instance.state == 'normal':
-            idx = self.gear.index(instance.text)
-            self.gear.pop(idx)
-
     def proceed(self):
+        for button in self.toggle_buttons:
+            if button.state == 'down':
+                self.gear.append(button.text)
+
         self.user_data['User_gear'] = self.gear
         self.save_user_data_and_proceed()
-
 
 

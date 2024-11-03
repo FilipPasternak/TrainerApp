@@ -1,65 +1,30 @@
 <UserPlacePage>
-    FloatLayout:
-        Gradient:
-            size_hint: 1, 1
-            pos_hint: {'center_x': 0.5, 'center_y': 0.5}
 
-        BoxLayout:
-            orientation: 'vertical'
-            padding: [0, dp(20), 0, dp(50)]
+    MDBoxLayout:
+        orientation: 'vertical'
+        padding: [0, dp(20), 0, dp(50)]
 
-            AnchorLayout:
-                anchor_y: 'top'
+        MDAnchorLayout:
+            anchor_y: 'top'
 
-                BoxLayout:
-                    orientation: 'vertical'
-                    spacing: dp(10)
-                    padding: dp(20)
-                    size_hint_y: None
-                    height: self.minimum_height
-                    pos_hint: {'center_x': 0.5}
-
-                    ToggleButton:
-                        id: Fully equipped gym
-                        text: 'Fully equipped gym'
-                        size_hint: None, None
-                        width: dp(200)
-                        height: dp(50)
-                        pos_hint: {'center_x': 0.5}
-                        on_state: root.toggle_switch(self.text)
-                    ToggleButton:
-                        id: Only free weights gym
-                        text: 'Only free weights gym'
-                        size_hint: None, None
-                        width: dp(200)
-                        height: dp(50)
-                        pos_hint: {'center_x': 0.5}
-                        on_state: root.toggle_switch(self.text)
-                    ToggleButton:
-                        id: At home with equipment
-                        text: 'At home with equipment'
-                        size_hint: None, None
-                        width: dp(200)
-                        height: dp(50)
-                        pos_hint: {'center_x': 0.5}
-                        on_state: root.toggle_switch(self.text)
-                    ToggleButton:
-                        id: At home without equipment
-                        text: 'At home without equipment'
-                        size_hint: None, None
-                        width: dp(200)
-                        height: dp(50)
-                        pos_hint: {'center_x': 0.5}
-                        on_state: root.toggle_switch(self.text)
-
-            Button:
-                text: 'Proceed'
-                size_hint: None, None
-                font_size: 20
-                width: dp(200)
-                height: dp(50)
+            MDBoxLayout:
+                id: content_container
+                orientation: 'vertical'
+                spacing: dp(10)
+                padding: dp(20)
+                size_hint_y: None
+                height: self.minimum_height
                 pos_hint: {'center_x': 0.5}
-                on_release: root.proceed()
+
+
+        MDRaisedButton:
+            text: 'Proceed'
+            size_hint: None, None
+            font_size: 20
+            width: dp(200)
+            height: dp(50)
+            pos_hint: {'center_x': 0.5}
+            on_release: root.proceed()
 
 
 

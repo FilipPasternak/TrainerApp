@@ -6,7 +6,7 @@ from openai import OpenAI
 
 class GptClient:
     def __init__(self, path):
-        api_key='sk-1EXrbGqmWD5D1xGJmboDAaaPwXA7-DZxR7R7M-J_MoT3BlbkFJqYW74-BtQGF9GZxOe1Rg4gk_72qn7wL3KudU9Xx6UA'
+        api_key=''
         self.client = OpenAI(api_key=api_key)
         self.path = path
 
@@ -127,7 +127,7 @@ class GptClient:
             'Monday': 'Mon',
             'Tuesday': 'Tue',
             'Wednesday': 'Wed',
-            'Thursday': 'Thu',
+            'Thursday': 'Th',
             'Friday': 'Fri',
             'Saturday': 'Sat',
             'Sunday': 'Sun'

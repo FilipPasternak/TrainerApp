@@ -1,16 +1,15 @@
 import os
 import json
-from kivy.uix.screenmanager import Screen
-# from helloworld.common.handlers.gpt_handler import GptClient
+from kivymd.uix.screen import MDScreen
+from helloworld.common.handlers.gpt_handler import GptClient
 
-
-class CommonPage(Screen):
+class CommonPage(MDScreen):
     def __init__(self, path, **kw):
         super().__init__(**kw)
         self.user_data = None
         self.next_page = None
         self.path = path
-        # self.gpt_client = GptClient(self.path)
+        self.gpt_client = GptClient(self.path)
 
     def save_user_data_and_proceed(self):
         user_data_dict = self.read_json_file('user_data.json')
@@ -104,5 +103,4 @@ class CommonPage(Screen):
 
     def go_to_settings_page(self, *args):
         self.manager.current = 'settings_page'
-
 

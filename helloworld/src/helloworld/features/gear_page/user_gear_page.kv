@@ -1,34 +1,33 @@
 <UserGearPage>
-    FloatLayout:
-        Gradient:
-            size_hint: 1, 1
-            pos_hint: {'center_x': 0.5, 'center_y': 0.5}
 
-        BoxLayout:
-            orientation: 'vertical'
-            padding: [0, dp(20), 0, dp(50)]
+    MDBoxLayout:
+        orientation: 'vertical'
+        spacing: dp(10)
+        padding: dp(20)
 
-            AnchorLayout:
-                anchor_y: 'top'
+        MDAnchorLayout:
+            anchor_y: 'top'
 
-                ScrollView:
-                    size_hint: 1, 1
-                    bar_width: dp(10)
+            MDScrollView:
+                size_hint: 1, 1
+                bar_width: dp(10)
 
-                    BoxLayout:
-                        id: Switches
-                        orientation: 'vertical'
-                        spacing: dp(10)
-                        padding: dp(20)
-                        size_hint_y: None
-                        height: self.minimum_height
-                        pos_hint: {'center_x': 0.5}
+                MDBoxLayout:
+                    id: Switches
+                    orientation: 'vertical'
+                    spacing: dp(10)
+                    padding: dp(20)
+                    size_hint_y: None
+                    height: self.minimum_height
+                    pos_hint: {'center_x': 0.5}
 
-            Button:
-                text: 'Proceed'
-                size_hint: None, None
-                font_size: 20
-                width: dp(200)
-                height: dp(50)
-                pos_hint: {'center_x': 0.5}
-                on_release: root.proceed()
+        MDSeparator:
+
+        MDRectangleFlatButton:
+            text: 'Proceed'
+            size_hint: None, None
+            font_size: 20
+            width: dp(200)
+            height: dp(50)
+            pos_hint: {'center_x': 0.5}
+            on_release: root.proceed()

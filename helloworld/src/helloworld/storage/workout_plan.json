@@ -1,14 +1,12 @@
 {
     "Mon": {
-        "Push day": "push ups,dumbbell bench press,dumbbell shoulder press,dumbbell lateral raises,dumbbell tricep extensions,sandbag floor press,dumbbell front raises,dumbbell chest fly,dumbbell tricep kickbacks"
-    },
-    "Tue": {
-        "Pull day": "pull ups,one arm dumbbell row,rear delt flys,dumbbell bicep curls,banded face pulls,bodyweight inverted rows,dumbbell hammer curls,banded bent over rows,dumbbell shrugs"
+        "Push day": "Push Up,Dumbbell Bench Press,Dumbbell Shoulder Press,Dumbbell Lateral Raise,Dumbbell Tricep Extension,Push Up with Clap,Dumbbell Chest Fly,Dumbbell Front Raise,Darrow Press"
     },
     "Wed": {
-        "Leg day": "squats,dumbbell lunges,sandbag deadlifts,calf raises,glute bridges,dumbbell step ups,bodyweight squats,dumbbell sumo squats,leg curls with band"
+        "Pull day": "Pull Up,Dumbbell Row,Resistance Band Face Pull,Resistance Band Bicep Curl,Dumbbell Rear Delt Fly,Seated Row with Resistance Band,Dumbbell Hammer Curl,Pull Up Negatives,Resistance Band Pull Apart"
     },
     "Sun": {
-        "Core and cardio": "plank,side plank,leg raises,jumping jacks,high knees,treadmill walking,foam roller stretches"
+        "Leg day": "Dumbbell Squat,Dumbbell Deadlift,Walking Lunges,Dumbbell Glute Bridge,Dumbbell Calf Raise,Sumo Squat,Single Leg Deadlift,Resistance Band Leg Press,Bodyweight Step Up",
+        "Core and cardio": "Plank,Mountain Climbers,Russian Twist,Flutter Kicks,High Knees,Jumping Jacks,Bicycle Crunches"
     }
 }

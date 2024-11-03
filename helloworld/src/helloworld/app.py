@@ -4,9 +4,9 @@ from kivy.config import Config
 Config.set('graphics', 'width', '360')
 Config.set('graphics', 'height', '640')
 
-from kivy.app import App
+from kivymd.app import MDApp
 from kivy.lang import Builder
-from kivy.uix.screenmanager import ScreenManager
+from kivymd.uix.screenmanager import MDScreenManager
 import os
 from helloworld.features.dev_page.dev_page import DevPage
 from helloworld.features.diet_page.diet_page import DietPage
@@ -22,12 +22,12 @@ from helloworld.features.settings_page.settings_page import SettingsPage
 
 dev_mode = True
 
-class HelloWorld(App):
+class HelloWorld(MDApp):
     def build(self):
         app_directory = os.path.dirname(os.path.abspath(__file__))
 
         file_path = os.path.join(app_directory, 'storage', 'user_data.json')
-        screen_manager = ScreenManager()
+        screen_manager = MDScreenManager()
         self.add_pages(screen_manager, app_directory)
         if dev_mode:
             screen_manager.current = 'dev_page'

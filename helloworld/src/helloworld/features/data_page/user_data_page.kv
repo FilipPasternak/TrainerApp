@@ -1,0 +1,70 @@
+<UserDataPage>
+
+    MDAnchorLayout:
+        anchor_y: 'top'
+        MDBoxLayout:
+            orientation: 'vertical'
+            spacing: dp(10)
+            padding: dp(20)
+            size_hint_y: None
+            height: self.minimum_height
+            pos_hint: {'center_x': 0.5}
+
+            MDTextField:
+                id: name_input
+                hint_text: 'Your name'
+                size_hint: None, None
+                font_size: 20
+                width: dp(200)
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                foreground_color: 0, 0, 0, 1
+                background_color: 1, 1, 1, 1
+            MDTextField:
+                id: age_input
+                hint_text: 'Your age'
+                size_hint: None, None
+                font_size: 20
+                width: dp(200)
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                foreground_color: 0, 0, 0, 1
+                background_color: 1, 1, 1, 1
+            MDTextField:
+                id: weight_input
+                hint_text: 'Your weight [kg]'
+                size_hint: None, None
+                font_size: 20
+                width: dp(200)
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                foreground_color: 0, 0, 0, 1
+                background_color: 1, 1, 1, 1
+            MDTextField:
+                id: height_input
+                hint_text: 'Your height [cm]'
+                size_hint: None, None
+                font_size: 20
+                width: dp(200)
+                height: dp(50)
+                pos_hint: {'center_x': 0.5}
+                foreground_color: 0, 0, 0, 1
+                background_color: 1, 1, 1, 1
+            MDRaisedButton:
+                id: gender_input
+                text: "Select Gender"
+                size_hint: None, None
+                font_size: 20
+                width: dp(200)
+                height: dp(50)
+                pos_hint: {"center_x": 0.5}
+                on_release: root.gender_menu.open()
+
+    MDRectangleFlatButton:
+        text: 'Proceed'
+        size_hint: None, None
+        font_size: 20
+        width: dp(200)
+        height: dp(50)
+        pos_hint: {'center_x': 0.5, 'center_y': .1}
+        on_release: root.proceed()

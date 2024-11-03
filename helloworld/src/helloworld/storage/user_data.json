@@ -7,20 +7,17 @@
     "Place": "At home with equipment",
     "User_gear": [
         "Dumbbells",
-        "Weight plates",
-        "Sandbag",
-        "Ankle weights",
+        "Kettlebells",
+        "Barbell",
         "Resistance bands",
-        "Treadmill",
-        "Jump rope",
-        "Foam roller"
+        "Rowing machine",
+        "Pull-up bar"
     ],
     "Experience": "Beginner",
     "Goal": "Lose weight",
-    "Intensity": "Relaxing",
+    "Intensity": "Intense",
     "Frequency": [
         "Mon",
-        "Tue",
         "Wed",
         "Sun"
     ]

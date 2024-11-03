@@ -1,19 +1,16 @@
-import time
 
-from helloworld.common.common_page import CommonPage
-import os
-from kivy.uix.anchorlayout import AnchorLayout
-from kivy.uix.boxlayout import BoxLayout
-from kivy.uix.pagelayout import PageLayout
 from kivy.metrics import dp
-from kivy.uix.button import Button
-from kivy.uix.togglebutton import ToggleButton
-from helloworld.resources.gradient import Gradient
 from kivy.clock import Clock
 
+from kivymd.uix.button import MDFlatButton, MDRaisedButton
+from kivymd.uix.boxlayout import MDBoxLayout
+from kivymd.uix.anchorlayout import MDAnchorLayout
+from kivymd.uix.carousel import MDCarousel
+from kivy.graphics import Color, Rectangle
 
-#GLOBAL
-plan = None
+from helloworld.common.common_page import CommonPage
+from helloworld.common.common_objects import ToggleButton
+
 
 class GeneratePlanPage(CommonPage):
     def __init__(self, path, **kwargs):
@@ -22,12 +19,10 @@ class GeneratePlanPage(CommonPage):
         self.plan = None
 
     def on_pre_enter(self, *args):
-        main_layout = BoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
-        gradient = Gradient()
-        self.add_widget(gradient)
+        main_layout = MDBoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
 
-        top_anchor = AnchorLayout(anchor_y='center')
-        top_button = Button(
+        top_anchor = MDAnchorLayout(anchor_y='center')
+        top_button = MDRaisedButton(
             text='Generate your training plan!',
             size_hint=(None, None),
             font_size=20,
@@ -39,8 +34,8 @@ class GeneratePlanPage(CommonPage):
         top_anchor.add_widget(top_button)
         main_layout.add_widget(top_anchor)
 
-        bottom_anchor = AnchorLayout(anchor_y='bottom')
-        back_button = Button(
+        bottom_anchor = MDAnchorLayout(anchor_y='bottom')
+        back_button = MDFlatButton(
             text='Back',
             size_hint=(None, None),
             font_size=20,
@@ -76,19 +71,19 @@ class ExercisesPage(CommonPage):
         self.exercises_container = None
 
     def on_pre_enter(self, *args):
-        main_layout = PageLayout()
+        main_layout = MDCarousel(direction='right')
 
-        day_page = BoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
-        self.exercises_page = BoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
-        self.description_page = BoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
+        day_page = MDBoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
+        self.exercises_page = MDBoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
+        self.description_page = MDBoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
 
         # DAY PAGE START ------------------------------------------
-        day_top_anchor = AnchorLayout(anchor_y='top')
-        days_container = BoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
+        day_top_anchor = MDAnchorLayout(anchor_y='top')
+        days_container = MDBoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
         for day, exercises in self.plan.items():
             label = f"{day}: "
             category = list(exercises.keys())
-            label += ', '.join(category[:2]) if len(category) == 2 else category[0]
+            label += ', '.join(category[:2]) if len(category) >= 2 else category[0]
             top_button = ToggleButton(
                 text=label,
                 size_hint=(None, None),
@@ -96,14 +91,14 @@ class ExercisesPage(CommonPage):
                 width=dp(300),
                 height=dp(50),
                 pos_hint={'center_x': 0.5},
-                on_release=self.load_exercises
+                on_press=self.load_exercises
             )
             days_container.add_widget(top_button)
         day_top_anchor.add_widget(days_container)
         day_page.add_widget(day_top_anchor)
 
-        day_bottom_anchor = AnchorLayout(anchor_y='bottom')
-        back_button = Button(
+        day_bottom_anchor = MDAnchorLayout(anchor_y='bottom')
+        back_button = MDFlatButton(
             text='Back',
             size_hint=(None, None),
             font_size=20,
@@ -117,43 +112,64 @@ class ExercisesPage(CommonPage):
         # DAY PAGE END --------------------------------------------
 
         # EXERCISES PAGE START ------------------------------------
-        exercises_top_anchor = AnchorLayout(anchor_y='top')
-        self.exercises_container = BoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
+        exercises_top_anchor = MDAnchorLayout(anchor_y='top')
 
-        # day = self.get_day_name_from_label()
-        # categories = list(self.plan[day].keys())
-        # exercises = list(self.plan[day].values())
-        #
-        # for i in range(len(categories)):
-        #     create_label(box=new_main_box,
-        #                  text=categories[i])
-        #     exercises_list = exercises[i].split(',')
-        #     for exercise in exercises_list:
-        #         create_button(box=new_main_box,
-        #                       label=exercise.capitalize(),
-        #                       custom_data=categories[i],
-        #                       action=self.go_to_description)
-        #
-        # create_button(box=new_main_box,
-        #               label='Back',
-        #               action=self.go_back_to_calendar,
-        #               style=Pack(padding=15, alignment='center'))
-        # self.exercises_window = new_main_box
-        # self.main_window.content = new_main_box
+        with exercises_top_anchor.canvas.before:
+            Color(rgba=(0.9, 0.95, 1, 1))
+            exercises_top_anchor.rect = Rectangle(pos=exercises_top_anchor.pos, size=exercises_top_anchor.size)
+
+        exercises_top_anchor.bind(pos=self.update_rect, size=self.update_rect)
+        self.exercises_container = MDBoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
+
+        exercises_top_anchor.add_widget(self.exercises_container)
+        self.exercises_page.add_widget(exercises_top_anchor)
         # EXERCISES PAGE END ------------------------------------
 
         main_layout.add_widget(day_page)
+        main_layout.add_widget(self.exercises_page)
+        main_layout.add_widget(self.description_page)
+
         self.add_widget(main_layout)
 
-
     def load_exercises(self, instance):
-        pass
+        print('dupa')
+
+    def update_rect(self, instance, *args):
+        instance.rect.pos = instance.pos
+        instance.rect.size = instance.size
 
 
 class TrainingPlanPage(CommonPage):
     def __init__(self, path, **kwargs):
         super().__init__(path, **kwargs)
         self.path = path
+
+
+    # EXERCISES PAGE START ------------------------------------
+    # exercises_top_anchor = AnchorLayout(anchor_y='top')
+    # self.exercises_container = BoxLayout(orientation='vertical', padding=[0, dp(20), 0, dp(50)])
+
+    # day = self.get_day_name_from_label()
+    # categories = list(self.plan[day].keys())
+    # exercises = list(self.plan[day].values())
+    #
+    # for i in range(len(categories)):
+    #     create_label(box=new_main_box,
+    #                  text=categories[i])
+    #     exercises_list = exercises[i].split(',')
+    #     for exercise in exercises_list:
+    #         create_button(box=new_main_box,
+    #                       label=exercise.capitalize(),
+    #                       custom_data=categories[i],
+    #                       action=self.go_to_description)
+    #
+    # create_button(box=new_main_box,
+    #               label='Back',
+    #               action=self.go_back_to_calendar,
+    #               style=Pack(padding=15, alignment='center'))
+    # self.exercises_window = new_main_box
+    # self.main_window.content = new_main_box
+    # EXERCISES PAGE END ------------------------------------
     #     main_box = toga.Box(style=Pack(direction='column'))
     #
     #     self.top_label = toga.Label('Generate your training plan!', style=Pack(padding=10))
