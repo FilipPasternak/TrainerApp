@@ -92,7 +92,6 @@ class GptClient:
 
             plan[day_name] = day_plan
 
-
         return plan
 
     @staticmethod
