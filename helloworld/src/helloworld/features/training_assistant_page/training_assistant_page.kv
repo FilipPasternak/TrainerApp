@@ -1,0 +1,51 @@
+<AssistantPage>
+    MDFloatLayout:
+        MDBoxLayout:
+            id:center_box
+            orientation:'vertical'
+            padding:[dp(20), dp(20), dp(20), dp(20)]
+            size_hint: .8, .6
+            pos_hint:{'center_x': .5, 'center_y': .6}
+            canvas.before:
+                Color
+                    rgba: 0.5, 0.5, 0.5, 1
+                RoundedRectangle
+                    size:self.size
+                    pos:self.pos
+#                    radius:dp(20)
+        MDBoxLayout:
+            orientation: 'horizontal'
+            padding:[dp(20), dp(20), dp(20), dp(20)]
+            size_hint: .9, .25
+            pos_hint:{'center_x': .5, 'center_y': .15}
+            canvas.before:
+                Color
+                    rgba: 0.5, 0.5, 0.5, 1
+                RoundedRectangle
+                    size:self.size
+                    pos:self.pos
+
+            MDIconButton:
+                icon: 'arrow-left-bold'
+                size_hint: None, None
+                icon_size: dp(70)
+                width: dp(100)
+                height: dp(70)
+                on_release: root.go_to_training_plan_page()
+            MDIconButton:
+                id: start_stop
+                icon: 'play-circle'
+                size_hint: None, None
+                icon_size: dp(70)
+                width: dp(100)
+                height: dp(70)
+                on_release: root.toggle_training()
+            MDIconButton:
+                icon: 'skip-next'
+                size_hint: None, None
+                icon_size: dp(70)
+                width: dp(100)
+                height: dp(70)
+                on_release: root.next()
+
+

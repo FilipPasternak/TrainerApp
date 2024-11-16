@@ -686,6 +686,62 @@
                 "Intensity": "6",
                 "Difficulty": "3",
                 "Muscles": "Quadriceps, Hamstrings, Glutes, Adductors"
+            },
+            "Dumbbell Squat": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand at shoulder height. Lower your body into a squat, keeping your chest up and knees behind your toes, then push through your heels to return to standing.",
+                "Intensity": "6",
+                "Difficulty": "3",
+                "Muscles": "Quadriceps, Hamstrings, Glutes"
+            },
+            "Dumbbell Deadlift": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand in front of your thighs. Hinge at the hips to lower the weights towards the ground while keeping your back straight, then return to standing by driving through your heels and engaging your glutes.",
+                "Intensity": "6",
+                "Difficulty": "3",
+                "Muscles": "Hamstrings, Glutes, Lower Back"
+            },
+            "Dumbbell Glute Bridge": {
+                "Equipment": "Dumbbells",
+                "Description": "Lie on your back with your knees bent and feet flat on the floor, holding a dumbbell over your hips. Lift your hips towards the ceiling by squeezing your glutes, then lower back down while maintaining control.",
+                "Intensity": "6",
+                "Difficulty": "3",
+                "Muscles": "Glutes, Hamstrings, Core"
+            },
+            "Dumbbell Calf Raise": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand upright with a dumbbell in each hand at your sides. Raise your heels off the ground by pushing through the balls of your feet, then lower back down to the starting position, focusing on the calf muscles throughout the movement.",
+                "Intensity": "6",
+                "Difficulty": "2",
+                "Muscles": "Calves"
+            },
+            "Sumo Squat": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet wider than shoulder-width and toes pointed slightly outward, holding a dumbbell in each hand. Lower your body into a squat while keeping your chest up and back straight, then push through your heels to return to the starting position.",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Quadriceps, Glutes, Hamstrings, Adductors"
+            },
+            "Single Leg Deadlift": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand on one leg, holding a dumbbell in the opposite hand. Hinge at the hip, lowering the dumbbell toward the ground while extending the free leg behind you, keeping your back straight and core engaged. Return to the starting position by driving through the heel of the standing leg.",
+                "Intensity": "7",
+                "Difficulty": "3",
+                "Muscles": "Hamstrings, Glutes, Lower Back"
+            },
+            "Resistance Band Leg Press": {
+                "Equipment": "Resistance bands",
+                "Description": "Sit on the floor with your legs extended and loop the resistance band around your feet, holding the ends with your hands. Press your feet against the band while leaning back slightly, engaging your glutes and quadriceps as you extend your legs. ",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Glutes, Quadriceps, Hamstrings"
+            },
+            "Bodyweight Step Up": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand in front of a sturdy bench or platform holding a dumbbell in each hand. Step up with one foot, pressing through the heel to lift your body onto the platform, then step back down and repeat on the other side. Focus on engaging your quads, glutes, and hamstrings throughout the movement.",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Quads, Glutes, Hamstrings"
             }
         },
         "Push day": {
@@ -1066,6 +1122,83 @@
                 "Intensity": "7",
                 "Difficulty": "3",
                 "Muscles": "Shoulders, Triceps, Core"
+            },
+            "Push up with clap": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a high plank position with your hands slightly wider than shoulder-width apart. Lower your body into a push-up, then explosively push up to clap your hands together before landing back in the starting position. Focus on engaging your chest, shoulders, and triceps while maintaining a strong core.",
+                "Intensity": "8",
+                "Difficulty": "8",
+                "Muscles": "Chest, Shoulders, Triceps"
+            },
+            "Dumbbell front raise": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand upright with a dumbbell in each hand at your thighs, palms facing your body. Raise the weights in front of you to shoulder height while keeping your arms straight, then lower them back to the starting position, focusing on your shoulders and upper chest throughout the movement.",
+                "Intensity": "6",
+                "Difficulty": "3",
+                "Muscles": "Deltoids, Upper Chest"
+            },
+            "Push Up": {
+                "Equipment": "Dumbbells",
+                "Description": "Start in a plank position with a dumbbell in each hand, arms extended and body straight. Lower your body by bending your elbows until your chest nearly touches the floor, then push back up to the starting position.",
+                "Intensity": "7",
+                "Difficulty": "Chest, Triceps, Shoulders",
+                "Muscles": "Begin in a plank position with a kettlebell in each hand, arms straight and body aligned. Lower your chest towards the ground by bending your elbows, then press back up to the starting position."
+            },
+            "Dumbbell Bench Press": {
+                "Equipment": "Dumbbells",
+                "Description": "Lie on a flat bench with a dumbbell in each hand, arms extended above your chest. Lower the dumbbells to your chest while keeping your elbows at a 45-degree angle, then press them back up to the starting position.",
+                "Intensity": "7",
+                "Difficulty": "8",
+                "Muscles": "Pectorals, Deltoids, Triceps"
+            },
+            "Dumbbell Shoulder Press": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, hold a dumbbell in each hand at shoulder height with palms facing forward. Press the weights overhead until your arms are fully extended, then lower back to the starting position while keeping your core engaged.",
+                "Intensity": "7",
+                "Difficulty": "3",
+                "Muscles": "Deltoids, Triceps, Upper Chest"
+            },
+            "Dumbbell Lateral Raise": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with a dumbbell in each hand at your sides, palms facing inward. Raise the dumbbells out to the sides until they are shoulder-height, keeping a slight bend in your elbows, then lower them back down. Focus on controlling the movement to target the deltoid muscles effectively.",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Deltoids, Trapezius"
+            },
+            "Dumbbell Tricep Extension": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand or sit with a dumbbell in each hand, arms extended overhead. Lower the weights behind your head by bending your elbows, then extend back to the starting position, focusing on squeezing your triceps. Maintain a straight back and avoid flaring your elbows outwards.",
+                "Intensity": "6",
+                "Difficulty": "3",
+                "Muscles": "Triceps, Shoulders"
+            },
+            "Push Up with Clap": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a plank position with your hands slightly wider than shoulder-width apart. Lower your body until your chest nearly touches the ground, then explosively push up and clap your hands together before returning to the starting position.",
+                "Intensity": "7",
+                "Difficulty": "4",
+                "Muscles": "Chest, Triceps, Shoulders"
+            },
+            "Dumbbell Chest Fly": {
+                "Equipment": "Dumbbells",
+                "Description": "Lie on a flat bench holding a dumbbell in each hand above your chest with a slight bend in your elbows. Lower the weights out to the sides in a wide arc until you feel a stretch in your chest, then bring them back together above your chest while squeezing your pectoral muscles.",
+                "Intensity": "7",
+                "Difficulty": "3",
+                "Muscles": "Pectorals, Deltoids, Triceps"
+            },
+            "Dumbbell Front Raise": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand upright holding a dumbbell in each hand at your thighs, palms facing your body. Raise the dumbbells straight in front of you to shoulder height, keeping your arms slightly bent and your core engaged, then lower them back down with control. Focus on your shoulders and upper chest throughout the movement.",
+                "Intensity": "6",
+                "Difficulty": "3",
+                "Muscles": "Deltoids, Upper Chest"
+            },
+            "Darrow Press": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand at shoulder height. Press the weights overhead while engaging your core and keeping your back straight, then lower back to the starting position.",
+                "Intensity": "7",
+                "Difficulty": "4",
+                "Muscles": "Shoulders, Triceps, Core"
             }
         },
         "Pull day": {
@@ -1257,6 +1390,69 @@
                 "Intensity": "5",
                 "Difficulty": "5",
                 "Muscles": "Trapezius, Levator Scapulae"
+            },
+            "Pull Up": {
+                "Equipment": "Pull-up bar",
+                "Description": "Begin by hanging from the pull-up bar with your palms facing away and hands shoulder-width apart. Pull your body upward until your chin is above the bar, then lower back down with control, focusing on engaging your back and biceps throughout the movement.",
+                "Intensity": "8",
+                "Difficulty": "7",
+                "Muscles": "Latissimus dorsi, Biceps, Rhomboids"
+            },
+            "Dumbbell Row": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, hinge at the hips, and hold a dumbbell in each hand with palms facing your body. Pull the dumbbells towards your hips while keeping your elbows close to your body, squeezing your shoulder blades together at the top of the movement, then lower back down.",
+                "Intensity": "7",
+                "Difficulty": "3",
+                "Muscles": "Latissimus dorsi, Rhomboids, Biceps"
+            },
+            "Resistance Band Face Pull": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, holding the resistance band with both hands at shoulder height. Pull the band towards your face while keeping your elbows high, squeezing your shoulder blades together, and focusing on the rear deltoids and upper back.",
+                "Intensity": "6",
+                "Difficulty": "6",
+                "Muscles": "Rear deltoids, upper back, rotator cuff muscles"
+            },
+            "Resistance Band Bicep Curl": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, holding the resistance band with both hands at your sides. Curl the band upwards towards your shoulders, keeping your elbows close to your body and squeezing your biceps at the top.",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Biceps"
+            },
+            "Dumbbell Rear Delt Fly": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with feet shoulder-width apart, holding a dumbbell in each hand. Hinge at the hips while keeping your back straight, then lift the dumbbells out to the sides until your arms are parallel to the ground, focusing on squeezing your shoulder blades together.",
+                "Intensity": "6",
+                "Difficulty": "4",
+                "Muscles": "Rear deltoids, trapezius, rhomboids"
+            },
+            "Seated Row with Resistance Band": {
+                "Equipment": "Resistance bands",
+                "Description": "Sit with your legs extended and loop the resistance band around your feet, holding the ends in each hand. Pull the band towards your torso while keeping your elbows close to your body, engaging your back muscles and maintaining a straight spine throughout the movement.",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Back, Biceps, Shoulders"
+            },
+            "Dumbbell Hammer Curl": {
+                "Equipment": "Dumbbells",
+                "Description": "Stand with a dumbbell in each hand, arms at your sides and palms facing each other. Keeping your elbows close to your torso, curl the weights up towards your shoulders, then slowly lower back to the starting position. Focus on maintaining a controlled movement to effectively target the biceps.",
+                "Intensity": "6",
+                "Difficulty": "3",
+                "Muscles": "Biceps, Brachialis, Brachioradialis"
+            },
+            "Pull Up Negatives": {
+                "Equipment": "Pull-up bar",
+                "Description": "Start by hanging from the pull-up bar with an overhand grip, arms fully extended. Engage your core and slowly lower your body down, taking 3-5 seconds to reach the bottom position while maintaining control.",
+                "Intensity": "7",
+                "Difficulty": "6",
+                "Muscles": "Back, Biceps, Shoulders"
+            },
+            "Resistance Band Pull Apart": {
+                "Equipment": "Resistance bands",
+                "Description": "Stand with feet shoulder-width apart, holding the resistance band with both hands at shoulder height. Pull the band apart by extending your arms out to the sides, squeezing your shoulder blades together, then return to the starting position.",
+                "Intensity": "6",
+                "Difficulty": "3",
+                "Muscles": "Shoulders, Upper Back"
             }
         },
         "Core and cardio": {
@@ -1917,6 +2113,48 @@
                 "Intensity": "7",
                 "Difficulty": "3",
                 "Muscles": "Core, Shoulders, Back"
+            },
+            "Mountain Climbers": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a high plank position with your hands directly under your shoulders. Quickly drive one knee towards your chest while keeping the other leg extended, then switch legs in a running motion, maintaining a tight core and flat back throughout.",
+                "Intensity": "7",
+                "Difficulty": "8",
+                "Muscles": "Core, Hip Flexors, Shoulders, Legs"
+            },
+            "Russian Twist": {
+                "Equipment": "Dumbbells",
+                "Description": "Sit on the floor with your knees bent and feet flat. Hold a dumbbell with both hands, lean back slightly, and rotate your torso to the right, then to the left, engaging your core throughout the movement. Keep your back straight and avoid rounding your shoulders.",
+                "Intensity": "6",
+                "Difficulty": "3",
+                "Muscles": "Obliques, Rectus Abdominis, Transverse Abdominis"
+            },
+            "Flutter Kicks": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with your legs extended and hands under your hips for support. Lift your legs slightly off the ground and alternate kicking them up and down in a fluttering motion, keeping your core engaged and lower back pressed into the floor.",
+                "Intensity": "5",
+                "Difficulty": "4",
+                "Muscles": "Hip flexors, Abdominals"
+            },
+            "High Knees": {
+                "Equipment": "Bodyweight",
+                "Description": "Stand tall with feet hip-width apart, then drive your knees up towards your chest alternately while pumping your arms. Focus on maintaining a quick pace and engaging your core for stability.",
+                "Intensity": "7",
+                "Difficulty": "3",
+                "Muscles": "Hip flexors, quadriceps, calves, core"
+            },
+            "Jumping Jacks": {
+                "Equipment": "Bodyweight",
+                "Description": "Start in a standing position with feet together and arms at your sides. Jump up while spreading your legs shoulder-width apart and raising your arms overhead, then return to the starting position. Focus on maintaining a steady rhythm and engaging your core throughout the movement.",
+                "Intensity": "5",
+                "Difficulty": "3",
+                "Muscles": "Legs, Shoulders, Core"
+            },
+            "Bicycle Crunches": {
+                "Equipment": "Bodyweight",
+                "Description": "Lie on your back with your knees bent and hands behind your head. Lift your shoulders off the ground while bringing one knee toward your chest and twisting your torso to touch the opposite elbow to that knee, then switch sides in a pedaling motion.",
+                "Intensity": "6",
+                "Difficulty": "3",
+                "Muscles": "Abdominals, Obliques"
             }
         }
     }

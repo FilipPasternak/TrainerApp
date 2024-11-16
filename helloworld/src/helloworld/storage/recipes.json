@@ -1,0 +1,3188 @@
+{
+    "Recipes": {
+        "Oatmeal with banana and honey": {
+            "Instruction": "1. In a pot, combine 1 cup of rolled oats and 2 cups of water or milk. 2. Bring to a boil, then reduce heat and simmer for 5-7 minutes until thickened. 3. Slice 1 banana and stir into the oatmeal. 4. Drizzle with 1 tablespoon of honey. 5. Serve warm.",
+            "Ingredients": [
+                [
+                    "rolled oats",
+                    "1 cup"
+                ],
+                [
+                    "water or milk",
+                    "2 cups"
+                ],
+                [
+                    "banana",
+                    "1 medium"
+                ],
+                [
+                    "honey",
+                    "1 tablespoon"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "10g"
+                ],
+                [
+                    "calories",
+                    "350kcal"
+                ],
+                [
+                    "fats",
+                    "5g"
+                ],
+                [
+                    "carbohydrates",
+                    "75g"
+                ],
+                [
+                    "fiber",
+                    "8g"
+                ],
+                [
+                    "sugar",
+                    "15g"
+                ],
+                [
+                    "vitamin C",
+                    "10% DV"
+                ]
+            ]
+        },
+        "Greek yogurt with mixed berries": {
+            "Instruction": "1. In a bowl, add 200g of Greek yogurt. 2. Rinse 150g of mixed berries [strawberries, blueberries, raspberries]. 3. Top the yogurt with the mixed berries. 4. Optionally, drizzle with honey or sprinkle with nuts for added flavor.",
+            "Ingredients": [
+                [
+                    "Greek yogurt",
+                    "200g"
+                ],
+                [
+                    "mixed berries",
+                    "150g"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "20g"
+                ],
+                [
+                    "calories",
+                    "220kcal"
+                ],
+                [
+                    "fats",
+                    "5g"
+                ],
+                [
+                    "carbohydrates",
+                    "30g"
+                ],
+                [
+                    "fiber",
+                    "5g"
+                ],
+                [
+                    "sugar",
+                    "15g"
+                ]
+            ]
+        },
+        "Grilled chicken salad": {
+            "Instruction": "1. Preheat grill to medium-high heat. 2. Season chicken breast with salt, pepper, and olive oil. 3. Grill chicken for 6-7 minutes per side until cooked through. 4. Let chicken rest, then slice. 5. In a bowl, combine mixed greens, cherry tomatoes, cucumber, and avocado. 6. Top salad with sliced chicken. 7. Drizzle with balsamic vinaigrette and serve.",
+            "Ingredients": [
+                [
+                    "chicken breast",
+                    "200g"
+                ],
+                [
+                    "mixed greens",
+                    "100g"
+                ],
+                [
+                    "cherry tomatoes",
+                    "100g"
+                ],
+                [
+                    "cucumber",
+                    "1 medium"
+                ],
+                [
+                    "avocado",
+                    "1/2 medium"
+                ],
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "balsamic vinaigrette",
+                    "2 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "40g"
+                ],
+                [
+                    "calories",
+                    "450kcal"
+                ],
+                [
+                    "fats",
+                    "25g"
+                ],
+                [
+                    "carbohydrates",
+                    "30g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin A",
+                    "30% DV"
+                ],
+                [
+                    "vitamin C",
+                    "25% DV"
+                ],
+                [
+                    "calcium",
+                    "8% DV"
+                ],
+                [
+                    "iron",
+                    "10% DV"
+                ]
+            ]
+        },
+        "Carrot sticks with hummus": {
+            "Instruction": "1. Peel and cut carrots into sticks. 2. In a bowl, combine chickpeas, tahini, lemon juice, garlic, olive oil, and salt. 3. Blend until smooth to make hummus. 4. Serve carrot sticks with hummus.",
+            "Ingredients": [
+                [
+                    "carrots",
+                    "200g"
+                ],
+                [
+                    "chickpeas",
+                    "100g"
+                ],
+                [
+                    "tahini",
+                    "30g"
+                ],
+                [
+                    "lemon juice",
+                    "15ml"
+                ],
+                [
+                    "garlic",
+                    "1 clove"
+                ],
+                [
+                    "olive oil",
+                    "10ml"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "10g"
+                ],
+                [
+                    "calories",
+                    "320kcal"
+                ],
+                [
+                    "fats",
+                    "15g"
+                ],
+                [
+                    "carbohydrates",
+                    "40g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin A",
+                    "10000IU"
+                ]
+            ]
+        },
+        "Baked salmon with steamed broccoli": {
+            "Instruction": "1. Preheat oven to 200\u00b0C [400\u00b0F]. 2. Place salmon fillet on a baking sheet, season with salt, pepper, and lemon juice. 3. Bake for 12-15 minutes until cooked through. 4. Meanwhile, steam broccoli for about 5-7 minutes until tender. 5. Serve salmon with steamed broccoli.",
+            "Ingredients": [
+                [
+                    "salmon fillet",
+                    "200g"
+                ],
+                [
+                    "broccoli",
+                    "200g"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ],
+                [
+                    "lemon juice",
+                    "1 tbsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "40g"
+                ],
+                [
+                    "calories",
+                    "400kcal"
+                ],
+                [
+                    "fats",
+                    "20g"
+                ],
+                [
+                    "carbohydrates",
+                    "10g"
+                ],
+                [
+                    "vitamin C",
+                    "150mg"
+                ],
+                [
+                    "omega-3 fatty acids",
+                    "2g"
+                ]
+            ]
+        },
+        "Scrambled eggs with spinach and tomatoes": {
+            "Instruction": "1. Whisk 4 eggs in a bowl. 2. Heat 1 tsp olive oil in a pan over medium heat. 3. Add 100g chopped spinach and cook until wilted. 4. Add 100g diced tomatoes and cook for 2 minutes. 5. Pour in the eggs and stir gently until scrambled. 6. Season with salt and pepper to taste. 7. Serve hot.",
+            "Ingredients": [
+                [
+                    "eggs",
+                    "4 large"
+                ],
+                [
+                    "spinach",
+                    "100g"
+                ],
+                [
+                    "tomatoes",
+                    "100g"
+                ],
+                [
+                    "olive oil",
+                    "1 tsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "28g"
+                ],
+                [
+                    "calories",
+                    "300kcal"
+                ],
+                [
+                    "fats",
+                    "20g"
+                ],
+                [
+                    "carbohydrates",
+                    "10g"
+                ],
+                [
+                    "vitamin A",
+                    "2800IU"
+                ],
+                [
+                    "vitamin C",
+                    "30mg"
+                ],
+                [
+                    "iron",
+                    "3mg"
+                ]
+            ]
+        },
+        "Cottage cheese with pineapple": {
+            "Instruction": "1. In a bowl, combine 1 cup of cottage cheese with 1 cup of pineapple chunks. 2. Mix gently until well combined. 3. Serve immediately or chill in the refrigerator for a refreshing dish.",
+            "Ingredients": [
+                [
+                    "cottage cheese",
+                    "1 cup"
+                ],
+                [
+                    "pineapple chunks",
+                    "1 cup"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "28g"
+                ],
+                [
+                    "calories",
+                    "240kcal"
+                ],
+                [
+                    "fats",
+                    "5g"
+                ],
+                [
+                    "carbohydrates",
+                    "32g"
+                ],
+                [
+                    "vitamin C",
+                    "80mg"
+                ]
+            ]
+        },
+        "Turkey and avocado wrap": {
+            "Instruction": "1. Lay a whole wheat tortilla flat. 2. Spread hummus evenly on the tortilla. 3. Layer sliced turkey breast, avocado, spinach, and tomato. 4. Sprinkle with salt and pepper. 5. Roll the tortilla tightly. 6. Cut in half and serve.",
+            "Ingredients": [
+                [
+                    "whole wheat tortilla",
+                    "1"
+                ],
+                [
+                    "sliced turkey breast",
+                    "100g"
+                ],
+                [
+                    "avocado",
+                    "1/2"
+                ],
+                [
+                    "fresh spinach",
+                    "1 cup"
+                ],
+                [
+                    "tomato",
+                    "1 medium"
+                ],
+                [
+                    "hummus",
+                    "2 tbsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "25g"
+                ],
+                [
+                    "calories",
+                    "350kcal"
+                ],
+                [
+                    "fats",
+                    "15g"
+                ],
+                [
+                    "carbohydrates",
+                    "35g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin A",
+                    "1500IU"
+                ],
+                [
+                    "vitamin C",
+                    "20mg"
+                ]
+            ]
+        },
+        "Apple slices with peanut butter": {
+            "Instruction": "1. Wash and core the apple. 2. Slice the apple into wedges. 3. Spread peanut butter evenly on each slice. 4. Serve immediately.",
+            "Ingredients": [
+                [
+                    "apple",
+                    "1 medium"
+                ],
+                [
+                    "peanut butter",
+                    "2 tbsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "8g"
+                ],
+                [
+                    "calories",
+                    "250kcal"
+                ],
+                [
+                    "fats",
+                    "16g"
+                ],
+                [
+                    "carbohydrates",
+                    "28g"
+                ],
+                [
+                    "fiber",
+                    "4g"
+                ],
+                [
+                    "vitamin C",
+                    "8mg"
+                ]
+            ]
+        },
+        "Stir-fried tofu with mixed vegetables": {
+            "Instruction": "1. Press tofu for 15 mins to remove excess water. 2. Cut tofu into cubes. 3. Heat oil in a pan. 4. Add tofu and fry until golden. 5. Add mixed vegetables and stir-fry for 5-7 mins. 6. Season with soy sauce and serve.",
+            "Ingredients": [
+                [
+                    "tofu",
+                    "200g"
+                ],
+                [
+                    "mixed vegetables",
+                    "300g"
+                ],
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "soy sauce",
+                    "2 tbsp"
+                ],
+                [
+                    "garlic",
+                    "2 cloves"
+                ],
+                [
+                    "ginger",
+                    "1 tsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "22g"
+                ],
+                [
+                    "calories",
+                    "320kcal"
+                ],
+                [
+                    "fats",
+                    "15g"
+                ],
+                [
+                    "carbohydrates",
+                    "30g"
+                ],
+                [
+                    "fiber",
+                    "8g"
+                ],
+                [
+                    "vitamin A",
+                    "1500IU"
+                ],
+                [
+                    "vitamin C",
+                    "40mg"
+                ]
+            ]
+        },
+        "Whole grain toast with avocado": {
+            "Instruction": "1. Toast 2 slices of whole grain bread. 2. Mash 1 ripe avocado in a bowl. 3. Spread the mashed avocado evenly on the toasted bread. 4. Season with salt, pepper, and optional lemon juice. 5. Serve immediately.",
+            "Ingredients": [
+                [
+                    "whole grain bread",
+                    "2 slices"
+                ],
+                [
+                    "avocado",
+                    "1 ripe"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "6g"
+                ],
+                [
+                    "calories",
+                    "300kcal"
+                ],
+                [
+                    "fats",
+                    "20g"
+                ],
+                [
+                    "carbohydrates",
+                    "30g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin E",
+                    "2.7mg"
+                ],
+                [
+                    "potassium",
+                    "700mg"
+                ]
+            ]
+        },
+        "Hard-boiled eggs with cherry tomatoes": {
+            "Instruction": "1. Place eggs in a saucepan and cover with cold water. 2. Bring water to a boil over medium heat. 3. Once boiling, cover and remove from heat; let sit for 9-12 minutes. 4. Transfer eggs to an ice bath for 5 minutes. 5. Peel eggs and slice in half. 6. Serve with halved cherry tomatoes.",
+            "Ingredients": [
+                [
+                    "eggs",
+                    "4 large"
+                ],
+                [
+                    "cherry tomatoes",
+                    "200g"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ],
+                [
+                    "olive oil",
+                    "1 tsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "28g"
+                ],
+                [
+                    "calories",
+                    "320kcal"
+                ],
+                [
+                    "fats",
+                    "20g"
+                ],
+                [
+                    "carbohydrates",
+                    "12g"
+                ],
+                [
+                    "vitamin A",
+                    "15% DV"
+                ],
+                [
+                    "vitamin C",
+                    "20% DV"
+                ]
+            ]
+        },
+        "Quinoa salad with chickpeas and cucumber": {
+            "Instruction": "1. Rinse 1 cup quinoa under cold water. 2. Cook quinoa in 2 cups water; bring to boil, then simmer for 15 minutes. 3. Drain and rinse 1 can chickpeas. 4. Dice 1 cucumber. 5. In a bowl, combine cooked quinoa, chickpeas, cucumber, 2 tbsp olive oil, juice of 1 lemon, salt, and pepper. 6. Toss well and serve.",
+            "Ingredients": [
+                [
+                    "quinoa",
+                    "1 cup"
+                ],
+                [
+                    "water",
+                    "2 cups"
+                ],
+                [
+                    "chickpeas",
+                    "1 can"
+                ],
+                [
+                    "cucumber",
+                    "1"
+                ],
+                [
+                    "olive oil",
+                    "2 tbsp"
+                ],
+                [
+                    "lemon",
+                    "1"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "15g"
+                ],
+                [
+                    "calories",
+                    "350kcal"
+                ],
+                [
+                    "fats",
+                    "10g"
+                ],
+                [
+                    "carbohydrates",
+                    "55g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin C",
+                    "10mg"
+                ]
+            ]
+        },
+        "Celery sticks with cream cheese": {
+            "Instruction": "1. Wash and dry celery sticks. 2. Cut celery into 10cm long pieces. 3. Soften cream cheese at room temperature. 4. Fill each celery piece with cream cheese. 5. Serve immediately or refrigerate until serving.",
+            "Ingredients": [
+                [
+                    "celery sticks",
+                    "200g"
+                ],
+                [
+                    "cream cheese",
+                    "100g"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "6g"
+                ],
+                [
+                    "calories",
+                    "300kcal"
+                ],
+                [
+                    "fats",
+                    "25g"
+                ],
+                [
+                    "carbohydrates",
+                    "15g"
+                ],
+                [
+                    "fiber",
+                    "4g"
+                ],
+                [
+                    "vitamin A",
+                    "10% DV"
+                ],
+                [
+                    "vitamin C",
+                    "6% DV"
+                ]
+            ]
+        },
+        "Grilled shrimp with asparagus": {
+            "Instruction": "1. Preheat grill to medium-high heat. 2. In a bowl, combine shrimp with olive oil, garlic, salt, and pepper. 3. Toss asparagus with olive oil, salt, and pepper. 4. Grill shrimp for 2-3 minutes per side until opaque. 5. Grill asparagus for 5-7 minutes until tender. 6. Serve shrimp with asparagus.",
+            "Ingredients": [
+                [
+                    "shrimp",
+                    "400g"
+                ],
+                [
+                    "asparagus",
+                    "300g"
+                ],
+                [
+                    "olive oil",
+                    "2 tbsp"
+                ],
+                [
+                    "garlic",
+                    "2 cloves"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "50g"
+                ],
+                [
+                    "calories",
+                    "400kcal"
+                ],
+                [
+                    "fats",
+                    "20g"
+                ],
+                [
+                    "carbohydrates",
+                    "10g"
+                ],
+                [
+                    "fiber",
+                    "4g"
+                ],
+                [
+                    "vitamin A",
+                    "15% DV"
+                ],
+                [
+                    "vitamin C",
+                    "20% DV"
+                ],
+                [
+                    "calcium",
+                    "10% DV"
+                ],
+                [
+                    "iron",
+                    "15% DV"
+                ]
+            ]
+        },
+        "Smoothie with spinach, banana, and yogurt": {
+            "Instruction": "1. Add 1 cup of fresh spinach, 1 ripe banana, and 1/2 cup of yogurt to a blender. 2. Blend until smooth. 3. Pour into a glass and enjoy.",
+            "Ingredients": [
+                [
+                    "spinach",
+                    "1 cup"
+                ],
+                [
+                    "banana",
+                    "1 medium"
+                ],
+                [
+                    "yogurt",
+                    "1/2 cup"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "10g"
+                ],
+                [
+                    "calories",
+                    "180kcal"
+                ],
+                [
+                    "fats",
+                    "3g"
+                ],
+                [
+                    "carbohydrates",
+                    "30g"
+                ],
+                [
+                    "vitamin A",
+                    "2810IU"
+                ],
+                [
+                    "vitamin C",
+                    "10mg"
+                ]
+            ]
+        },
+        "Rice cakes with almond butter": {
+            "Instruction": "1. Spread almond butter evenly on rice cakes. 2. Optionally, top with sliced bananas or berries. 3. Serve immediately.",
+            "Ingredients": [
+                [
+                    "rice cakes",
+                    "2 pieces"
+                ],
+                [
+                    "almond butter",
+                    "2 tablespoons"
+                ],
+                [
+                    "banana",
+                    "1 medium, optional"
+                ],
+                [
+                    "berries",
+                    "1/2 cup, optional"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "6g"
+                ],
+                [
+                    "calories",
+                    "220kcal"
+                ],
+                [
+                    "fats",
+                    "16g"
+                ],
+                [
+                    "carbohydrates",
+                    "22g"
+                ],
+                [
+                    "fiber",
+                    "3g"
+                ],
+                [
+                    "vitamin E",
+                    "3mg"
+                ],
+                [
+                    "potassium",
+                    "300mg"
+                ]
+            ]
+        },
+        "Lentil soup with a side salad": {
+            "Instruction": "1. Rinse 1 cup of lentils. 2. In a pot, saut\u00e9 1 chopped onion, 2 minced garlic cloves, and 1 diced carrot in 2 tbsp olive oil until soft. 3. Add lentils, 4 cups vegetable broth, 1 tsp cumin, and salt to taste. 4. Simmer for 25-30 minutes until lentils are tender. 5. For the salad, mix 2 cups mixed greens, 1 chopped cucumber, and 1 diced tomato. 6. Dress salad with 1 tbsp olive oil and lemon juice. 7. Serve soup hot with salad on the side.",
+            "Ingredients": [
+                [
+                    "lentils",
+                    "1 cup"
+                ],
+                [
+                    "onion",
+                    "1 medium"
+                ],
+                [
+                    "garlic",
+                    "2 cloves"
+                ],
+                [
+                    "carrot",
+                    "1 medium"
+                ],
+                [
+                    "olive oil",
+                    "3 tbsp"
+                ],
+                [
+                    "vegetable broth",
+                    "4 cups"
+                ],
+                [
+                    "cumin",
+                    "1 tsp"
+                ],
+                [
+                    "mixed greens",
+                    "2 cups"
+                ],
+                [
+                    "cucumber",
+                    "1 medium"
+                ],
+                [
+                    "tomato",
+                    "1 medium"
+                ],
+                [
+                    "lemon juice",
+                    "1 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "20g"
+                ],
+                [
+                    "calories",
+                    "400kcal"
+                ],
+                [
+                    "fats",
+                    "14g"
+                ],
+                [
+                    "carbohydrates",
+                    "60g"
+                ],
+                [
+                    "fiber",
+                    "16g"
+                ],
+                [
+                    "vitamin A",
+                    "1500IU"
+                ],
+                [
+                    "vitamin C",
+                    "25mg"
+                ],
+                [
+                    "iron",
+                    "4mg"
+                ]
+            ]
+        },
+        "Greek yogurt with honey and walnuts": {
+            "Instruction": "1. In a bowl, add 200g of Greek yogurt. 2. Drizzle 1 tablespoon [15g] of honey over the yogurt. 3. Chop 30g of walnuts and sprinkle them on top. 4. Mix gently and serve immediately.",
+            "Ingredients": [
+                [
+                    "Greek yogurt",
+                    "200g"
+                ],
+                [
+                    "honey",
+                    "15g"
+                ],
+                [
+                    "walnuts",
+                    "30g"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "15g"
+                ],
+                [
+                    "calories",
+                    "320kcal"
+                ],
+                [
+                    "fats",
+                    "20g"
+                ],
+                [
+                    "carbohydrates",
+                    "25g"
+                ],
+                [
+                    "fiber",
+                    "3g"
+                ],
+                [
+                    "sugar",
+                    "15g"
+                ]
+            ]
+        },
+        "Chicken stir-fry with bell peppers": {
+            "Instruction": "1. Slice chicken into strips. 2. Chop bell peppers into strips. 3. Heat oil in a pan over medium-high heat. 4. Add chicken, cook until browned. 5. Add bell peppers, stir-fry for 3-5 minutes. 6. Add soy sauce and stir well. 7. Serve hot.",
+            "Ingredients": [
+                [
+                    "chicken breast",
+                    "300g"
+                ],
+                [
+                    "bell peppers",
+                    "200g"
+                ],
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "soy sauce",
+                    "2 tbsp"
+                ],
+                [
+                    "garlic",
+                    "2 cloves"
+                ],
+                [
+                    "ginger",
+                    "1 tsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "45g"
+                ],
+                [
+                    "calories",
+                    "400kcal"
+                ],
+                [
+                    "fats",
+                    "15g"
+                ],
+                [
+                    "carbohydrates",
+                    "30g"
+                ],
+                [
+                    "fiber",
+                    "6g"
+                ],
+                [
+                    "vitamin C",
+                    "150mg"
+                ]
+            ]
+        },
+        "Porridge with apple and cinnamon": {
+            "Instruction": "1. In a pot, combine 1 cup rolled oats and 2 cups water or milk. 2. Bring to a boil, then reduce heat and simmer for 5 minutes, stirring occasionally. 3. Dice 1 apple and add it to the pot along with 1 tsp cinnamon. 4. Cook for another 2-3 minutes until the apple softens. 5. Serve warm, optionally adding a drizzle of honey or a sprinkle of nuts.",
+            "Ingredients": [
+                [
+                    "rolled oats",
+                    "1 cup"
+                ],
+                [
+                    "water or milk",
+                    "2 cups"
+                ],
+                [
+                    "apple",
+                    "1 medium"
+                ],
+                [
+                    "cinnamon",
+                    "1 tsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "10g"
+                ],
+                [
+                    "calories",
+                    "300kcal"
+                ],
+                [
+                    "fats",
+                    "5g"
+                ],
+                [
+                    "carbohydrates",
+                    "55g"
+                ],
+                [
+                    "fiber",
+                    "8g"
+                ],
+                [
+                    "vitamin C",
+                    "8mg"
+                ]
+            ]
+        },
+        "Mixed nuts and dried fruit": {
+            "Instruction": "1. Measure out 100g of mixed nuts and 50g of dried fruit. 2. Combine both ingredients in a mixing bowl. 3. Mix thoroughly to ensure even distribution. 4. Store in an airtight container for snacking.",
+            "Ingredients": [
+                [
+                    "mixed nuts",
+                    "100g"
+                ],
+                [
+                    "dried fruit",
+                    "50g"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "9g"
+                ],
+                [
+                    "calories",
+                    "600kcal"
+                ],
+                [
+                    "fats",
+                    "45g"
+                ],
+                [
+                    "carbohydrates",
+                    "45g"
+                ],
+                [
+                    "fiber",
+                    "6g"
+                ],
+                [
+                    "vitamin E",
+                    "3mg"
+                ],
+                [
+                    "potassium",
+                    "300mg"
+                ]
+            ]
+        },
+        "Baked chicken breast with quinoa": {
+            "Instruction": "1. Preheat oven to 200\u00b0C [400\u00b0F]. 2. Season chicken breast with salt, pepper, and olive oil. 3. Place chicken in a baking dish. 4. Bake for 25-30 minutes until cooked through. 5. Meanwhile, rinse quinoa and cook in water [1:2 ratio] for 15 minutes. 6. Fluff quinoa with a fork and serve with chicken.",
+            "Ingredients": [
+                [
+                    "chicken breast",
+                    "200g"
+                ],
+                [
+                    "quinoa",
+                    "100g"
+                ],
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "45g"
+                ],
+                [
+                    "calories",
+                    "450kcal"
+                ],
+                [
+                    "fats",
+                    "15g"
+                ],
+                [
+                    "carbohydrates",
+                    "50g"
+                ],
+                [
+                    "fiber",
+                    "5g"
+                ],
+                [
+                    "vitamin B6",
+                    "0.7mg"
+                ]
+            ]
+        },
+        "Sliced bell peppers with guacamole": {
+            "Instruction": "1. Slice bell peppers into strips. 2. In a bowl, mash ripe avocados. 3. Add lime juice, salt, and diced tomatoes to the avocado. 4. Mix until smooth. 5. Serve sliced bell peppers with guacamole on the side.",
+            "Ingredients": [
+                [
+                    "bell peppers",
+                    "2 medium"
+                ],
+                [
+                    "ripe avocados",
+                    "2 large"
+                ],
+                [
+                    "lime juice",
+                    "1 tablespoon"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "diced tomatoes",
+                    "1/2 cup"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "6g"
+                ],
+                [
+                    "calories",
+                    "320kcal"
+                ],
+                [
+                    "fats",
+                    "20g"
+                ],
+                [
+                    "carbohydrates",
+                    "34g"
+                ],
+                [
+                    "fiber",
+                    "12g"
+                ],
+                [
+                    "vitamin C",
+                    "150mg"
+                ],
+                [
+                    "potassium",
+                    "1000mg"
+                ]
+            ]
+        },
+        "Zucchini noodles with marinara sauce": {
+            "Instruction": "1. Spiralize 2 medium zucchinis into noodles. 2. Heat 1 tbsp olive oil in a pan. 3. Saut\u00e9 garlic [2 cloves, minced] for 1 minute. 4. Add zucchini noodles, cook for 2-3 minutes until slightly tender. 5. Pour in 1 cup marinara sauce, stir, and heat through for 2 minutes. 6. Serve hot, optionally garnish with fresh basil.",
+            "Ingredients": [
+                [
+                    "zucchini",
+                    "2 medium"
+                ],
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "garlic",
+                    "2 cloves"
+                ],
+                [
+                    "marinara sauce",
+                    "1 cup"
+                ],
+                [
+                    "fresh basil",
+                    "optional"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "5g"
+                ],
+                [
+                    "calories",
+                    "150kcal"
+                ],
+                [
+                    "fats",
+                    "7g"
+                ],
+                [
+                    "carbohydrates",
+                    "20g"
+                ],
+                [
+                    "fiber",
+                    "4g"
+                ],
+                [
+                    "vitamin C",
+                    "25% DV"
+                ],
+                [
+                    "vitamin A",
+                    "15% DV"
+                ]
+            ]
+        },
+        "Chia seed pudding with berries": {
+            "Instruction": "1. In a bowl, mix 1/4 cup chia seeds and 1 cup almond milk. 2. Add 1 tbsp honey or maple syrup [optional]. 3. Stir well and let sit for 5 minutes. 4. Stir again to prevent clumping. 5. Refrigerate for at least 2 hours or overnight. 6. Serve topped with 1/2 cup mixed berries.",
+            "Ingredients": [
+                [
+                    "chia seeds",
+                    "1/4 cup"
+                ],
+                [
+                    "almond milk",
+                    "1 cup"
+                ],
+                [
+                    "honey or maple syrup",
+                    "1 tbsp"
+                ],
+                [
+                    "mixed berries",
+                    "1/2 cup"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "8g"
+                ],
+                [
+                    "calories",
+                    "300kcal"
+                ],
+                [
+                    "fats",
+                    "15g"
+                ],
+                [
+                    "carbohydrates",
+                    "36g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin C",
+                    "30% DV"
+                ]
+            ]
+        },
+        "Sliced cucumber with feta cheese": {
+            "Instruction": "1. Wash and peel the cucumber. 2. Slice the cucumber into thin rounds. 3. Crumble the feta cheese. 4. Arrange cucumber slices on a plate. 5. Sprinkle feta cheese on top. 6. Drizzle with olive oil and season with salt and pepper if desired. 7. Serve immediately.",
+            "Ingredients": [
+                [
+                    "cucumber",
+                    "1 large"
+                ],
+                [
+                    "feta cheese",
+                    "100g"
+                ],
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "black pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "11g"
+                ],
+                [
+                    "calories",
+                    "150kcal"
+                ],
+                [
+                    "fats",
+                    "11g"
+                ],
+                [
+                    "carbohydrates",
+                    "6g"
+                ],
+                [
+                    "fiber",
+                    "1g"
+                ],
+                [
+                    "vitamin A",
+                    "500IU"
+                ],
+                [
+                    "vitamin C",
+                    "4mg"
+                ]
+            ]
+        },
+        "Beef and vegetable stew": {
+            "Instruction": "1. Brown 500g beef in a pot. 2. Add 1 chopped onion and 2 minced garlic cloves; saut\u00e9. 3. Stir in 3 chopped carrots, 2 chopped potatoes, and 1 bell pepper. 4. Pour in 4 cups beef broth and add 1 tsp thyme, salt, and pepper. 5. Simmer for 1.5 hours until beef is tender. 6. Serve hot.",
+            "Ingredients": [
+                [
+                    "beef",
+                    "500g"
+                ],
+                [
+                    "onion",
+                    "1 medium"
+                ],
+                [
+                    "garlic",
+                    "2 cloves"
+                ],
+                [
+                    "carrots",
+                    "3 medium"
+                ],
+                [
+                    "potatoes",
+                    "2 medium"
+                ],
+                [
+                    "bell pepper",
+                    "1 medium"
+                ],
+                [
+                    "beef broth",
+                    "4 cups"
+                ],
+                [
+                    "thyme",
+                    "1 tsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "45g"
+                ],
+                [
+                    "calories",
+                    "500kcal"
+                ],
+                [
+                    "fats",
+                    "20g"
+                ],
+                [
+                    "carbohydrates",
+                    "50g"
+                ],
+                [
+                    "fiber",
+                    "8g"
+                ],
+                [
+                    "vitamin A",
+                    "120% DV"
+                ],
+                [
+                    "vitamin C",
+                    "30% DV"
+                ],
+                [
+                    "iron",
+                    "25% DV"
+                ]
+            ]
+        },
+        "Rice crackers with tuna salad": {
+            "Instruction": "1. Drain the canned tuna. 2. In a bowl, mix tuna with Greek yogurt, diced celery, and lemon juice. 3. Season with salt and pepper. 4. Serve tuna salad on rice crackers.",
+            "Ingredients": [
+                [
+                    "canned tuna",
+                    "150g"
+                ],
+                [
+                    "Greek yogurt",
+                    "100g"
+                ],
+                [
+                    "celery",
+                    "50g"
+                ],
+                [
+                    "lemon juice",
+                    "1 tbsp"
+                ],
+                [
+                    "rice crackers",
+                    "6 pieces"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "34g"
+                ],
+                [
+                    "calories",
+                    "320kcal"
+                ],
+                [
+                    "fats",
+                    "10g"
+                ],
+                [
+                    "carbohydrates",
+                    "38g"
+                ],
+                [
+                    "fiber",
+                    "3g"
+                ],
+                [
+                    "vitamin C",
+                    "5mg"
+                ]
+            ]
+        },
+        "Roasted vegetables with chickpeas": {
+            "Instruction": "1. Preheat oven to 200\u00b0C [400\u00b0F]. 2. Chop vegetables into bite-sized pieces. 3. Rinse and drain chickpeas. 4. Toss vegetables and chickpeas with olive oil, salt, and pepper. 5. Spread on a baking sheet in a single layer. 6. Roast for 25-30 minutes, stirring halfway through. 7. Serve warm.",
+            "Ingredients": [
+                [
+                    "zucchini",
+                    "1 medium"
+                ],
+                [
+                    "bell pepper",
+                    "1 medium"
+                ],
+                [
+                    "carrot",
+                    "1 medium"
+                ],
+                [
+                    "red onion",
+                    "1 medium"
+                ],
+                [
+                    "chickpeas",
+                    "1 can [400g]"
+                ],
+                [
+                    "olive oil",
+                    "2 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "15g"
+                ],
+                [
+                    "calories",
+                    "350kcal"
+                ],
+                [
+                    "fats",
+                    "10g"
+                ],
+                [
+                    "carbohydrates",
+                    "55g"
+                ],
+                [
+                    "fiber",
+                    "12g"
+                ],
+                [
+                    "vitamin C",
+                    "70mg"
+                ],
+                [
+                    "iron",
+                    "3mg"
+                ]
+            ]
+        },
+        "Egg white omelette with mushrooms and peppers": {
+            "Instruction": "1. Whisk 4 egg whites in a bowl. 2. Saut\u00e9 1 cup of sliced mushrooms and 1/2 cup of diced bell peppers in a non-stick pan with a little cooking spray for 3-4 minutes. 3. Pour the egg whites over the vegetables. 4. Cook on medium heat until set, about 3-5 minutes. 5. Fold the omelette and serve.",
+            "Ingredients": [
+                [
+                    "egg whites",
+                    "4 large"
+                ],
+                [
+                    "mushrooms",
+                    "1 cup"
+                ],
+                [
+                    "bell peppers",
+                    "1/2 cup"
+                ],
+                [
+                    "cooking spray",
+                    "as needed"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "16g"
+                ],
+                [
+                    "calories",
+                    "120kcal"
+                ],
+                [
+                    "fats",
+                    "0g"
+                ],
+                [
+                    "carbohydrates",
+                    "8g"
+                ],
+                [
+                    "fiber",
+                    "2g"
+                ],
+                [
+                    "vitamin A",
+                    "20% DV"
+                ],
+                [
+                    "vitamin C",
+                    "80% DV"
+                ],
+                [
+                    "calcium",
+                    "2% DV"
+                ]
+            ]
+        },
+        "Fruit salad with yogurt": {
+            "Instruction": "1. Wash and chop fruits into bite-sized pieces. 2. In a bowl, combine the chopped fruits. 3. In a separate bowl, mix yogurt with honey [if desired]. 4. Pour yogurt mixture over the fruits. 5. Toss gently to combine. 6. Serve immediately or chill for 30 minutes.",
+            "Ingredients": [
+                [
+                    "apple",
+                    "1 medium"
+                ],
+                [
+                    "banana",
+                    "1 medium"
+                ],
+                [
+                    "strawberries",
+                    "100g"
+                ],
+                [
+                    "blueberries",
+                    "100g"
+                ],
+                [
+                    "grapes",
+                    "100g"
+                ],
+                [
+                    "plain yogurt",
+                    "200g"
+                ],
+                [
+                    "honey",
+                    "1 tbsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "14g"
+                ],
+                [
+                    "calories",
+                    "300kcal"
+                ],
+                [
+                    "fats",
+                    "5g"
+                ],
+                [
+                    "carbohydrates",
+                    "60g"
+                ],
+                [
+                    "fiber",
+                    "8g"
+                ],
+                [
+                    "vitamin C",
+                    "30mg"
+                ],
+                [
+                    "calcium",
+                    "200mg"
+                ]
+            ]
+        },
+        "Pasta primavera with whole wheat pasta": {
+            "Instruction": "1. Cook 200g whole wheat pasta according to package instructions. 2. In a large skillet, heat 2 tbsp olive oil over medium heat. 3. Add 1 chopped onion, 2 minced garlic cloves, and saut\u00e9 for 2-3 minutes. 4. Add 1 bell pepper, 1 zucchini, and 1 cup cherry tomatoes; cook for 5-7 minutes. 5. Toss in the cooked pasta, 1 tsp Italian seasoning, salt, and pepper to taste. 6. Serve hot, garnished with fresh basil if desired.",
+            "Ingredients": [
+                [
+                    "whole wheat pasta",
+                    "200g"
+                ],
+                [
+                    "olive oil",
+                    "2 tbsp"
+                ],
+                [
+                    "onion",
+                    "1 medium"
+                ],
+                [
+                    "garlic",
+                    "2 cloves"
+                ],
+                [
+                    "bell pepper",
+                    "1 medium"
+                ],
+                [
+                    "zucchini",
+                    "1 medium"
+                ],
+                [
+                    "cherry tomatoes",
+                    "1 cup"
+                ],
+                [
+                    "Italian seasoning",
+                    "1 tsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ],
+                [
+                    "fresh basil",
+                    "optional"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "13g"
+                ],
+                [
+                    "calories",
+                    "450kcal"
+                ],
+                [
+                    "fats",
+                    "14g"
+                ],
+                [
+                    "carbohydrates",
+                    "65g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin A",
+                    "20% DV"
+                ],
+                [
+                    "vitamin C",
+                    "30% DV"
+                ],
+                [
+                    "iron",
+                    "10% DV"
+                ]
+            ]
+        },
+        "Trail mix with nuts and seeds": {
+            "Instruction": "1. Measure out each ingredient. 2. Combine all ingredients in a large bowl. 3. Mix thoroughly until evenly distributed. 4. Store in an airtight container.",
+            "Ingredients": [
+                [
+                    "almonds",
+                    "100g"
+                ],
+                [
+                    "walnuts",
+                    "100g"
+                ],
+                [
+                    "pumpkin seeds",
+                    "50g"
+                ],
+                [
+                    "sunflower seeds",
+                    "50g"
+                ],
+                [
+                    "dried cranberries",
+                    "50g"
+                ],
+                [
+                    "dark chocolate chips",
+                    "30g"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "20g"
+                ],
+                [
+                    "calories",
+                    "600kcal"
+                ],
+                [
+                    "fats",
+                    "45g"
+                ],
+                [
+                    "carbohydrates",
+                    "50g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin E",
+                    "15mg"
+                ]
+            ]
+        },
+        "Grilled tilapia with mixed greens": {
+            "Instruction": "1. Preheat grill to medium-high heat. 2. Season tilapia with salt, pepper, and lemon juice. 3. Grill tilapia for 4-5 minutes on each side until cooked through. 4. Toss mixed greens with olive oil and vinegar. 5. Serve grilled tilapia on a bed of mixed greens.",
+            "Ingredients": [
+                [
+                    "tilapia fillet",
+                    "200g"
+                ],
+                [
+                    "mixed greens",
+                    "100g"
+                ],
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "lemon juice",
+                    "1 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ],
+                [
+                    "balsamic vinegar",
+                    "1 tsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "40g"
+                ],
+                [
+                    "calories",
+                    "350kcal"
+                ],
+                [
+                    "fats",
+                    "15g"
+                ],
+                [
+                    "carbohydrates",
+                    "10g"
+                ],
+                [
+                    "vitamin A",
+                    "2000IU"
+                ],
+                [
+                    "vitamin C",
+                    "30mg"
+                ]
+            ]
+        },
+        "Grilled chicken salad with mixed greens": {
+            "Instruction": "1. Preheat grill to medium-high heat. 2. Season chicken breasts with salt, pepper, and olive oil. 3. Grill chicken for 6-7 minutes per side until cooked through. 4. Let chicken rest for 5 minutes, then slice. 5. In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and avocado. 6. Top salad with grilled chicken slices. 7. Drizzle with balsamic vinaigrette and toss gently.",
+            "Ingredients": [
+                [
+                    "chicken breast",
+                    "200g"
+                ],
+                [
+                    "mixed greens",
+                    "100g"
+                ],
+                [
+                    "cherry tomatoes",
+                    "100g"
+                ],
+                [
+                    "cucumber",
+                    "50g"
+                ],
+                [
+                    "avocado",
+                    "50g"
+                ],
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "balsamic vinaigrette",
+                    "2 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "38g"
+                ],
+                [
+                    "calories",
+                    "450kcal"
+                ],
+                [
+                    "fats",
+                    "25g"
+                ],
+                [
+                    "carbohydrates",
+                    "30g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin A",
+                    "3000IU"
+                ],
+                [
+                    "vitamin C",
+                    "25mg"
+                ],
+                [
+                    "calcium",
+                    "80mg"
+                ],
+                [
+                    "iron",
+                    "2mg"
+                ]
+            ]
+        },
+        "Quinoa salad with black beans and corn": {
+            "Instruction": "1. Rinse 1 cup quinoa under cold water. 2. Cook quinoa in 2 cups water; bring to a boil, then simmer for 15 minutes. 3. In a bowl, combine 1 can [400g] black beans [rinsed], 1 cup corn [canned or frozen], and 1 diced bell pepper. 4. Add cooked quinoa to the bowl. 5. Mix in 2 tablespoons olive oil, juice of 1 lime, salt, and pepper. 6. Toss gently and serve chilled or at room temperature.",
+            "Ingredients": [
+                [
+                    "quinoa",
+                    "1 cup"
+                ],
+                [
+                    "black beans",
+                    "1 can [400g]"
+                ],
+                [
+                    "corn",
+                    "1 cup"
+                ],
+                [
+                    "bell pepper",
+                    "1"
+                ],
+                [
+                    "olive oil",
+                    "2 tablespoons"
+                ],
+                [
+                    "lime",
+                    "1"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "15g"
+                ],
+                [
+                    "calories",
+                    "350kcal"
+                ],
+                [
+                    "fats",
+                    "10g"
+                ],
+                [
+                    "carbohydrates",
+                    "55g"
+                ],
+                [
+                    "fiber",
+                    "12g"
+                ],
+                [
+                    "vitamin C",
+                    "40mg"
+                ],
+                [
+                    "iron",
+                    "3mg"
+                ]
+            ]
+        },
+        "Stir-fried tofu with vegetables": {
+            "Instruction": "1. Press tofu for 15 minutes to remove excess water. 2. Cut tofu into cubes. 3. Heat oil in a pan over medium heat. 4. Add tofu and fry until golden brown [about 5-7 minutes]. 5. Add chopped vegetables and stir-fry for another 5-7 minutes. 6. Season with soy sauce, garlic, and ginger. 7. Cook for an additional 2 minutes. 8. Serve hot.",
+            "Ingredients": [
+                [
+                    "tofu",
+                    "300g"
+                ],
+                [
+                    "mixed vegetables [bell peppers, broccoli, carrots]",
+                    "400g"
+                ],
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "soy sauce",
+                    "2 tbsp"
+                ],
+                [
+                    "garlic",
+                    "2 cloves"
+                ],
+                [
+                    "ginger",
+                    "1 tsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "28g"
+                ],
+                [
+                    "calories",
+                    "450kcal"
+                ],
+                [
+                    "fats",
+                    "20g"
+                ],
+                [
+                    "carbohydrates",
+                    "40g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin C",
+                    "60mg"
+                ]
+            ]
+        },
+        "Whole grain toast with avocado and poached egg": {
+            "Instruction": "1. Toast 2 slices of whole grain bread. 2. Mash 1 ripe avocado and season with salt and pepper. 3. Bring water to a simmer in a pot, add a splash of vinegar. 4. Crack 1 egg into a small bowl, then gently slide into the simmering water. 5. Poach for 3-4 minutes until whites are set. 6. Remove egg with a slotted spoon. 7. Spread mashed avocado on toast and top with poached egg. 8. Serve immediately.",
+            "Ingredients": [
+                [
+                    "whole grain bread",
+                    "2 slices"
+                ],
+                [
+                    "avocado",
+                    "1 medium"
+                ],
+                [
+                    "egg",
+                    "1 large"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ],
+                [
+                    "vinegar",
+                    "1 tsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "14g"
+                ],
+                [
+                    "calories",
+                    "350kcal"
+                ],
+                [
+                    "fats",
+                    "20g"
+                ],
+                [
+                    "carbohydrates",
+                    "30g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin E",
+                    "2.7mg"
+                ],
+                [
+                    "folate",
+                    "120mcg"
+                ]
+            ]
+        },
+        "Hard-boiled eggs with a side of grapes": {
+            "Instruction": "1. Place eggs in a pot and cover with water. 2. Bring water to a boil over medium heat. 3. Once boiling, cover pot and remove from heat. 4. Let sit for 9-12 minutes. 5. Transfer eggs to an ice bath for 5 minutes. 6. Peel and serve with grapes.",
+            "Ingredients": [
+                [
+                    "eggs",
+                    "2 large"
+                ],
+                [
+                    "grapes",
+                    "1 cup"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "12g"
+                ],
+                [
+                    "calories",
+                    "140kcal"
+                ],
+                [
+                    "fats",
+                    "10g"
+                ],
+                [
+                    "carbohydrates",
+                    "15g"
+                ],
+                [
+                    "vitamin A",
+                    "270IU"
+                ],
+                [
+                    "vitamin C",
+                    "10mg"
+                ]
+            ]
+        },
+        "Turkey and vegetable stir-fry": {
+            "Instruction": "1. Heat 1 tbsp of oil in a large pan over medium heat. 2. Add 500g of sliced turkey breast and cook until browned. 3. Add 2 cups of mixed vegetables [bell peppers, broccoli, carrots] and stir-fry for 5-7 minutes. 4. Stir in 2 tbsp of soy sauce and cook for another 2 minutes. 5. Serve hot.",
+            "Ingredients": [
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "turkey breast",
+                    "500g"
+                ],
+                [
+                    "bell peppers",
+                    "1 cup"
+                ],
+                [
+                    "broccoli",
+                    "1 cup"
+                ],
+                [
+                    "carrots",
+                    "1 cup"
+                ],
+                [
+                    "soy sauce",
+                    "2 tbsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "65g"
+                ],
+                [
+                    "calories",
+                    "450kcal"
+                ],
+                [
+                    "fats",
+                    "15g"
+                ],
+                [
+                    "carbohydrates",
+                    "30g"
+                ],
+                [
+                    "fiber",
+                    "8g"
+                ],
+                [
+                    "vitamin A",
+                    "200% DV"
+                ],
+                [
+                    "vitamin C",
+                    "150% DV"
+                ]
+            ]
+        },
+        "Baked chicken breast with sweet potatoes": {
+            "Instruction": "1. Preheat oven to 200\u00b0C [400\u00b0F]. 2. Season chicken breasts with salt, pepper, and olive oil. 3. Peel and cube sweet potatoes, toss with olive oil, salt, and paprika. 4. Place chicken and sweet potatoes on a baking sheet. 5. Bake for 25-30 minutes until chicken is cooked [internal temp 75\u00b0C/165\u00b0F] and sweet potatoes are tender. 6. Let rest for 5 minutes before serving.",
+            "Ingredients": [
+                [
+                    "chicken breast",
+                    "400g"
+                ],
+                [
+                    "sweet potatoes",
+                    "300g"
+                ],
+                [
+                    "olive oil",
+                    "2 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ],
+                [
+                    "paprika",
+                    "1 tsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "54g"
+                ],
+                [
+                    "calories",
+                    "480kcal"
+                ],
+                [
+                    "fats",
+                    "15g"
+                ],
+                [
+                    "carbohydrates",
+                    "60g"
+                ],
+                [
+                    "fiber",
+                    "8g"
+                ],
+                [
+                    "vitamin A",
+                    "19200IU"
+                ],
+                [
+                    "vitamin C",
+                    "30mg"
+                ]
+            ]
+        },
+        "Cucumber slices with tzatziki": {
+            "Instruction": "1. Peel and slice the cucumber into thin rounds. 2. In a bowl, mix Greek yogurt, minced garlic, lemon juice, chopped dill, salt, and pepper. 3. Serve cucumber slices with tzatziki sauce on the side.",
+            "Ingredients": [
+                [
+                    "cucumber",
+                    "1 medium"
+                ],
+                [
+                    "Greek yogurt",
+                    "200g"
+                ],
+                [
+                    "garlic",
+                    "1 clove"
+                ],
+                [
+                    "lemon juice",
+                    "1 tbsp"
+                ],
+                [
+                    "fresh dill",
+                    "1 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "10g"
+                ],
+                [
+                    "calories",
+                    "150kcal"
+                ],
+                [
+                    "fats",
+                    "5g"
+                ],
+                [
+                    "carbohydrates",
+                    "15g"
+                ],
+                [
+                    "fiber",
+                    "2g"
+                ],
+                [
+                    "vitamin C",
+                    "8mg"
+                ],
+                [
+                    "calcium",
+                    "100mg"
+                ]
+            ]
+        },
+        "Vegetable soup with whole grain bread": {
+            "Instruction": "1. Chop vegetables [carrots, celery, onion, garlic]. 2. Heat olive oil in a pot, saut\u00e9 onion and garlic until translucent. 3. Add carrots and celery, cook for 5 minutes. 4. Pour in vegetable broth, add diced tomatoes, and season with salt, pepper, and herbs. 5. Simmer for 20 minutes. 6. Serve hot with whole grain bread.",
+            "Ingredients": [
+                [
+                    "carrots",
+                    "2 medium"
+                ],
+                [
+                    "celery",
+                    "2 stalks"
+                ],
+                [
+                    "onion",
+                    "1 medium"
+                ],
+                [
+                    "garlic",
+                    "2 cloves"
+                ],
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "vegetable broth",
+                    "4 cups"
+                ],
+                [
+                    "diced tomatoes",
+                    "1 can"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ],
+                [
+                    "mixed herbs",
+                    "1 tsp"
+                ],
+                [
+                    "whole grain bread",
+                    "2 slices"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "10g"
+                ],
+                [
+                    "calories",
+                    "300kcal"
+                ],
+                [
+                    "fats",
+                    "8g"
+                ],
+                [
+                    "carbohydrates",
+                    "50g"
+                ],
+                [
+                    "fiber",
+                    "12g"
+                ],
+                [
+                    "vitamin A",
+                    "200% DV"
+                ],
+                [
+                    "vitamin C",
+                    "40% DV"
+                ]
+            ]
+        },
+        "Pancakes made with whole wheat flour and blueberries": {
+            "Instruction": "1. In a bowl, mix 1 cup whole wheat flour, 2 tbsp sugar, 1 tbsp baking powder, and a pinch of salt. 2. In another bowl, whisk 1 cup milk, 1 egg, and 2 tbsp melted butter. 3. Combine wet and dry ingredients until just mixed. 4. Fold in 1 cup blueberries. 5. Heat a non-stick skillet over medium heat. 6. Pour 1/4 cup batter for each pancake. 7. Cook until bubbles form, then flip and cook until golden brown.",
+            "Ingredients": [
+                [
+                    "whole wheat flour",
+                    "120g"
+                ],
+                [
+                    "sugar",
+                    "30g"
+                ],
+                [
+                    "baking powder",
+                    "15g"
+                ],
+                [
+                    "salt",
+                    "1g"
+                ],
+                [
+                    "milk",
+                    "240ml"
+                ],
+                [
+                    "egg",
+                    "1 large"
+                ],
+                [
+                    "butter",
+                    "30g"
+                ],
+                [
+                    "blueberries",
+                    "150g"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "14g"
+                ],
+                [
+                    "calories",
+                    "480kcal"
+                ],
+                [
+                    "fats",
+                    "18g"
+                ],
+                [
+                    "carbohydrates",
+                    "70g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "sugar",
+                    "15g"
+                ],
+                [
+                    "vitamin C",
+                    "10mg"
+                ]
+            ]
+        },
+        "Beef and vegetable kebabs": {
+            "Instruction": "1. Cut beef into 1-inch cubes. 2. Chop vegetables into similar-sized pieces. 3. Marinate beef and vegetables in olive oil, garlic, salt, and pepper for at least 30 minutes. 4. Preheat grill to medium-high. 5. Thread beef and vegetables onto skewers. 6. Grill for 10-15 minutes, turning occasionally, until beef is cooked through. 7. Serve hot.",
+            "Ingredients": [
+                [
+                    "beef [sirloin or tenderloin]",
+                    "500g"
+                ],
+                [
+                    "bell peppers",
+                    "2 medium"
+                ],
+                [
+                    "zucchini",
+                    "1 medium"
+                ],
+                [
+                    "red onion",
+                    "1 medium"
+                ],
+                [
+                    "olive oil",
+                    "2 tbsp"
+                ],
+                [
+                    "garlic [minced]",
+                    "2 cloves"
+                ],
+                [
+                    "salt",
+                    "1 tsp"
+                ],
+                [
+                    "black pepper",
+                    "1/2 tsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "40g"
+                ],
+                [
+                    "calories",
+                    "500kcal"
+                ],
+                [
+                    "fats",
+                    "25g"
+                ],
+                [
+                    "carbohydrates",
+                    "20g"
+                ],
+                [
+                    "fiber",
+                    "4g"
+                ],
+                [
+                    "vitamin C",
+                    "80mg"
+                ],
+                [
+                    "iron",
+                    "3mg"
+                ]
+            ]
+        },
+        "Popcorn with a sprinkle of salt": {
+            "Instruction": "1. Heat a pot over medium heat. 2. Add 1/4 cup of popcorn kernels. 3. Cover the pot and wait for popping sounds. 4. Once popping slows, remove from heat. 5. Sprinkle with salt to taste. 6. Serve immediately.",
+            "Ingredients": [
+                [
+                    "popcorn kernels",
+                    "1/4 cup"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "3g"
+                ],
+                [
+                    "calories",
+                    "120kcal"
+                ],
+                [
+                    "fats",
+                    "1g"
+                ],
+                [
+                    "carbohydrates",
+                    "24g"
+                ],
+                [
+                    "fiber",
+                    "4g"
+                ],
+                [
+                    "sodium",
+                    "200mg"
+                ]
+            ]
+        },
+        "Chia seed pudding with almond milk and berries": {
+            "Instruction": "1. In a bowl, combine 1/4 cup chia seeds and 1 cup almond milk. 2. Stir well and let sit for 5 minutes. 3. Stir again to prevent clumping. 4. Refrigerate for at least 2 hours or overnight. 5. Serve topped with 1/2 cup mixed berries.",
+            "Ingredients": [
+                [
+                    "chia seeds",
+                    "1/4 cup"
+                ],
+                [
+                    "almond milk",
+                    "1 cup"
+                ],
+                [
+                    "mixed berries",
+                    "1/2 cup"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "6g"
+                ],
+                [
+                    "calories",
+                    "210kcal"
+                ],
+                [
+                    "fats",
+                    "9g"
+                ],
+                [
+                    "carbohydrates",
+                    "30g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin C",
+                    "15% DV"
+                ]
+            ]
+        },
+        "Sliced turkey with cheese": {
+            "Instruction": "1. Slice turkey breast into thin pieces. 2. Place a slice of cheese on each turkey slice. 3. Roll the turkey around the cheese. 4. Secure with a toothpick if necessary. 5. Serve cold or warm in a skillet for a few minutes.",
+            "Ingredients": [
+                [
+                    "turkey breast",
+                    "200g"
+                ],
+                [
+                    "cheese [low-fat]",
+                    "50g"
+                ],
+                [
+                    "black pepper",
+                    "to taste"
+                ],
+                [
+                    "olive oil",
+                    "1 tsp"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "45g"
+                ],
+                [
+                    "calories",
+                    "350kcal"
+                ],
+                [
+                    "fats",
+                    "15g"
+                ],
+                [
+                    "carbohydrates",
+                    "2g"
+                ],
+                [
+                    "vitamin A",
+                    "10% DV"
+                ],
+                [
+                    "calcium",
+                    "20% DV"
+                ]
+            ]
+        },
+        "Lentil salad with cherry tomatoes and cucumbers": {
+            "Instruction": "1. Rinse 1 cup of lentils under cold water. 2. Cook lentils in 3 cups of water for 20-25 minutes until tender. 3. Chop 1 cup of cherry tomatoes and 1 cucumber. 4. In a bowl, combine cooked lentils, tomatoes, and cucumber. 5. Drizzle with 2 tbsp olive oil and 1 tbsp lemon juice. 6. Season with salt and pepper to taste. 7. Serve chilled or at room temperature.",
+            "Ingredients": [
+                [
+                    "lentils",
+                    "1 cup"
+                ],
+                [
+                    "cherry tomatoes",
+                    "1 cup"
+                ],
+                [
+                    "cucumber",
+                    "1"
+                ],
+                [
+                    "olive oil",
+                    "2 tbsp"
+                ],
+                [
+                    "lemon juice",
+                    "1 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "18g"
+                ],
+                [
+                    "calories",
+                    "350kcal"
+                ],
+                [
+                    "fats",
+                    "16g"
+                ],
+                [
+                    "carbohydrates",
+                    "40g"
+                ],
+                [
+                    "fiber",
+                    "15g"
+                ],
+                [
+                    "vitamin C",
+                    "30mg"
+                ]
+            ]
+        },
+        "Rice crackers with guacamole": {
+            "Instruction": "1. Mash 2 ripe avocados in a bowl. 2. Add 1 lime juice, 1 diced tomato, 1/4 chopped onion, and salt to taste. 3. Mix until well combined. 4. Serve guacamole with rice crackers.",
+            "Ingredients": [
+                [
+                    "ripe avocados",
+                    "2"
+                ],
+                [
+                    "lime",
+                    "1"
+                ],
+                [
+                    "tomato",
+                    "1"
+                ],
+                [
+                    "onion",
+                    "1/4"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "rice crackers",
+                    "100g"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "6g"
+                ],
+                [
+                    "calories",
+                    "450kcal"
+                ],
+                [
+                    "fats",
+                    "30g"
+                ],
+                [
+                    "carbohydrates",
+                    "40g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin C",
+                    "15mg"
+                ]
+            ]
+        },
+        "Baked cod with green beans": {
+            "Instruction": "1. Preheat oven to 200\u00b0C [400\u00b0F]. 2. Place cod fillets on a baking sheet. 3. Drizzle with olive oil, lemon juice, salt, and pepper. 4. Bake for 15-20 minutes until cooked through. 5. Steam green beans for 5-7 minutes until tender. 6. Serve cod with green beans on the side.",
+            "Ingredients": [
+                [
+                    "cod fillets",
+                    "400g"
+                ],
+                [
+                    "olive oil",
+                    "2 tbsp"
+                ],
+                [
+                    "lemon juice",
+                    "1 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ],
+                [
+                    "green beans",
+                    "200g"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "50g"
+                ],
+                [
+                    "calories",
+                    "450kcal"
+                ],
+                [
+                    "fats",
+                    "20g"
+                ],
+                [
+                    "carbohydrates",
+                    "20g"
+                ],
+                [
+                    "vitamin C",
+                    "15mg"
+                ],
+                [
+                    "omega-3 fatty acids",
+                    "2g"
+                ]
+            ]
+        },
+        "Egg and vegetable frittata": {
+            "Instruction": "1. Preheat oven to 180\u00b0C [350\u00b0F]. 2. Whisk 6 eggs in a bowl. 3. Saut\u00e9 1 chopped onion and 1 bell pepper in a skillet for 5 minutes. 4. Add 1 cup spinach and cook until wilted. 5. Pour eggs over vegetables, season with salt and pepper. 6. Cook on stovetop for 2-3 minutes until edges set. 7. Transfer skillet to oven and bake for 15-20 minutes until firm. 8. Slice and serve.",
+            "Ingredients": [
+                [
+                    "eggs",
+                    "6"
+                ],
+                [
+                    "onion",
+                    "1"
+                ],
+                [
+                    "bell pepper",
+                    "1"
+                ],
+                [
+                    "spinach",
+                    "1 cup"
+                ],
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "36g"
+                ],
+                [
+                    "calories",
+                    "360kcal"
+                ],
+                [
+                    "fats",
+                    "24g"
+                ],
+                [
+                    "carbohydrates",
+                    "18g"
+                ],
+                [
+                    "vitamin A",
+                    "1800IU"
+                ],
+                [
+                    "vitamin C",
+                    "60mg"
+                ]
+            ]
+        },
+        "Pasta with marinara sauce and grilled chicken": {
+            "Instruction": "1. Cook pasta according to package instructions. 2. While pasta cooks, grill chicken until cooked through, then slice. 3. Heat marinara sauce in a pan. 4. Drain pasta and combine with marinara sauce. 5. Serve pasta topped with grilled chicken.",
+            "Ingredients": [
+                [
+                    "pasta",
+                    "200g"
+                ],
+                [
+                    "marinara sauce",
+                    "200g"
+                ],
+                [
+                    "chicken breast",
+                    "200g"
+                ],
+                [
+                    "olive oil",
+                    "1 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ],
+                [
+                    "parmesan cheese",
+                    "optional, for serving"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "58g"
+                ],
+                [
+                    "calories",
+                    "700kcal"
+                ],
+                [
+                    "fats",
+                    "18g"
+                ],
+                [
+                    "carbohydrates",
+                    "90g"
+                ],
+                [
+                    "fiber",
+                    "5g"
+                ],
+                [
+                    "sodium",
+                    "800mg"
+                ],
+                [
+                    "vitamin A",
+                    "10% DV"
+                ],
+                [
+                    "vitamin C",
+                    "5% DV"
+                ]
+            ]
+        },
+        "Trail mix with seeds and nuts": {
+            "Instruction": "1. Measure 1 cup of mixed nuts [almonds, walnuts, cashews]. 2. Measure 1/2 cup of seeds [pumpkin, sunflower]. 3. Combine nuts and seeds in a bowl. 4. Optionally, add 1/4 cup of dried fruit [raisins, cranberries] for sweetness. 5. Mix well and store in an airtight container.",
+            "Ingredients": [
+                [
+                    "mixed nuts",
+                    "1 cup"
+                ],
+                [
+                    "pumpkin seeds",
+                    "1/2 cup"
+                ],
+                [
+                    "sunflower seeds",
+                    "1/2 cup"
+                ],
+                [
+                    "dried fruit",
+                    "1/4 cup"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "20g"
+                ],
+                [
+                    "calories",
+                    "600kcal"
+                ],
+                [
+                    "fats",
+                    "45g"
+                ],
+                [
+                    "carbohydrates",
+                    "45g"
+                ],
+                [
+                    "fiber",
+                    "8g"
+                ],
+                [
+                    "vitamin E",
+                    "10mg"
+                ],
+                [
+                    "magnesium",
+                    "200mg"
+                ]
+            ]
+        },
+        "Roasted chicken with mixed vegetables": {
+            "Instruction": "1. Preheat oven to 200\u00b0C [400\u00b0F]. 2. Season chicken with salt, pepper, and herbs. 3. Chop mixed vegetables [carrots, bell peppers, zucchini]. 4. Place chicken in a roasting pan, surround with vegetables. 5. Drizzle olive oil over chicken and vegetables. 6. Roast for 1 hour or until chicken is cooked through. 7. Let rest for 10 minutes before serving.",
+            "Ingredients": [
+                [
+                    "chicken",
+                    "1 kg"
+                ],
+                [
+                    "carrots",
+                    "200g"
+                ],
+                [
+                    "bell peppers",
+                    "200g"
+                ],
+                [
+                    "zucchini",
+                    "200g"
+                ],
+                [
+                    "olive oil",
+                    "2 tbsp"
+                ],
+                [
+                    "salt",
+                    "to taste"
+                ],
+                [
+                    "pepper",
+                    "to taste"
+                ],
+                [
+                    "herbs",
+                    "to taste"
+                ]
+            ],
+            "Nutrients": [
+                [
+                    "protein",
+                    "80g"
+                ],
+                [
+                    "calories",
+                    "950kcal"
+                ],
+                [
+                    "fats",
+                    "50g"
+                ],
+                [
+                    "carbohydrates",
+                    "40g"
+                ],
+                [
+                    "fiber",
+                    "10g"
+                ],
+                [
+                    "vitamin A",
+                    "150% DV"
+                ],
+                [
+                    "vitamin C",
+                    "90% DV"
+                ]
+            ]
+        }
+    }
+}

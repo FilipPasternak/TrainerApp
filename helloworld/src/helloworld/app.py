@@ -14,9 +14,10 @@ from helloworld.features.data_page.user_data_page import UserDataPage
 from helloworld.features.place_page.user_place_page import UserPlacePage
 from helloworld.features.gear_page.user_gear_page import UserGearPage
 from helloworld.features.goal_page.user_goal_page import UserGoalPage
-from helloworld.features.training_plan_page.training_plan_page import GeneratePlanPage, ExercisesPage
+from helloworld.features.training_plan_page.training_plan_page import GeneratePlanPage
 from helloworld.features.start_page.start_page import StartPage
 from helloworld.features.settings_page.settings_page import SettingsPage
+from helloworld.features.training_assistant_page.training_assistant_page import AssistantPage
 
 
 
@@ -50,6 +51,7 @@ class HelloWorld(MDApp):
         Builder.load_file(os.path.join(app_directory, 'features', 'goal_page', 'user_goal_page.kv'))
         Builder.load_file(os.path.join(app_directory, 'features', 'place_page', 'user_place_page.kv'))
         Builder.load_file(os.path.join(app_directory, 'features', 'settings_page', 'settings_page.kv'))
+        Builder.load_file(os.path.join(app_directory, 'features', 'training_assistant_page', 'training_assistant_page.kv'))
 
         screen_manager.add_widget(DevPage(name='dev_page', path=app_directory))
         screen_manager.add_widget(StartPage(name='start_page', path=app_directory))
@@ -59,8 +61,8 @@ class HelloWorld(MDApp):
         screen_manager.add_widget(UserGoalPage(name='goal_page', path=app_directory))
         screen_manager.add_widget(UserDataPage(name='data_page', path=app_directory))
         screen_manager.add_widget(GeneratePlanPage(name='generate_plan', path=app_directory))
-        screen_manager.add_widget(ExercisesPage(name='exercises', path=app_directory))
         screen_manager.add_widget(SettingsPage(name='settings_page', path=app_directory))
+        screen_manager.add_widget(AssistantPage(name='assistant_page', path=app_directory))
 
 
 def main():

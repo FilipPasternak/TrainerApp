@@ -5,7 +5,8 @@ from kivymd.uix.button import MDRaisedButton
 from kivy.metrics import dp
 from kivymd.uix.menu import MDDropdownMenu
 from kivy.uix.widget import Widget
-from kivy.graphics import Color, Rectangle
+from kivy.graphics import Triangle, Color, Rectangle
+from kivy.uix.behaviors import ButtonBehavior
 
 class ToggleButton(MDToggleButton, MDRectangleFlatButton):
     def __init__(self, **kwargs):
@@ -59,3 +60,36 @@ def dropdown(caller, items_list):
     )
 
     return menu
+
+
+class TriangleButton(ButtonBehavior, Widget):
+    def __init__(self, vertices, on_release, **kwargs):
+        super(TriangleButton, self).__init__(**kwargs)
+        self.vertices = vertices #[x1, y1, x2, y2, x3, y3]
+
+        x_coords = vertices[::2]
+        y_coords = vertices[1::2]
+        min_x, max_x = min(x_coords), max(x_coords)
+        min_y, max_y = min(y_coords), max(y_coords)
+        self.pos = (min_x, min_y)
+        self.size = (max_x - min_x, max_y - min_y)
+
+        self.opacity = 0
+        # with self.canvas:
+        #     self.color = Color(0, 1, 0, 1)
+        #     self.triangle = Triangle(points=self.vertices)
+        self.on_release = on_release
+
+    def collide_point(self, x, y):
+        return self.point_in_triangle((x, y), self.vertices)
+
+    def point_in_triangle(self, pt, tri_points):
+        def sign(p1, p2, p3):
+            return (p1[0] - p3[0]) * (p2[1] - p3[1]) - (p2[0] - p3[0]) * (p1[1] - p3[1])
+
+        x1, y1, x2, y2, x3, y3 = tri_points
+        b1 = sign(pt, (x1, y1), (x2, y2)) < 0.0
+        b2 = sign(pt, (x2, y2), (x3, y3)) < 0.0
+        b3 = sign(pt, (x3, y3), (x1, y1)) < 0.0
+
+        return (b1 == b2) and (b2 == b3)

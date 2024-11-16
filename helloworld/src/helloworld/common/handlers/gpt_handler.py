@@ -1,6 +1,6 @@
 import json
 import os.path
-
+from datetime import datetime
 from openai import OpenAI
 
 
@@ -38,6 +38,9 @@ class GptClient:
             if '\n\n' in response_splited[i]:
                 response_splited[i] = response_splited[i].split('\n\n')[0]
 
+        if len(response_splited) != 5:
+            return self.generate_exercise_details(exercise, equipment)
+
         details['Equipment'] = response_splited[0]
         details['Description'] = response_splited[1]
         details['Intensity'] = response_splited[2]
@@ -53,6 +56,7 @@ class GptClient:
         exercise_plan_response = self.chat(system=exercise_plan_system, user=exercise_plan_user)
 
         workout_plan = self.parse_workout_plan(exercise_plan_response, day_layout_response)
+        workout_plan['Date'] = datetime.today().strftime('%Y-%m-%d')
         json_path = os.path.join(self.path, 'storage', 'workout_plan.json')
         with open(json_path, 'w') as file:
             json.dump(workout_plan, file, indent=4)
@@ -137,9 +141,68 @@ class GptClient:
         user_prompt, system_prompt = self.get_exercise_details_prompt(exercise, equipment)
         return self.chat(user_prompt, system_prompt)
 
+    def generate_diet(self, data):
+        user, system = self.get_diet_plan_prompt(data)
+        response = self.chat(user, system)
+        response_dict = self.parse_dict_response(response)
+
+        recipes_path = os.path.join(self.path, 'storage', 'recipes.json')
+        diet_path = os.path.join(self.path, 'storage', 'diet.json')
+        with open(recipes_path, 'r') as file:
+            existing_recipes = json.load(file)
+
+        for day in response_dict:
+            for dish in response_dict[day]:
+                if dish not in existing_recipes['Recipes'].keys():
+                    user_details, system_details = self.get_dish_details_prompt(data, dish)
+                    details_dict = None
+                    while details_dict is None:
+                        details_response = self.chat(user_details, system_details)
+                        details_dict = self.parse_dict_response(details_response)
+                    existing_recipes['Recipes'][dish] = details_dict
+
+        with open(recipes_path, 'w') as file:
+            json.dump(existing_recipes, file, indent=4)
+
+        with open(diet_path, 'w') as file:
+            json.dump(response_dict, file, indent=4)
+
+
+    def parse_dict_response(self, response):
+        response = response.strip("```python\n").rstrip("\n```").strip('\n')
+        response = response.replace("(", "[").replace(")", "]").replace("'", "\"")
+
+        try:
+            diet_plan = json.loads(response)
+            return diet_plan
+        except json.JSONDecodeError as e:
+            print(f"Error parsing JSON: {e}")
+            return None
+
+
+    def generate_training(self, plan, day, descriptions):
+        training_details = {}
+        for workout_name, exercises_str in plan[day].items():
+            exercises_list = [exercise.strip() for exercise in exercises_str.split(',')]
+            for exercise in exercises_list:
+                training_details[exercise] = {}
+                system, user = self.get_training_mode_prompt(exercise, descriptions[exercise]["Equipment"])
+                response = self.chat(user, system)
+                response_listed = response.split('|')
+                training_details[exercise]['Series'] = response_listed[0].split('x')[0]
+                training_details[exercise]['Reps'] = response_listed[0].split('x')[1]
+                training_details[exercise]['Rest'] = response_listed[1]
+                training_details[exercise]['Weight'] = response_listed[2]
+                training_details[exercise]['Series time'] = response_listed[3]
+
+        return training_details
+
+
+
     @staticmethod
     def get_exercise_details_prompt(exercise, equipment):
-        user_prompt = f"Provide a concise description for the exercise: {exercise} using: {equipment}."
+        user_prompt = f"Provide a concise description for the exercise: {exercise} using: {equipment}." \
+                      f"**Choose only one piece of equipment from list**"
         system_prompt = """
         You are a fitness expert who provides concise and clear exercise descriptions for a mobile app. 
         Your descriptions should be professional and easy to understand. 
@@ -231,10 +294,117 @@ class GptClient:
 
         return exercise_plan_system, exercise_plan_user
 
+    def get_diet_plan_prompt(self, data):
+        diet_plan_user = f'''
+        User details:
+        - Gender: {data['Sex']}
+        - Age: {data['Age']}
+        - Weight: {data['Weight']}kg
+        - Height: {data['Height']}cm
+        - User goal: {data['Goal']}
+        Generate full 5 meals a day diet for provided user. Write it in form of python dictionary using this format:
+        {'{ day_name: [dish name for breafast, dish name for 2nd breakfast ...]}'}.
+        For each day prepare one easy to do at home dish for each of 5 meals, that is: Breakfast, 2dn Breakfast, DInner, Snack, Supper.
+        Do not include names of the meals just the dishes. 
+        Generate diet for all days in week.
+        * DO NOT INCLUDE ANY OTHER ADDITIONAL COMMENTS, REPLIES OR ANYTHING THAT IS NOT THIS DICTIONARY *
+                * IMPORTANT Use double quotes *
+
+        '''
+
+        diet_plan_system = f'''
+        You are professional sport diet expert. You are to provide fully nutritious meals to meet user needs.
+        You stick to more traditional diets, not over-using the almond milk and other modern things
+        '''
+        return diet_plan_user, diet_plan_system
+
+    def get_dish_details_prompt(self, data, dish):
+        response_format = {
+            'Instruction': 'Instructions provided by you',
+            'Ingredients': 'List of tuples, eg. (flour, 400g), (chicken 400g)',
+            'Nutrients': 'List of tuples, eg. (protein, 20g), (calories, 440kcal)'
+        }
+        dish_details_user = f'''
+       User details:
+        - Gender: {data['Sex']}
+        - Age: {data['Age']}
+        - Weight: {data['Weight']}kg
+        - Height: {data['Height']}cm
+        - User goal: {data['Goal']}
+        For provided user, prepare step by step instruction for preparing this dish.
+        Prepare how much of those ingredients is needed, and how many nutrients it would be.
+        For instructions be very concise and include only most important informations.
+        All those details must be provided in form of python dictionary.
+        Follow this format:
+        {response_format}
+        Include more of the most important nutrients that I provided you with this example.
+        * IMPORTANT Use double quotes *
+        '''
+
+        dish_details_system = f"""
+        You are an expert culinary assistant specializing in nutrition and meal preparation. 
+        Your task is to generate a concise and detailed breakdown for the preparation of the dish '{dish}' based on user information provided.
+
+        Details to include:
+        - Step-by-step **Instructions**: Write these concisely, highlighting only the essential steps for preparing the dish.
+        - **Ingredients**: Provide a list of ingredients in tuples, each containing the ingredient name and quantity. 
+        - **Nutrients**: Include a list of nutrient tuples, focusing on important dietary values such as protein, calories, fats, carbohydrates, and vitamins.
+        """
+
+        return dish_details_user, dish_details_system
+
+
+    @staticmethod
+    def get_training_mode_prompt(exercise, equipment):
+        system_prompt = '''
+                    You are a professional personal trainer.
+                    
+                    Based on the provided exercise name and available equipment, provide specific information on how the exercise should be executed.
+                    
+                    **Instructions:**
+                    
+                    - **Response Format:** Your response must adhere **exactly** to the following format:
+                    (series)x(reps or time)|(rest between series)|(suggested weight or 'None')|(average time per series)
+                    - **Series and Repetitions:**
+                    - For repetition-based exercises: Use the format `(number of series)x(number of reps)`.
+                      - Example: `3x12`
+                    - For time-based exercises: Use the format `(number of series)x(time in seconds)`.
+                      - Example: `3x60s`
+                    
+                    - **Rest Between Series:**
+                    - Specify the rest time between series in seconds, followed by `s`.
+                      - Example: `30s`
+                    
+                    - **Suggested Weight:**
+                    - If the exercise involves machines or free weights, include the suggested weight followed by the unit (e.g., `kg`).
+                      - Example: `20kg`
+                    - If no weight is involved, write `None`.
+                    
+                    - **Average Time per Series:**
+                    - Provide the average time for one series in seconds, followed by `s`.
+                      - Example: `60s`
+                    
+                    - **Example Response:**
+                    3x8|30s|25kg|60s
+                    
+                    **Important:**
+                    
+                    - **Do not include** any additional text, explanations, or salutations.
+                    - **Only output** the required information in the specified format.
+
+                '''
+
+        user_prompt = f'''
+        Exercise: {exercise}
+        Equipment available: {equipment}
+        '''
+
+        return user_prompt, system_prompt
+
+
 # with open(r'C:\Users\revte\Desktop\Inzynierka\helloworld\src\helloworld\storage\user_data.json', 'r') as file:
 #     data = json.load(file)
 #
 # client = GptClient(r'C:\Users\revte\Desktop\Inzynierka\helloworld\src\helloworld')
-# plan = client.generate_plan(data)
-#
+# client.generate_diet(data)
 # dupa = 1

@@ -1,0 +1,51 @@
+{
+    "Monday": [
+        "Oatmeal with banana and honey",
+        "Greek yogurt with mixed berries",
+        "Grilled chicken salad with mixed greens",
+        "Carrot sticks with hummus",
+        "Baked salmon with steamed broccoli"
+    ],
+    "Tuesday": [
+        "Scrambled eggs with spinach and tomatoes",
+        "Cottage cheese with pineapple",
+        "Quinoa salad with black beans and corn",
+        "Apple slices with peanut butter",
+        "Stir-fried tofu with vegetables"
+    ],
+    "Wednesday": [
+        "Whole grain toast with avocado and poached egg",
+        "Hard-boiled eggs with a side of grapes",
+        "Turkey and vegetable stir-fry",
+        "Celery sticks with cream cheese",
+        "Grilled shrimp with asparagus"
+    ],
+    "Thursday": [
+        "Smoothie with spinach, banana, and yogurt",
+        "Rice cakes with almond butter",
+        "Baked chicken breast with sweet potatoes",
+        "Cucumber slices with tzatziki",
+        "Vegetable soup with whole grain bread"
+    ],
+    "Friday": [
+        "Pancakes made with whole wheat flour and blueberries",
+        "Mixed nuts and dried fruit",
+        "Beef and vegetable kebabs",
+        "Popcorn with a sprinkle of salt",
+        "Roasted chicken with mixed vegetables"
+    ],
+    "Saturday": [
+        "Chia seed pudding with almond milk and berries",
+        "Sliced turkey with cheese",
+        "Lentil salad with cherry tomatoes and cucumbers",
+        "Rice crackers with guacamole",
+        "Baked cod with green beans"
+    ],
+    "Sunday": [
+        "Egg and vegetable frittata",
+        "Fruit salad with yogurt",
+        "Pasta with marinara sauce and grilled chicken",
+        "Trail mix with seeds and nuts",
+        "Roasted chicken with mixed vegetables"
+    ]
+}

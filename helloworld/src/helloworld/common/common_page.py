@@ -10,6 +10,7 @@ class CommonPage(MDScreen):
         self.next_page = None
         self.path = path
         self.gpt_client = GptClient(self.path)
+        self.selected_training_day = None
 
     def save_user_data_and_proceed(self):
         user_data_dict = self.read_json_file('user_data.json')
@@ -44,8 +45,20 @@ class CommonPage(MDScreen):
             return stored_dict
 
     def read_json_file(self, filename: str):
-        with open(os.path.join(self.path, 'storage', filename), 'r') as file:
-            return json.load(file)
+        file_path = os.path.join(self.path, 'storage', filename)
+
+        if os.path.getsize(file_path) == 0:
+            return None
+        with open(file_path, 'r') as file:
+            data = json.load(file)
+            if not data:
+                return None
+            return data
+
+    def replace_json_file_data(self, filename, new_data):
+        file_path = os.path.join(self.path, 'storage', filename)
+        with open(file_path, 'w') as file:
+            json.dump(new_data, file, indent=4)
 
     def add_new_exercise(self, exercise, category, details, place):
         json_files = {
@@ -104,3 +117,5 @@ class CommonPage(MDScreen):
     def go_to_settings_page(self, *args):
         self.manager.current = 'settings_page'
 
+    def go_to_training_assistant_page(self, *args):
+        self.manager.current = 'assistant_page'
